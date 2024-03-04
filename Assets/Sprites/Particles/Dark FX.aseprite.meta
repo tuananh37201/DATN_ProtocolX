@@ -1,0 +1,4048 @@
+fileFormatVersion: 2
+guid: 609b63470bfbbc8449fc5fef89b324de
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638451804981816689
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Dark FX_Frame_0
+    originalName: 
+    pivot: {x: 0.61538446, y: -3.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 512
+      width: 13
+      height: 19
+    spriteID: 93700b5961bdb384c8e8d3136517b430
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 512}
+  - name: Dark FX_Frame_1
+    originalName: 
+    pivot: {x: 0.61538446, y: -3.631579}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 383
+      y: 378
+      width: 13
+      height: 19
+    spriteID: d905d3a66e083a348abc447bf43cafb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: 378}
+  - name: Dark FX_Frame_2
+    originalName: 
+    pivot: {x: 0.33333322, y: -1.4146341}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 463
+      width: 15
+      height: 41
+    spriteID: b6a14b1cadc56da4eb34ee676bbc2d91
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 463}
+  - name: Dark FX_Frame_3
+    originalName: 
+    pivot: {x: 0.68292683, y: -0.51948047}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1856
+      width: 41
+      height: 77
+    spriteID: cd5a7012b95265d46ab60accf65bc0a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1856}
+  - name: Dark FX_Frame_4
+    originalName: 
+    pivot: {x: 0.6590909, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1225
+      width: 44
+      height: 81
+    spriteID: e28fc5e5a673b2e45b177a2b206e4d9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1225}
+  - name: Dark FX_Frame_5
+    originalName: 
+    pivot: {x: 0.6595745, y: -0.4457831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1484
+      width: 47
+      height: 83
+    spriteID: b7590ea9b29d4f44da0d2be4231c7a11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1484}
+  - name: Dark FX_Frame_6
+    originalName: 
+    pivot: {x: 0.6530612, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 952
+      width: 49
+      height: 81
+    spriteID: c6f0efc0ef3b59d4a965f5ec3cfbfb1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 952}
+  - name: Dark FX_Frame_7
+    originalName: 
+    pivot: {x: 0.64705884, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 498
+      width: 51
+      height: 81
+    spriteID: bf259467cd343a74a83a8f90f6c8ce63
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 498}
+  - name: Dark FX_Frame_8
+    originalName: 
+    pivot: {x: 0.64705884, y: -0.4457831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 71
+      width: 51
+      height: 83
+    spriteID: 115ae884447642f419537f79a3edbd8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 71}
+  - name: Dark FX_Frame_9
+    originalName: 
+    pivot: {x: 0.64705884, y: -0.4457831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 162
+      width: 51
+      height: 83
+    spriteID: 9c5a49ef4e9b15040a2df8f9c026abff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 162}
+  - name: Dark FX_Frame_10
+    originalName: 
+    pivot: {x: 0.78947365, y: -0.42352945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1670
+      width: 38
+      height: 85
+    spriteID: beaacb34034eeab4786738308a44e903
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1670}
+  - name: Dark FX_Frame_11
+    originalName: 
+    pivot: {x: 3.2499998, y: -8.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 374
+      y: 933
+      width: 8
+      height: 9
+    spriteID: e0311c6263d80a04b91ad1a26e4c1a33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 933}
+  - name: Dark FX_Frame_12
+    originalName: 
+    pivot: {x: 0.9565218, y: -1.5128205}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1781
+      width: 23
+      height: 39
+    spriteID: a6259d20d49b7df49b347f7a0c8f9903
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1781}
+  - name: Dark FX_Frame_13
+    originalName: 
+    pivot: {x: 0.54545456, y: -1.4146341}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 1348
+      width: 33
+      height: 41
+    spriteID: 1249883b0ca78f24cad6ea301edc13ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 1348}
+  - name: Dark FX_Frame_14
+    originalName: 
+    pivot: {x: 0.5161291, y: -1.3255814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1642
+      width: 31
+      height: 43
+    spriteID: a2e8ac8a5d71e314895c9019f9229c7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1642}
+  - name: Dark FX_Frame_15
+    originalName: 
+    pivot: {x: 0.4054054, y: -1.3255814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 1246
+      width: 37
+      height: 43
+    spriteID: 98b1ff75a7102624e9850fddf963ec1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 1246}
+  - name: Dark FX_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 192
+      height: 192
+    spriteID: 9c3428f2882c59c4985071e7ee076819
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Dark FX_Frame_17
+    originalName: 
+    pivot: {x: 0.3863636, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1314
+      width: 44
+      height: 81
+    spriteID: 623e0985e7f33844abe2bea1ac3e571e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1314}
+  - name: Dark FX_Frame_18
+    originalName: 
+    pivot: {x: 0.40425536, y: -0.4457831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1575
+      width: 47
+      height: 83
+    spriteID: 012b91ad36dd9384a963bce54d299227
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1575}
+  - name: Dark FX_Frame_19
+    originalName: 
+    pivot: {x: 0.40816322, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1041
+      width: 49
+      height: 81
+    spriteID: 902240806e7084d4e8cfd2c4c0b6ce00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1041}
+  - name: Dark FX_Frame_20
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 587
+      width: 51
+      height: 81
+    spriteID: cc2ba1ee2b02aee4384dee0cb7ae2bd1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 587}
+  - name: Dark FX_Frame_21
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.4457831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 253
+      width: 51
+      height: 83
+    spriteID: 9dff33f539c7dac409a6f6fcba985a3a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 253}
+  - name: Dark FX_Frame_22
+    originalName: 
+    pivot: {x: 0.4117647, y: -0.4457831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 344
+      width: 51
+      height: 83
+    spriteID: 25ac7d2f0eeb1f0478fdd14f0229fac7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 344}
+  - name: Dark FX_Frame_23
+    originalName: 
+    pivot: {x: 0.4736842, y: -0.42352945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1763
+      width: 38
+      height: 85
+    spriteID: 1a7b4072c624c0e47ba1d5da33a7a339
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1763}
+  - name: Dark FX_Frame_24
+    originalName: 
+    pivot: {x: 3.2499998, y: -8.222222}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 291
+      width: 8
+      height: 9
+    spriteID: 29bb7d34521b4e14aa5ff0391afde6f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 291}
+  - name: Dark FX_Frame_25
+    originalName: 
+    pivot: {x: 0.9565218, y: -1.5128205}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1828
+      width: 23
+      height: 39
+    spriteID: 0017a320b357d174b9722fead565746b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1828}
+  - name: Dark FX_Frame_26
+    originalName: 
+    pivot: {x: 0.54545456, y: -1.4146341}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 1397
+      width: 33
+      height: 41
+    spriteID: cf0d8e321eecf234da8bda80eeaa6c46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 1397}
+  - name: Dark FX_Frame_27
+    originalName: 
+    pivot: {x: 0.5161291, y: -1.3255814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1693
+      width: 31
+      height: 43
+    spriteID: 80d2a8e596083e245800ab9801178d0a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1693}
+  - name: Dark FX_Frame_28
+    originalName: 
+    pivot: {x: 0.45454547, y: -1.3255814}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 1297
+      width: 33
+      height: 43
+    spriteID: 71a87fcdf3cffce4e96b5dde208e7500
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 1297}
+  - name: Dark FX_Frame_29
+    originalName: 
+    pivot: {x: -1.6000009, y: -6.636364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 390
+      y: 933
+      width: 5
+      height: 11
+    spriteID: 4558e42a962cac44f9962570a329b312
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 390, y: 933}
+  - name: Dark FX_Frame_30
+    originalName: 
+    pivot: {x: -1.3999993, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 386
+      y: 785
+      width: 5
+      height: 15
+    spriteID: 670c204d6474778499df6f2b1294eefb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 386, y: 785}
+  - name: Dark FX_Frame_31
+    originalName: 
+    pivot: {x: -0.8749995, y: -4.117647}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 383
+      y: 405
+      width: 8
+      height: 17
+    spriteID: b03a07dd7277f9049b85ea57a8dd2b58
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: 405}
+  - name: Dark FX_Frame_32
+    originalName: 
+    pivot: {x: -2.750001, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 392
+      y: 1941
+      width: 4
+      height: 15
+    spriteID: a857f8573e2947e4787e4d7302b12e21
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: 1941}
+  - name: Dark FX_Frame_33
+    originalName: 
+    pivot: {x: -0.12500024, y: -1.7428572}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 466
+      y: 1152
+      width: 16
+      height: 35
+    spriteID: 54e833ef2fab8aa4f8d3b9d5550c96a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 466, y: 1152}
+  - name: Dark FX_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 204
+      width: 192
+      height: 192
+    spriteID: 5cf16f152d9f3ac44b82b5f46b277c8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 204}
+  - name: Dark FX_Frame_35
+    originalName: 
+    pivot: {x: 0.043478344, y: -1.1702127}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 259
+      y: 1995
+      width: 23
+      height: 47
+    spriteID: d3852090d4c43134b8381a7eaee3ece9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 1995}
+  - name: Dark FX_Frame_36
+    originalName: 
+    pivot: {x: 0.07999992, y: -0.92727274}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1579
+      width: 25
+      height: 55
+    spriteID: a7a986ccdcd41a242aec8d9b5b77a5a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1579}
+  - name: Dark FX_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 404
+      width: 192
+      height: 192
+    spriteID: 8ebc4b2f90b2b9c48992b890fb504670
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 404}
+  - name: Dark FX_Frame_38
+    originalName: 
+    pivot: {x: 0.37974682, y: -0.8305085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 4
+      width: 79
+      height: 59
+    spriteID: 07b069d6ed96e374d977db91a63b00cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 4}
+  - name: Dark FX_Frame_39
+    originalName: 
+    pivot: {x: 0.3809524, y: -0.78688526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 810
+      width: 84
+      height: 61
+    spriteID: 1396b99bd4be4ac4cbf22e8c60e7c25e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 810}
+  - name: Dark FX_Frame_40
+    originalName: 
+    pivot: {x: 0.38372093, y: -0.78688526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 741
+      width: 86
+      height: 61
+    spriteID: daa31053c307caa43bbdd1e985447203
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 741}
+  - name: Dark FX_Frame_41
+    originalName: 
+    pivot: {x: 0.38636366, y: -1.5128205}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 102
+      y: 2004
+      width: 88
+      height: 39
+    spriteID: eab5701af60606c4890b290bebc1db6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 102, y: 2004}
+  - name: Dark FX_Frame_42
+    originalName: 
+    pivot: {x: 0.3888889, y: -1.5128205}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2004
+      width: 90
+      height: 39
+    spriteID: 72188bade0b5a3641a136f3cc7ad0ef6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2004}
+  - name: Dark FX_Frame_43
+    originalName: 
+    pivot: {x: -11.500002, y: -6.636364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 394
+      y: 331
+      width: 2
+      height: 11
+    spriteID: 58e3f33c030c4d048b5dfe3bac86d289
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 394, y: 331}
+  - name: Dark FX_Frame_45
+    originalName: 
+    pivot: {x: 7.6, y: -6.636364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 331
+      width: 5
+      height: 11
+    spriteID: 90f52ab8502d42347942d72b61314887
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 331}
+  - name: Dark FX_Frame_47
+    originalName: 
+    pivot: {x: 6.5, y: -5.5384617}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 386
+      y: 764
+      width: 6
+      height: 13
+    spriteID: d67a12d0a7e9da04ab2bac06c218dfad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 386, y: 764}
+  - name: Dark FX_Frame_48
+    originalName: 
+    pivot: {x: 2.6428573, y: -0.8695652}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 374
+      y: 879
+      width: 14
+      height: 46
+    spriteID: 418f92d975f85b646818ad8c660f905b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 374, y: 879}
+  - name: Dark FX_Frame_49
+    originalName: 
+    pivot: {x: 0.89189184, y: -0.5517242}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1941
+      width: 37
+      height: 58
+    spriteID: 0c86876a0973f5e499525895f31b1904
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1941}
+  - name: Dark FX_Frame_50
+    originalName: 
+    pivot: {x: 0.4558824, y: -0.7592593}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 872
+      width: 68
+      height: 54
+    spriteID: 7074f4dce19622e408d44e9e2782ca9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 872}
+  - name: Dark FX_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 604
+      width: 192
+      height: 192
+    spriteID: 1685473a620d58246a9cd474bb939bbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 604}
+  - name: Dark FX_Frame_52
+    originalName: 
+    pivot: {x: 0.30645165, y: -0.9230769}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1045
+      width: 62
+      height: 52
+    spriteID: 8f8fa299561da62488a1e81125f66f78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1045}
+  - name: Dark FX_Frame_53
+    originalName: 
+    pivot: {x: 0.3802817, y: -1.0408163}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 934
+      width: 71
+      height: 49
+    spriteID: 0907ccf264c412e45912faa702480434
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 934}
+  - name: Dark FX_Frame_54
+    originalName: 
+    pivot: {x: 0.375, y: -0.9230769}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 812
+      width: 72
+      height: 52
+    spriteID: f8729d953f82e45449614b7ae9f1de24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 812}
+  - name: Dark FX_Frame_55
+    originalName: 
+    pivot: {x: 0.369863, y: -0.9056604}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 751
+      width: 73
+      height: 53
+    spriteID: 0a7a8cdc4078f024b9d81485a3d733f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 751}
+  - name: Dark FX_Frame_56
+    originalName: 
+    pivot: {x: 0.36486486, y: -1.0869565}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 991
+      width: 74
+      height: 46
+    spriteID: e4d4dfd0d55bbbc45bc521ac5737ee90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 991}
+  - name: Dark FX_Frame_57
+    originalName: 
+    pivot: {x: -0.5652172, y: -0.78688526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1510
+      width: 23
+      height: 61
+    spriteID: 2ccc29fe29a02684a837181ad378a9c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1510}
+  - name: Dark FX_Frame_58
+    originalName: 
+    pivot: {x: 0.50000006, y: -2.04}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 1446
+      width: 38
+      height: 25
+    spriteID: e40bfbf9a46e5ca49b949e88546b87e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 1446}
+  - name: Dark FX_Frame_60
+    originalName: 
+    pivot: {x: 0.50000006, y: -2.04}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 1479
+      width: 38
+      height: 25
+    spriteID: 53f9fae2b20306c48b48d06cb4e1c5ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 1479}
+  - name: Dark FX_Frame_63
+    originalName: 
+    pivot: {x: 2.0000005, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 810
+      width: 5
+      height: 15
+    spriteID: 3008d7007078c4743851e52f2f00c69e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 384, y: 810}
+  - name: Dark FX_Frame_64
+    originalName: 
+    pivot: {x: 2.7499995, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 392
+      y: 1964
+      width: 4
+      height: 15
+    spriteID: 61bc9c598dcdc4f479a64834195fdb24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 392, y: 1964}
+  - name: Dark FX_Frame_65
+    originalName: 
+    pivot: {x: 2.6000004, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 833
+      width: 5
+      height: 15
+    spriteID: 0f9b1e5c63d8ec440bdfb7cde9b201b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 384, y: 833}
+  - name: Dark FX_Frame_66
+    originalName: 
+    pivot: {x: 2.6000004, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 384
+      y: 856
+      width: 5
+      height: 15
+    spriteID: 2e7861417f2761644ae2fa9e61232677
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 384, y: 856}
+  - name: Dark FX_Frame_68
+    originalName: 
+    pivot: {x: 2.166667, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 474
+      y: 1068
+      width: 6
+      height: 15
+    spriteID: e4ca311e3c665da4391ed3988f96110c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 474, y: 1068}
+  - name: Dark FX_Frame_69
+    originalName: 
+    pivot: {x: 3, y: -5.5384617}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 350
+      width: 4
+      height: 13
+    spriteID: 44fecb041f60c4f4e9f56419da66fa83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 350}
+  - name: Dark FX_Frame_70
+    originalName: 
+    pivot: {x: 1.6666667, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 383
+      y: 430
+      width: 9
+      height: 15
+    spriteID: 674156e41902c024b8b5c47b82fbbbdc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: 430}
+  - name: Dark FX_Frame_71
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 804
+      width: 192
+      height: 192
+    spriteID: 549b4c90f721b3f44b64cce2d9b47062
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 804}
+  - name: Dark FX_Frame_72
+    originalName: 
+    pivot: {x: 0.67391306, y: -0.19387756}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1170
+      width: 46
+      height: 98
+    spriteID: 28a981ccafc363645aa0b4282c50e097
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1170}
+  - name: Dark FX_Frame_73
+    originalName: 
+    pivot: {x: 0.6595745, y: -0.17999999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1062
+      width: 47
+      height: 100
+    spriteID: ab963dbe2ee96034ab27a9810b15d8f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1062}
+  - name: Dark FX_Frame_74
+    originalName: 
+    pivot: {x: 0.6595745, y: -0.16666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 952
+      width: 47
+      height: 102
+    spriteID: fc29811c0365b5e4293d1a6d608d29ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 952}
+  - name: Dark FX_Frame_75
+    originalName: 
+    pivot: {x: 0.6595745, y: -0.15384616}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1930
+      width: 47
+      height: 104
+    spriteID: 6d6e7f4ff2519254cadcc9a8e3268c40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1930}
+  - name: Dark FX_Frame_76
+    originalName: 
+    pivot: {x: 0.6595745, y: -0.14150944}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1816
+      width: 47
+      height: 106
+    spriteID: eeddc9dfadab52a4caa367e836cd6b26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1816}
+  - name: Dark FX_Frame_77
+    originalName: 
+    pivot: {x: 0.73809534, y: -0.40229887}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1948
+      width: 42
+      height: 87
+    spriteID: 6472bb194bef1124d9ab1d2ed0c1bb4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1948}
+  - name: Dark FX_Frame_78
+    originalName: 
+    pivot: {x: 0.73809534, y: -0.1308411}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1276
+      width: 42
+      height: 107
+    spriteID: 089ace219a0dac84fb05d8c5ae35592b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1276}
+  - name: Dark FX_Frame_79
+    originalName: 
+    pivot: {x: 0.8846153, y: -0.877193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1380
+      width: 26
+      height: 57
+    spriteID: 5e1b29c3589f93644862feb5f513c256
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1380}
+  - name: Dark FX_Frame_80
+    originalName: 
+    pivot: {x: 0.79487187, y: -0.13829787}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1846
+      width: 39
+      height: 94
+    spriteID: 13889c0f60e9b7542a4830faf0502faf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1846}
+  - name: Dark FX_Frame_81
+    originalName: 
+    pivot: {x: 0.78125006, y: -0.8305085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1246
+      width: 32
+      height: 59
+    spriteID: f8d6e34868450304b8fd81043438797f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1246}
+  - name: Dark FX_Frame_82
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1004
+      width: 192
+      height: 192
+    spriteID: 3d8f1dce9cacf7c43ae727acf89546b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1004}
+  - name: Dark FX_Frame_83
+    originalName: 
+    pivot: {x: 0.65753424, y: -0.29292932}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 941
+      width: 73
+      height: 99
+    spriteID: 27fb9d1999e38584d80af59088736b25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 941}
+  - name: Dark FX_Frame_84
+    originalName: 
+    pivot: {x: 0.6578948, y: -0.29292932}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 727
+      width: 76
+      height: 99
+    spriteID: 0f24ae811f9d52f4282cbd1f0973dcd3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 727}
+  - name: Dark FX_Frame_85
+    originalName: 
+    pivot: {x: 0.6538462, y: -0.27722773}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 509
+      width: 78
+      height: 101
+    spriteID: 48ad2967257862f49951bb19a470982d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 509}
+  - name: Dark FX_Frame_86
+    originalName: 
+    pivot: {x: 0.65, y: -0.27722773}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 291
+      width: 80
+      height: 101
+    spriteID: 4e601217e126fad408022d4aef721879
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 291}
+  - name: Dark FX_Frame_87
+    originalName: 
+    pivot: {x: 0.64615387, y: -0.30927834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1155
+      width: 65
+      height: 97
+    spriteID: edbfc4f556b80de4f843371ef119d340
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1155}
+  - name: Dark FX_Frame_89
+    originalName: 
+    pivot: {x: 2.0000005, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 472
+      y: 676
+      width: 5
+      height: 15
+    spriteID: 7d23bff46f10af144aefa6c93407da24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 472, y: 676}
+  - name: Dark FX_Frame_90
+    originalName: 
+    pivot: {x: 2.7499995, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 381
+      y: 308
+      width: 4
+      height: 15
+    spriteID: 38abb41a3a32d0f47b943c398689d5af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 381, y: 308}
+  - name: Dark FX_Frame_91
+    originalName: 
+    pivot: {x: 2.6000004, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 472
+      y: 699
+      width: 5
+      height: 15
+    spriteID: 5d8cdc4513eef784f87e7c71b0c6d9d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 472, y: 699}
+  - name: Dark FX_Frame_92
+    originalName: 
+    pivot: {x: 2.6000004, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 472
+      y: 722
+      width: 5
+      height: 15
+    spriteID: 533eef030f68b104592f8c563f28cea8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 472, y: 722}
+  - name: Dark FX_Frame_94
+    originalName: 
+    pivot: {x: 2.166667, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 386
+      y: 741
+      width: 6
+      height: 15
+    spriteID: 859228c765e111a4fb695c2f7547a175
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 386, y: 741}
+  - name: Dark FX_Frame_95
+    originalName: 
+    pivot: {x: 3, y: -5.5384617}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 478
+      y: 498
+      width: 4
+      height: 13
+    spriteID: a5bb43168fc516545b15eca14da52f22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 478, y: 498}
+  - name: Dark FX_Frame_96
+    originalName: 
+    pivot: {x: 1.6666667, y: -4.733333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 474
+      y: 1045
+      width: 9
+      height: 15
+    spriteID: c23ed6b8c584b8b43a5c3ca4e1c29516
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 474, y: 1045}
+  - name: Dark FX_Frame_97
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1204
+      width: 192
+      height: 192
+    spriteID: c3ebcb51cb3d9594baa1f816db666b37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1204}
+  - name: Dark FX_Frame_98
+    originalName: 
+    pivot: {x: 0.6590909, y: -0.51948047}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1585
+      width: 44
+      height: 77
+    spriteID: 4dbccf032b32a324e8e33e5ffbb61a55
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1585}
+  - name: Dark FX_Frame_99
+    originalName: 
+    pivot: {x: 0.6521739, y: -0.49367085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 204
+      width: 46
+      height: 79
+    spriteID: 891c1ec7f968f314b8e5d8e3cb4af935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 346, y: 204}
+  - name: Dark FX_Frame_100
+    originalName: 
+    pivot: {x: 0.6595745, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1757
+      width: 47
+      height: 81
+    spriteID: 815533fe9a5d74f4d9f09d382b2219cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1757}
+  - name: Dark FX_Frame_101
+    originalName: 
+    pivot: {x: 0.6595745, y: -0.4457831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1666
+      width: 47
+      height: 83
+    spriteID: 12b0c851296e6d64090f653d1b6db382
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1666}
+  - name: Dark FX_Frame_102
+    originalName: 
+    pivot: {x: 0.6595745, y: -0.42352945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 1391
+      width: 47
+      height: 85
+    spriteID: 04a9ae00350eaa94eae1327f5ddda02a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 1391}
+  - name: Dark FX_Frame_103
+    originalName: 
+    pivot: {x: 0.73809534, y: -0.40229887}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1130
+      width: 42
+      height: 87
+    spriteID: f4c1601d21989d4489b0b27ce4fe3a56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1130}
+  - name: Dark FX_Frame_104
+    originalName: 
+    pivot: {x: 0.7317073, y: -0.42352945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1403
+      width: 41
+      height: 85
+    spriteID: c68d8e69c20065c449e05f60676aeaab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1403}
+  - name: Dark FX_Frame_105
+    originalName: 
+    pivot: {x: 0.8846153, y: -0.877193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1445
+      width: 26
+      height: 57
+    spriteID: aea449d805ba1a8428ea61e7a4811559
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1445}
+  - name: Dark FX_Frame_106
+    originalName: 
+    pivot: {x: 0.88000005, y: -0.877193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 259
+      y: 1930
+      width: 25
+      height: 57
+    spriteID: 9dca46d4491a7f44490c363149d44e40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 1930}
+  - name: Dark FX_Frame_107
+    originalName: 
+    pivot: {x: 0.78125006, y: -0.8305085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1313
+      width: 32
+      height: 59
+    spriteID: 514a3ce1578331c4e943643f63b4105d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1313}
+  - name: Dark FX_Frame_108
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1404
+      width: 192
+      height: 192
+    spriteID: e934b1f2f5e1e204e83f521781716051
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1404}
+  - name: Dark FX_Frame_109
+    originalName: 
+    pivot: {x: 0.65753424, y: -0.29292932}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1048
+      width: 73
+      height: 99
+    spriteID: cf69c28dde5dfe84e9f498784bd2ed6b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1048}
+  - name: Dark FX_Frame_110
+    originalName: 
+    pivot: {x: 0.6578948, y: -0.29292932}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 834
+      width: 76
+      height: 99
+    spriteID: d786737fd3c48b842a1775a6f25461b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 834}
+  - name: Dark FX_Frame_111
+    originalName: 
+    pivot: {x: 0.6538462, y: -0.27722773}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 618
+      width: 78
+      height: 101
+    spriteID: b6319d2ebb8de1c499f0041aaa8408f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 618}
+  - name: Dark FX_Frame_112
+    originalName: 
+    pivot: {x: 0.65, y: -0.27722773}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 400
+      width: 80
+      height: 101
+    spriteID: 02580fe184781c44990aa85f3784d4f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 400}
+  - name: Dark FX_Frame_113
+    originalName: 
+    pivot: {x: 0.64615387, y: -0.30927834}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1260
+      width: 65
+      height: 97
+    spriteID: 5e54ebb63abb7d54d95c34c4560ab3f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1260}
+  - name: Dark FX_Frame_115
+    originalName: 
+    pivot: {x: 18.333332, y: -2.4074073}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 391
+      y: 2007
+      width: 3
+      height: 27
+    spriteID: 6d61697141e0b614785f2979f7ce5fae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 391, y: 2007}
+  - name: Dark FX_Frame_116
+    originalName: 
+    pivot: {x: 2.5, y: -2.6399999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 259
+      y: 1893
+      width: 22
+      height: 25
+    spriteID: c13abeac0c3283c4c881ec95f67b361c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 1893}
+  - name: Dark FX_Frame_117
+    originalName: 
+    pivot: {x: 1.5625001, y: -2.2068968}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1744
+      width: 32
+      height: 29
+    spriteID: f3072d55ca02ec048baba6fb3d618884
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1744}
+  - name: Dark FX_Frame_118
+    originalName: 
+    pivot: {x: 1.6333332, y: -2.4074073}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1875
+      width: 30
+      height: 27
+    spriteID: 1e05c409a5918d945a39a8019c76c901
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1875}
+  - name: Dark FX_Frame_119
+    originalName: 
+    pivot: {x: 1.361111, y: -2.4074073}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 2007
+      width: 36
+      height: 27
+    spriteID: c7c940eaaff9df043b6c9f5e59dba0fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 2007}
+  - name: Dark FX_Frame_120
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1604
+      width: 192
+      height: 192
+    spriteID: 58ddfc033a03a414fb47038b5febf94e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1604}
+  - name: Dark FX_Frame_121
+    originalName: 
+    pivot: {x: 1.0151515, y: -0.40229887}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1446
+      width: 66
+      height: 87
+    spriteID: 27332306f44dfd1438bc563897ef5c68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1446}
+  - name: Dark FX_Frame_122
+    originalName: 
+    pivot: {x: 1.0149255, y: -0.42352945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1541
+      width: 67
+      height: 85
+    spriteID: 3f37c477bcacf1842ad64d4a93e9289b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1541}
+  - name: Dark FX_Frame_123
+    originalName: 
+    pivot: {x: 1.0149255, y: -0.42352945}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1634
+      width: 67
+      height: 85
+    spriteID: 795ff82002d1b5c4391699d76cd8bc67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1634}
+  - name: Dark FX_Frame_124
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1804
+      width: 192
+      height: 192
+    spriteID: c4ecc6bf6979c9541979f0ce5689c235
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1804}
+  - name: Dark FX_Frame_125
+    originalName: 
+    pivot: {x: 0.51492536, y: -0.49367085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 204
+      width: 134
+      height: 79
+    spriteID: a81343f1007e6b04ba9540890a51cfc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 204}
+  - name: Dark FX_Frame_126
+    originalName: 
+    pivot: {x: 0.29787236, y: -0.877193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 676
+      width: 94
+      height: 57
+    spriteID: 75c714a266b7ff743a5d5a77f09f7261
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 676}
+  - name: Dark FX_Frame_127
+    originalName: 
+    pivot: {x: 0.3020833, y: -0.877193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 611
+      width: 96
+      height: 57
+    spriteID: 872bf9ee8c738a843a0b76d376fe27ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 611}
+  - name: Dark FX_Frame_128
+    originalName: 
+    pivot: {x: 0.30612245, y: -0.877193}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 546
+      width: 98
+      height: 57
+    spriteID: 2cf758c41f5295c4eaef3d61d66c2391
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 546}
+  - name: Dark FX_Frame_129
+    originalName: 
+    pivot: {x: 0.39473683, y: -0.92727274}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 435
+      width: 76
+      height: 55
+    spriteID: b40a23fce5815b14c90f118edf9dbd52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 435}
+  - name: Dark FX_Frame_130
+    originalName: 
+    pivot: {x: 0.40789476, y: -1.5128205}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1105
+      width: 76
+      height: 39
+    spriteID: e4a7d58d3413c4d449549bc969ea7d66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1105}
+  - name: Dark FX_Frame_131
+    originalName: 
+    pivot: {x: 0.12962967, y: -1.5128205}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1152
+      width: 54
+      height: 39
+    spriteID: a681ca32375ea584c8abcaf30632b90d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1152}
+  - name: Dark FX_Frame_132
+    originalName: 
+    pivot: {x: 0.11111111, y: -1.5128205}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 1199
+      width: 54
+      height: 39
+    spriteID: dfc8813f041bce74b90007bcd21df9c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1199}
+  - name: Dark FX_Frame_133
+    originalName: 
+    pivot: {x: 0.09259256, y: -1.8787879}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 491
+      y: 4
+      width: 54
+      height: 33
+    spriteID: 5227b312087a526499d52f9ca855fad9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 491, y: 4}
+  - name: Dark FX_Frame_134
+    originalName: 
+    pivot: {x: -1.1333336, y: -2.4074073}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 466
+      y: 1199
+      width: 15
+      height: 27
+    spriteID: 2ba3e0a5cc161214fa7d09ec5c89727e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 466, y: 1199}
+  - name: Dark FX_Frame_140
+    originalName: 
+    pivot: {x: 0.85714287, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 463
+      y: 498
+      width: 7
+      height: 81
+    spriteID: ccaa7a8920b2c4346bf29e1b37f25245
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 463, y: 498}
+  - name: Dark FX_Frame_141
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 4
+      width: 192
+      height: 192
+    spriteID: e496760161c106a40aae7d117e553697
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 4}
+  - name: Dark FX_Frame_142
+    originalName: 
+    pivot: {x: -0.35999998, y: -0.6376812}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 259
+      y: 1816
+      width: 25
+      height: 69
+    spriteID: a4da6feb8fb627d4da60931ceb7a4bd7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 1816}
+  - name: Dark FX_Frame_143
+    originalName: 
+    pivot: {x: 0.4333333, y: -0.67164177}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 404
+      y: 676
+      width: 60
+      height: 67
+    spriteID: 47acf747a69e9bf4996a4edf742484b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 676}
+  - name: Dark FX_Frame_144
+    originalName: 
+    pivot: {x: 0.527027, y: -0.7076923}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 879
+      width: 74
+      height: 65
+    spriteID: b149ab0eb996717498da8d5cf8dabd98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 879}
+  - name: Dark FX_Frame_145
+    originalName: 
+    pivot: {x: 0.55696195, y: -0.5753425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1365
+      width: 79
+      height: 73
+    spriteID: 130e286070e14ce4a9ca02d3a8e22431
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1365}
+  - name: Dark FX_Frame_146
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.5466667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 463
+      width: 81
+      height: 75
+    spriteID: 82e9d21085964494fad7f9996a21c8bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 463}
+  - name: Dark FX_Frame_147
+    originalName: 
+    pivot: {x: 0.55421686, y: -0.51948047}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 378
+      width: 83
+      height: 77
+    spriteID: 129fdb6af38f0de46be2c5d9aaa81f09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 378}
+  - name: Dark FX_Frame_148
+    originalName: 
+    pivot: {x: 0.56790125, y: -0.49367085}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 291
+      width: 81
+      height: 79
+    spriteID: 5ff41d58c03ea3c46923d4e87afc8115
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 291}
+  - name: Dark FX_Frame_149
+    originalName: 
+    pivot: {x: 0.69696975, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 1727
+      width: 66
+      height: 81
+    spriteID: 967d608b5a30edf4dbe0a4c7d2d3d0cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 1727}
+  - name: Dark FX_Frame_150
+    originalName: 
+    pivot: {x: 1.0714287, y: -0.46913582}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 1496
+      width: 42
+      height: 81
+    spriteID: d1329f33bd7e458488849b73d2cdf0c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 1496}
+  - name: Dark FX_Frame_151
+    originalName: 
+    pivot: {x: 2.499999, y: -0.4457831}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 393
+      y: 1670
+      width: 2
+      height: 83
+    spriteID: 6bda77fa65107a04e86ed538d9c714cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 393, y: 1670}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1326642952
+    name: Dark FX
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Dark FX_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 88
+        y: 69
+        width: 13
+        height: 19
+      spriteId: 93700b5961bdb384c8e8d3136517b430
+    - name: Dark FX_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 88
+        y: 69
+        width: 13
+        height: 19
+      spriteId: d905d3a66e083a348abc447bf43cafb1
+    - name: Dark FX_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 91
+        y: 58
+        width: 15
+        height: 41
+      spriteId: b6a14b1cadc56da4eb34ee676bbc2d91
+    - name: Dark FX_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 68
+        y: 40
+        width: 41
+        height: 77
+      spriteId: cd5a7012b95265d46ab60accf65bc0a6
+    - name: Dark FX_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 67
+        y: 38
+        width: 44
+        height: 81
+      spriteId: e28fc5e5a673b2e45b177a2b206e4d9e
+    - name: Dark FX_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 65
+        y: 37
+        width: 47
+        height: 83
+      spriteId: b7590ea9b29d4f44da0d2be4231c7a11
+    - name: Dark FX_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 64
+        y: 38
+        width: 49
+        height: 81
+      spriteId: c6f0efc0ef3b59d4a965f5ec3cfbfb1e
+    - name: Dark FX_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 63
+        y: 38
+        width: 51
+        height: 81
+      spriteId: bf259467cd343a74a83a8f90f6c8ce63
+    - name: Dark FX_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 63
+        y: 37
+        width: 51
+        height: 83
+      spriteId: 115ae884447642f419537f79a3edbd8f
+    - name: Dark FX_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 63
+        y: 37
+        width: 51
+        height: 83
+      spriteId: 9c5a49ef4e9b15040a2df8f9c026abff
+    - name: Dark FX_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 66
+        y: 36
+        width: 38
+        height: 85
+      spriteId: beaacb34034eeab4786738308a44e903
+    - name: Dark FX_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 70
+        y: 74
+        width: 8
+        height: 9
+      spriteId: e0311c6263d80a04b91ad1a26e4c1a33
+    - name: Dark FX_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 74
+        y: 59
+        width: 23
+        height: 39
+      spriteId: a6259d20d49b7df49b347f7a0c8f9903
+    - name: Dark FX_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 78
+        y: 58
+        width: 33
+        height: 41
+      spriteId: 1249883b0ca78f24cad6ea301edc13ca
+    - name: Dark FX_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 80
+        y: 57
+        width: 31
+        height: 43
+      spriteId: a2e8ac8a5d71e314895c9019f9229c7b
+    - name: Dark FX_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 81
+        y: 57
+        width: 37
+        height: 43
+      spriteId: 98b1ff75a7102624e9850fddf963ec1b
+    - name: Dark FX_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 9c3428f2882c59c4985071e7ee076819
+    - name: Dark FX_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 79
+        y: 38
+        width: 44
+        height: 81
+      spriteId: 623e0985e7f33844abe2bea1ac3e571e
+    - name: Dark FX_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 77
+        y: 37
+        width: 47
+        height: 83
+      spriteId: 012b91ad36dd9384a963bce54d299227
+    - name: Dark FX_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 76
+        y: 38
+        width: 49
+        height: 81
+      spriteId: 902240806e7084d4e8cfd2c4c0b6ce00
+    - name: Dark FX_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 75
+        y: 38
+        width: 51
+        height: 81
+      spriteId: cc2ba1ee2b02aee4384dee0cb7ae2bd1
+    - name: Dark FX_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 75
+        y: 37
+        width: 51
+        height: 83
+      spriteId: 9dff33f539c7dac409a6f6fcba985a3a
+    - name: Dark FX_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 75
+        y: 37
+        width: 51
+        height: 83
+      spriteId: 25ac7d2f0eeb1f0478fdd14f0229fac7
+    - name: Dark FX_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 78
+        y: 36
+        width: 38
+        height: 85
+      spriteId: 1a7b4072c624c0e47ba1d5da33a7a339
+    - name: Dark FX_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 70
+        y: 74
+        width: 8
+        height: 9
+      spriteId: 29bb7d34521b4e14aa5ff0391afde6f6
+    - name: Dark FX_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 74
+        y: 59
+        width: 23
+        height: 39
+      spriteId: 0017a320b357d174b9722fead565746b
+    - name: Dark FX_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 78
+        y: 58
+        width: 33
+        height: 41
+      spriteId: cf0d8e321eecf234da8bda80eeaa6c46
+    - name: Dark FX_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 80
+        y: 57
+        width: 31
+        height: 43
+      spriteId: 80d2a8e596083e245800ab9801178d0a
+    - name: Dark FX_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 81
+        y: 57
+        width: 33
+        height: 43
+      spriteId: 71a87fcdf3cffce4e96b5dde208e7500
+    - name: Dark FX_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 104
+        y: 73
+        width: 5
+        height: 11
+      spriteId: 4558e42a962cac44f9962570a329b312
+    - name: Dark FX_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 103
+        y: 71
+        width: 5
+        height: 15
+      spriteId: 670c204d6474778499df6f2b1294eefb
+    - name: Dark FX_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 103
+        y: 70
+        width: 8
+        height: 17
+      spriteId: b03a07dd7277f9049b85ea57a8dd2b58
+    - name: Dark FX_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 107
+        y: 71
+        width: 4
+        height: 15
+      spriteId: a857f8573e2947e4787e4d7302b12e21
+    - name: Dark FX_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 98
+        y: 61
+        width: 16
+        height: 35
+      spriteId: 54e833ef2fab8aa4f8d3b9d5550c96a2
+    - name: Dark FX_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 5cf16f152d9f3ac44b82b5f46b277c8a
+    - name: Dark FX_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 95
+        y: 55
+        width: 23
+        height: 47
+      spriteId: d3852090d4c43134b8381a7eaee3ece9
+    - name: Dark FX_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 94
+        y: 51
+        width: 25
+        height: 55
+      spriteId: a7a986ccdcd41a242aec8d9b5b77a5a6
+    - name: Dark FX_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 8ebc4b2f90b2b9c48992b890fb504670
+    - name: Dark FX_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 66
+        y: 49
+        width: 79
+        height: 59
+      spriteId: 07b069d6ed96e374d977db91a63b00cb
+    - name: Dark FX_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 64
+        y: 48
+        width: 84
+        height: 61
+      spriteId: 1396b99bd4be4ac4cbf22e8c60e7c25e
+    - name: Dark FX_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 63
+        y: 48
+        width: 86
+        height: 61
+      spriteId: daa31053c307caa43bbdd1e985447203
+    - name: Dark FX_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 62
+        y: 59
+        width: 88
+        height: 39
+      spriteId: eab5701af60606c4890b290bebc1db6f
+    - name: Dark FX_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 61
+        y: 59
+        width: 90
+        height: 39
+      spriteId: 72188bade0b5a3641a136f3cc7ad0ef6
+    - name: Dark FX_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 119
+        y: 73
+        width: 2
+        height: 11
+      spriteId: 58e3f33c030c4d048b5dfe3bac86d289
+    - name: Dark FX_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 58
+        y: 73
+        width: 5
+        height: 11
+      spriteId: 90f52ab8502d42347942d72b61314887
+    - name: Dark FX_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 57
+        y: 72
+        width: 6
+        height: 13
+      spriteId: d67a12d0a7e9da04ab2bac06c218dfad
+    - name: Dark FX_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 59
+        y: 40
+        width: 14
+        height: 46
+      spriteId: 418f92d975f85b646818ad8c660f905b
+    - name: Dark FX_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 63
+        y: 32
+        width: 37
+        height: 58
+      spriteId: 0c86876a0973f5e499525895f31b1904
+    - name: Dark FX_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 65
+        y: 41
+        width: 68
+        height: 54
+      spriteId: 7074f4dce19622e408d44e9e2782ca9e
+    - name: Dark FX_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 1685473a620d58246a9cd474bb939bbe
+    - name: Dark FX_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 77
+        y: 48
+        width: 62
+        height: 52
+      spriteId: 8f8fa299561da62488a1e81125f66f78
+    - name: Dark FX_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 69
+        y: 51
+        width: 71
+        height: 49
+      spriteId: 0907ccf264c412e45912faa702480434
+    - name: Dark FX_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 69
+        y: 48
+        width: 72
+        height: 52
+      spriteId: f8729d953f82e45449614b7ae9f1de24
+    - name: Dark FX_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 69
+        y: 48
+        width: 73
+        height: 53
+      spriteId: 0a7a8cdc4078f024b9d81485a3d733f7
+    - name: Dark FX_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 69
+        y: 50
+        width: 74
+        height: 46
+      spriteId: e4d4dfd0d55bbbc45bc521ac5737ee90
+    - name: Dark FX_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 109
+        y: 48
+        width: 23
+        height: 61
+      spriteId: 2ccc29fe29a02684a837181ad378a9c4
+    - name: Dark FX_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 77
+        y: 51
+        width: 38
+        height: 25
+      spriteId: e40bfbf9a46e5ca49b949e88546b87e9
+    - name: Dark FX_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 77
+        y: 51
+        width: 38
+        height: 25
+      spriteId: 53f9fae2b20306c48b48d06cb4e1c5ef
+    - name: Dark FX_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 86
+        y: 71
+        width: 5
+        height: 15
+      spriteId: 3008d7007078c4743851e52f2f00c69e
+    - name: Dark FX_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 85
+        y: 71
+        width: 4
+        height: 15
+      spriteId: 61bc9c598dcdc4f479a64834195fdb24
+    - name: Dark FX_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 83
+        y: 71
+        width: 5
+        height: 15
+      spriteId: 0f9b1e5c63d8ec440bdfb7cde9b201b3
+    - name: Dark FX_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 83
+        y: 71
+        width: 5
+        height: 15
+      spriteId: 2e7861417f2761644ae2fa9e61232677
+    - name: Dark FX_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 83
+        y: 71
+        width: 6
+        height: 15
+      spriteId: e4ca311e3c665da4391ed3988f96110c
+    - name: Dark FX_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 84
+        y: 72
+        width: 4
+        height: 13
+      spriteId: 44fecb041f60c4f4e9f56419da66fa83
+    - name: Dark FX_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 81
+        y: 71
+        width: 9
+        height: 15
+      spriteId: 674156e41902c024b8b5c47b82fbbbdc
+    - name: Dark FX_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 549b4c90f721b3f44b64cce2d9b47062
+    - name: Dark FX_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 65
+        y: 19
+        width: 46
+        height: 98
+      spriteId: 28a981ccafc363645aa0b4282c50e097
+    - name: Dark FX_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 65
+        y: 18
+        width: 47
+        height: 100
+      spriteId: ab963dbe2ee96034ab27a9810b15d8f3
+    - name: Dark FX_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 65
+        y: 17
+        width: 47
+        height: 102
+      spriteId: fc29811c0365b5e4293d1a6d608d29ed
+    - name: Dark FX_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 65
+        y: 16
+        width: 47
+        height: 104
+      spriteId: 6d6e7f4ff2519254cadcc9a8e3268c40
+    - name: Dark FX_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 65
+        y: 15
+        width: 47
+        height: 106
+      spriteId: eeddc9dfadab52a4caa367e836cd6b26
+    - name: Dark FX_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 65
+        y: 35
+        width: 42
+        height: 87
+      spriteId: 6472bb194bef1124d9ab1d2ed0c1bb4a
+    - name: Dark FX_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 65
+        y: 14
+        width: 42
+        height: 107
+      spriteId: 089ace219a0dac84fb05d8c5ae35592b
+    - name: Dark FX_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 73
+        y: 50
+        width: 26
+        height: 57
+      spriteId: 5e1b29c3589f93644862feb5f513c256
+    - name: Dark FX_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 65
+        y: 13
+        width: 39
+        height: 94
+      spriteId: 13889c0f60e9b7542a4830faf0502faf
+    - name: Dark FX_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 71
+        y: 49
+        width: 32
+        height: 59
+      spriteId: f8d6e34868450304b8fd81043438797f
+    - name: Dark FX_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 3d8f1dce9cacf7c43ae727acf89546b5
+    - name: Dark FX_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 48
+        y: 29
+        width: 73
+        height: 99
+      spriteId: 27fb9d1999e38584d80af59088736b25
+    - name: Dark FX_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 46
+        y: 29
+        width: 76
+        height: 99
+      spriteId: 0f24ae811f9d52f4282cbd1f0973dcd3
+    - name: Dark FX_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 45
+        y: 28
+        width: 78
+        height: 101
+      spriteId: 48ad2967257862f49951bb19a470982d
+    - name: Dark FX_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 44
+        y: 28
+        width: 80
+        height: 101
+      spriteId: 4e601217e126fad408022d4aef721879
+    - name: Dark FX_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 54
+        y: 30
+        width: 65
+        height: 97
+      spriteId: edbfc4f556b80de4f843371ef119d340
+    - name: Dark FX_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 86
+        y: 71
+        width: 5
+        height: 15
+      spriteId: 7d23bff46f10af144aefa6c93407da24
+    - name: Dark FX_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 85
+        y: 71
+        width: 4
+        height: 15
+      spriteId: 38abb41a3a32d0f47b943c398689d5af
+    - name: Dark FX_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 83
+        y: 71
+        width: 5
+        height: 15
+      spriteId: 5d8cdc4513eef784f87e7c71b0c6d9d2
+    - name: Dark FX_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 83
+        y: 71
+        width: 5
+        height: 15
+      spriteId: 533eef030f68b104592f8c563f28cea8
+    - name: Dark FX_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 83
+        y: 71
+        width: 6
+        height: 15
+      spriteId: 859228c765e111a4fb695c2f7547a175
+    - name: Dark FX_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 84
+        y: 72
+        width: 4
+        height: 13
+      spriteId: a5bb43168fc516545b15eca14da52f22
+    - name: Dark FX_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 81
+        y: 71
+        width: 9
+        height: 15
+      spriteId: c23ed6b8c584b8b43a5c3ca4e1c29516
+    - name: Dark FX_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: c3ebcb51cb3d9594baa1f816db666b37
+    - name: Dark FX_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 67
+        y: 40
+        width: 44
+        height: 77
+      spriteId: 4dbccf032b32a324e8e33e5ffbb61a55
+    - name: Dark FX_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 66
+        y: 39
+        width: 46
+        height: 79
+      spriteId: 891c1ec7f968f314b8e5d8e3cb4af935
+    - name: Dark FX_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 65
+        y: 38
+        width: 47
+        height: 81
+      spriteId: 815533fe9a5d74f4d9f09d382b2219cf
+    - name: Dark FX_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 65
+        y: 37
+        width: 47
+        height: 83
+      spriteId: 12b0c851296e6d64090f653d1b6db382
+    - name: Dark FX_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 65
+        y: 36
+        width: 47
+        height: 85
+      spriteId: 04a9ae00350eaa94eae1327f5ddda02a
+    - name: Dark FX_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 65
+        y: 35
+        width: 42
+        height: 87
+      spriteId: f4c1601d21989d4489b0b27ce4fe3a56
+    - name: Dark FX_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 66
+        y: 36
+        width: 41
+        height: 85
+      spriteId: c68d8e69c20065c449e05f60676aeaab
+    - name: Dark FX_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 73
+        y: 50
+        width: 26
+        height: 57
+      spriteId: aea449d805ba1a8428ea61e7a4811559
+    - name: Dark FX_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 74
+        y: 50
+        width: 25
+        height: 57
+      spriteId: 9dca46d4491a7f44490c363149d44e40
+    - name: Dark FX_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 71
+        y: 49
+        width: 32
+        height: 59
+      spriteId: 514a3ce1578331c4e943643f63b4105d
+    - name: Dark FX_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: e934b1f2f5e1e204e83f521781716051
+    - name: Dark FX_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 48
+        y: 29
+        width: 73
+        height: 99
+      spriteId: cf69c28dde5dfe84e9f498784bd2ed6b
+    - name: Dark FX_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 46
+        y: 29
+        width: 76
+        height: 99
+      spriteId: d786737fd3c48b842a1775a6f25461b6
+    - name: Dark FX_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 45
+        y: 28
+        width: 78
+        height: 101
+      spriteId: b6319d2ebb8de1c499f0041aaa8408f0
+    - name: Dark FX_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 44
+        y: 28
+        width: 80
+        height: 101
+      spriteId: 02580fe184781c44990aa85f3784d4f3
+    - name: Dark FX_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 54
+        y: 30
+        width: 65
+        height: 97
+      spriteId: 5e54ebb63abb7d54d95c34c4560ab3f2
+    - name: Dark FX_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 41
+        y: 65
+        width: 3
+        height: 27
+      spriteId: 6d61697141e0b614785f2979f7ce5fae
+    - name: Dark FX_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 41
+        y: 66
+        width: 22
+        height: 25
+      spriteId: c13abeac0c3283c4c881ec95f67b361c
+    - name: Dark FX_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 46
+        y: 64
+        width: 32
+        height: 29
+      spriteId: f3072d55ca02ec048baba6fb3d618884
+    - name: Dark FX_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 47
+        y: 65
+        width: 30
+        height: 27
+      spriteId: 1e05c409a5918d945a39a8019c76c901
+    - name: Dark FX_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 47
+        y: 65
+        width: 36
+        height: 27
+      spriteId: c7c940eaaff9df043b6c9f5e59dba0fa
+    - name: Dark FX_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: 58ddfc033a03a414fb47038b5febf94e
+    - name: Dark FX_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 29
+        y: 35
+        width: 66
+        height: 87
+      spriteId: 27332306f44dfd1438bc563897ef5c68
+    - name: Dark FX_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 28
+        y: 36
+        width: 67
+        height: 85
+      spriteId: 3f37c477bcacf1842ad64d4a93e9289b
+    - name: Dark FX_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 28
+        y: 36
+        width: 67
+        height: 85
+      spriteId: 795ff82002d1b5c4391699d76cd8bc67
+    - name: Dark FX_Frame_124
+      frameIndex: 124
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: c4ecc6bf6979c9541979f0ce5689c235
+    - name: Dark FX_Frame_125
+      frameIndex: 125
+      cellRect:
+        x: 27
+        y: 39
+        width: 134
+        height: 79
+      spriteId: a81343f1007e6b04ba9540890a51cfc9
+    - name: Dark FX_Frame_126
+      frameIndex: 126
+      cellRect:
+        x: 68
+        y: 50
+        width: 94
+        height: 57
+      spriteId: 75c714a266b7ff743a5d5a77f09f7261
+    - name: Dark FX_Frame_127
+      frameIndex: 127
+      cellRect:
+        x: 67
+        y: 50
+        width: 96
+        height: 57
+      spriteId: 872bf9ee8c738a843a0b76d376fe27ac
+    - name: Dark FX_Frame_128
+      frameIndex: 128
+      cellRect:
+        x: 66
+        y: 50
+        width: 98
+        height: 57
+      spriteId: 2cf758c41f5295c4eaef3d61d66c2391
+    - name: Dark FX_Frame_129
+      frameIndex: 129
+      cellRect:
+        x: 66
+        y: 51
+        width: 76
+        height: 55
+      spriteId: b40a23fce5815b14c90f118edf9dbd52
+    - name: Dark FX_Frame_130
+      frameIndex: 130
+      cellRect:
+        x: 65
+        y: 59
+        width: 76
+        height: 39
+      spriteId: e4a7d58d3413c4d449549bc969ea7d66
+    - name: Dark FX_Frame_131
+      frameIndex: 131
+      cellRect:
+        x: 89
+        y: 59
+        width: 54
+        height: 39
+      spriteId: a681ca32375ea584c8abcaf30632b90d
+    - name: Dark FX_Frame_132
+      frameIndex: 132
+      cellRect:
+        x: 90
+        y: 59
+        width: 54
+        height: 39
+      spriteId: dfc8813f041bce74b90007bcd21df9c9
+    - name: Dark FX_Frame_133
+      frameIndex: 133
+      cellRect:
+        x: 91
+        y: 62
+        width: 54
+        height: 33
+      spriteId: 5227b312087a526499d52f9ca855fad9
+    - name: Dark FX_Frame_134
+      frameIndex: 134
+      cellRect:
+        x: 113
+        y: 65
+        width: 15
+        height: 27
+      spriteId: 2ba3e0a5cc161214fa7d09ec5c89727e
+    - name: Dark FX_Frame_140
+      frameIndex: 140
+      cellRect:
+        x: 90
+        y: 38
+        width: 7
+        height: 81
+      spriteId: ccaa7a8920b2c4346bf29e1b37f25245
+    - name: Dark FX_Frame_141
+      frameIndex: 141
+      cellRect:
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      spriteId: e496760161c106a40aae7d117e553697
+    - name: Dark FX_Frame_142
+      frameIndex: 142
+      cellRect:
+        x: 105
+        y: 44
+        width: 25
+        height: 69
+      spriteId: a4da6feb8fb627d4da60931ceb7a4bd7
+    - name: Dark FX_Frame_143
+      frameIndex: 143
+      cellRect:
+        x: 70
+        y: 45
+        width: 60
+        height: 67
+      spriteId: 47acf747a69e9bf4996a4edf742484b9
+    - name: Dark FX_Frame_144
+      frameIndex: 144
+      cellRect:
+        x: 57
+        y: 46
+        width: 74
+        height: 65
+      spriteId: b149ab0eb996717498da8d5cf8dabd98
+    - name: Dark FX_Frame_145
+      frameIndex: 145
+      cellRect:
+        x: 52
+        y: 42
+        width: 79
+        height: 73
+      spriteId: 130e286070e14ce4a9ca02d3a8e22431
+    - name: Dark FX_Frame_146
+      frameIndex: 146
+      cellRect:
+        x: 51
+        y: 41
+        width: 81
+        height: 75
+      spriteId: 82e9d21085964494fad7f9996a21c8bf
+    - name: Dark FX_Frame_147
+      frameIndex: 147
+      cellRect:
+        x: 50
+        y: 40
+        width: 83
+        height: 77
+      spriteId: 129fdb6af38f0de46be2c5d9aaa81f09
+    - name: Dark FX_Frame_148
+      frameIndex: 148
+      cellRect:
+        x: 50
+        y: 39
+        width: 81
+        height: 79
+      spriteId: 5ff41d58c03ea3c46923d4e87afc8115
+    - name: Dark FX_Frame_149
+      frameIndex: 149
+      cellRect:
+        x: 50
+        y: 38
+        width: 66
+        height: 81
+      spriteId: 967d608b5a30edf4dbe0a4c7d2d3d0cc
+    - name: Dark FX_Frame_150
+      frameIndex: 150
+      cellRect:
+        x: 51
+        y: 38
+        width: 42
+        height: 81
+      spriteId: d1329f33bd7e458488849b73d2cdf0c2
+    - name: Dark FX_Frame_151
+      frameIndex: 151
+      cellRect:
+        x: 91
+        y: 37
+        width: 2
+        height: 83
+      spriteId: 6bda77fa65107a04e86ed538d9c714cd
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}

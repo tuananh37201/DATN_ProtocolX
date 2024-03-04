@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: d09ee863faeccb244a848bc6ab474404
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: 01 Traveler Merchant_Frame_0
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 256
+      height: 256
+    spriteID: 50362d2508a1b9944a6c2cee0103b77e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: 01 Traveler Merchant_Frame_1
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 268
+      width: 256
+      height: 256
+    spriteID: bed7ed6208d3603479c09854d44ff8c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 268}
+  - name: 01 Traveler Merchant_Frame_2
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 532
+      width: 256
+      height: 256
+    spriteID: f41d94b57f1cb064ea5e6a2f65f3a048
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 532}
+  - name: 01 Traveler Merchant_Frame_3
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 796
+      width: 256
+      height: 256
+    spriteID: 5a1621988c496524998e5a5b79a9937b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 796}
+  - name: 01 Traveler Merchant_Frame_4
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1060
+      width: 256
+      height: 256
+    spriteID: aa9a89f8a30ea2a46ba5ba95e45815e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1060}
+  - name: 01 Traveler Merchant_Frame_5
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1324
+      width: 256
+      height: 256
+    spriteID: 28b21664ca2eab449af8f7286bbb342c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1324}
+  - name: 01 Traveler Merchant_Frame_6
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1588
+      width: 256
+      height: 256
+    spriteID: 37e844e6ab9100248b1714c2679a6d29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1588}
+  - name: 01 Traveler Merchant_Frame_7
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 4
+      width: 256
+      height: 256
+    spriteID: fc7d68e1fbcec61418fdda0dfdf2e399
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 4}
+  - name: 01 Traveler Merchant_Frame_8
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 268
+      width: 256
+      height: 256
+    spriteID: 64581574e787fd64baf8549e197d5b1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 268}
+  - name: 01 Traveler Merchant_Frame_9
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 532
+      width: 256
+      height: 256
+    spriteID: 63ff874f524a0da48b91d4f96915c682
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 532}
+  - name: 01 Traveler Merchant_Frame_10
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 796
+      width: 256
+      height: 256
+    spriteID: ce1b9783bc0e96f4f99805a99e47bbee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 796}
+  - name: 01 Traveler Merchant_Frame_11
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 1060
+      width: 256
+      height: 256
+    spriteID: a0fd5ebda2527164698165907c2ce75a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 1060}
+  - name: 01 Traveler Merchant_Frame_12
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 1324
+      width: 256
+      height: 256
+    spriteID: 746dd6136cb80684287d814076cb1faf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 1324}
+  - name: 01 Traveler Merchant_Frame_13
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 268
+      y: 1588
+      width: 256
+      height: 256
+    spriteID: a93ac0846387c3c4b9b4fe9a04899cf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 268, y: 1588}
+  - name: 01 Traveler Merchant_Frame_14
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 4
+      width: 256
+      height: 256
+    spriteID: 8392aafa1a53e354b979ed12adc42b0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 4}
+  - name: 01 Traveler Merchant_Frame_15
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 268
+      width: 256
+      height: 256
+    spriteID: 932397ec3b1171d43a329de6574bd73b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 268}
+  - name: 01 Traveler Merchant_Frame_16
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 532
+      width: 256
+      height: 256
+    spriteID: 137635121a4a81648a2d28cdbfca172b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 532}
+  - name: 01 Traveler Merchant_Frame_17
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 796
+      width: 256
+      height: 256
+    spriteID: 9aa794b21d8a2cc468f9559fc918037c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 796}
+  - name: 01 Traveler Merchant_Frame_18
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 1060
+      width: 256
+      height: 256
+    spriteID: b914cd66ebe9c5e41b93224623e81af5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 1060}
+  - name: 01 Traveler Merchant_Frame_19
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 1324
+      width: 256
+      height: 256
+    spriteID: 8208728c27e30304999e9fdc16c28770
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 1324}
+  - name: 01 Traveler Merchant_Frame_20
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 532
+      y: 1588
+      width: 256
+      height: 256
+    spriteID: f077629b7ab25594eb0c8cc62acf010b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 532, y: 1588}
+  - name: 01 Traveler Merchant_Frame_21
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 4
+      width: 256
+      height: 256
+    spriteID: fbbaa19711d4b224b88831262347072e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 4}
+  - name: 01 Traveler Merchant_Frame_22
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 268
+      width: 256
+      height: 256
+    spriteID: fe51695c3d9b18f4a854172c2127a128
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 268}
+  - name: 01 Traveler Merchant_Frame_23
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 532
+      width: 256
+      height: 256
+    spriteID: 2a4e56208cb0d3f4ab1f1bc1dcf7b035
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 532}
+  - name: 01 Traveler Merchant_Frame_24
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 796
+      width: 256
+      height: 256
+    spriteID: 5fa24c38458a9ea469029ca296bbf050
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 796}
+  - name: 01 Traveler Merchant_Frame_25
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 1060
+      width: 256
+      height: 256
+    spriteID: 36b21cc7095670f4998b6669de0c114a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 1060}
+  - name: 01 Traveler Merchant_Frame_26
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 1324
+      width: 256
+      height: 256
+    spriteID: d2070020379c2834ca755abf40d1e5e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 1324}
+  - name: 01 Traveler Merchant_Frame_27
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 796
+      y: 1588
+      width: 256
+      height: 256
+    spriteID: 5f8c283943d37c64ebcc7af668f4f736
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 796, y: 1588}
+  - name: 01 Traveler Merchant_Frame_28
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1060
+      y: 4
+      width: 256
+      height: 256
+    spriteID: 23ea17937f4c69e45825c097ba495e22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1060, y: 4}
+  - name: 01 Traveler Merchant_Frame_29
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1060
+      y: 268
+      width: 256
+      height: 256
+    spriteID: c5b388d9d4eb75947871971d91907242
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1060, y: 268}
+  - name: 01 Traveler Merchant_Frame_30
+    originalName: 
+    pivot: {x: 0.375, y: 0.25}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1060
+      y: 532
+      width: 256
+      height: 256
+    spriteID: d7d55a1ed659b2c42bf5c8fa43d9aa53
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1060, y: 532}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1794830256
+    name: 01 Traveler Merchant
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: 01 Traveler Merchant_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 50362d2508a1b9944a6c2cee0103b77e
+    - name: 01 Traveler Merchant_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: bed7ed6208d3603479c09854d44ff8c4
+    - name: 01 Traveler Merchant_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: f41d94b57f1cb064ea5e6a2f65f3a048
+    - name: 01 Traveler Merchant_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 5a1621988c496524998e5a5b79a9937b
+    - name: 01 Traveler Merchant_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: aa9a89f8a30ea2a46ba5ba95e45815e1
+    - name: 01 Traveler Merchant_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 28b21664ca2eab449af8f7286bbb342c
+    - name: 01 Traveler Merchant_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 37e844e6ab9100248b1714c2679a6d29
+    - name: 01 Traveler Merchant_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: fc7d68e1fbcec61418fdda0dfdf2e399
+    - name: 01 Traveler Merchant_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 64581574e787fd64baf8549e197d5b1c
+    - name: 01 Traveler Merchant_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 63ff874f524a0da48b91d4f96915c682
+    - name: 01 Traveler Merchant_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: ce1b9783bc0e96f4f99805a99e47bbee
+    - name: 01 Traveler Merchant_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: a0fd5ebda2527164698165907c2ce75a
+    - name: 01 Traveler Merchant_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 746dd6136cb80684287d814076cb1faf
+    - name: 01 Traveler Merchant_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: a93ac0846387c3c4b9b4fe9a04899cf6
+    - name: 01 Traveler Merchant_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 8392aafa1a53e354b979ed12adc42b0e
+    - name: 01 Traveler Merchant_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 932397ec3b1171d43a329de6574bd73b
+    - name: 01 Traveler Merchant_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 137635121a4a81648a2d28cdbfca172b
+    - name: 01 Traveler Merchant_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 9aa794b21d8a2cc468f9559fc918037c
+    - name: 01 Traveler Merchant_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: b914cd66ebe9c5e41b93224623e81af5
+    - name: 01 Traveler Merchant_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 8208728c27e30304999e9fdc16c28770
+    - name: 01 Traveler Merchant_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: f077629b7ab25594eb0c8cc62acf010b
+    - name: 01 Traveler Merchant_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: fbbaa19711d4b224b88831262347072e
+    - name: 01 Traveler Merchant_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: fe51695c3d9b18f4a854172c2127a128
+    - name: 01 Traveler Merchant_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 2a4e56208cb0d3f4ab1f1bc1dcf7b035
+    - name: 01 Traveler Merchant_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 5fa24c38458a9ea469029ca296bbf050
+    - name: 01 Traveler Merchant_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 36b21cc7095670f4998b6669de0c114a
+    - name: 01 Traveler Merchant_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: d2070020379c2834ca755abf40d1e5e4
+    - name: 01 Traveler Merchant_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 5f8c283943d37c64ebcc7af668f4f736
+    - name: 01 Traveler Merchant_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: 23ea17937f4c69e45825c097ba495e22
+    - name: 01 Traveler Merchant_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: c5b388d9d4eb75947871971d91907242
+    - name: 01 Traveler Merchant_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: -64
+        width: 256
+        height: 256
+      spriteId: d7d55a1ed659b2c42bf5c8fa43d9aa53
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}

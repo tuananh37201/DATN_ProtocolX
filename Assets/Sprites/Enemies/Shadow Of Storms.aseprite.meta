@@ -1,0 +1,3076 @@
+fileFormatVersion: 2
+guid: 6312dc1eca2b2754a8854033d8c9e4f3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Shadow Of Storms_Frame_61
+    originalName: 
+    pivot: {x: 1.1999999, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 810
+      width: 25
+      height: 27
+    spriteID: e6e229afd0b43a54ea6695ca6b9efb09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 810}
+  - name: Shadow Of Storms_Frame_62
+    originalName: 
+    pivot: {x: 1.1999999, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 494
+      width: 25
+      height: 28
+    spriteID: d10e97c2e477e9047adbe2630b1aff85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 494}
+  - name: Shadow Of Storms_Frame_63
+    originalName: 
+    pivot: {x: 1.1999999, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 644
+      width: 25
+      height: 28
+    spriteID: aa7df62a4c162854782b7e199c2c4c46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 644}
+  - name: Shadow Of Storms_Frame_67
+    originalName: 
+    pivot: {x: 1.1999999, y: -2.7586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 568
+      width: 25
+      height: 29
+    spriteID: 6a8e62a2d98e4564694ee8d0d333d76e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 568}
+  - name: Shadow Of Storms_Frame_0
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 916
+      width: 18
+      height: 24
+    spriteID: 0856bff6383808340bd5d450b553e395
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 916}
+  - name: Shadow Of Storms_Frame_1
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 948
+      width: 18
+      height: 24
+    spriteID: d3f97e6c79d113142ac1787b6483837d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 948}
+  - name: Shadow Of Storms_Frame_2
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 980
+      width: 18
+      height: 24
+    spriteID: 30bbae730b1f12f439d43ccca048e453
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 980}
+  - name: Shadow Of Storms_Frame_3
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 515
+      width: 18
+      height: 24
+    spriteID: 3e577562a333da74fb99dafff3f047f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 515}
+  - name: Shadow Of Storms_Frame_4
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 547
+      width: 18
+      height: 24
+    spriteID: 5dc7e4f3454e946448b7f6d5b8949361
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 547}
+  - name: Shadow Of Storms_Frame_5
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 579
+      width: 18
+      height: 24
+    spriteID: 96b6dc6efdf37a54faa245e7bb4c29ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 579}
+  - name: Shadow Of Storms_Frame_6
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 611
+      width: 18
+      height: 24
+    spriteID: b6d4a66ca75f97e40bad15c24e4a6d65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 611}
+  - name: Shadow Of Storms_Frame_7
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 643
+      width: 18
+      height: 24
+    spriteID: 9b5db4a4614433b4da248d8e8b49199f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 643}
+  - name: Shadow Of Storms_Frame_8
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 675
+      width: 18
+      height: 24
+    spriteID: 76044d684731c98479d294fd36bd36bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 675}
+  - name: Shadow Of Storms_Frame_9
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 707
+      width: 18
+      height: 24
+    spriteID: 0f23f0ffda4a01348b99278ba5fcef94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 707}
+  - name: Shadow Of Storms_Frame_10
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 739
+      width: 18
+      height: 24
+    spriteID: f2a18ed42a367fb45846b9c95fdc714b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 739}
+  - name: Shadow Of Storms_Frame_11
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 771
+      width: 18
+      height: 24
+    spriteID: fc3f5e2081f03b7469713aed33703008
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 771}
+  - name: Shadow Of Storms_Frame_12
+    originalName: 
+    pivot: {x: 1.7333332, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 777
+      width: 15
+      height: 25
+    spriteID: 781fd2bb68d515d43b906d16279a2982
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 777}
+  - name: Shadow Of Storms_Frame_13
+    originalName: 
+    pivot: {x: 1.7857144, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 232
+      width: 14
+      height: 25
+    spriteID: 34d2b8c011659e44e8a4c19f781ffd3e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 232}
+  - name: Shadow Of Storms_Frame_14
+    originalName: 
+    pivot: {x: 1.7333332, y: -3.0769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 168
+      y: 388
+      width: 15
+      height: 26
+    spriteID: 6b9cd50471057b348be371d9eb05fd54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 168, y: 388}
+  - name: Shadow Of Storms_Frame_15
+    originalName: 
+    pivot: {x: 1.7333332, y: -3.28}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 188
+      width: 15
+      height: 25
+    spriteID: 981385762b98c6a4ca4f26e3bdf8702e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 256, y: 188}
+  - name: Shadow Of Storms_Frame_16
+    originalName: 
+    pivot: {x: 2.090909, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 835
+      width: 11
+      height: 25
+    spriteID: 4bc7ea126a8fd354d9d0b84e858d9f78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 835}
+  - name: Shadow Of Storms_Frame_17
+    originalName: 
+    pivot: {x: 2.3, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 696
+      width: 10
+      height: 25
+    spriteID: 8b5508687da1245418cca45e77424d5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 98, y: 696}
+  - name: Shadow Of Storms_Frame_18
+    originalName: 
+    pivot: {x: 2.3, y: -3.24}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 95
+      y: 457
+      width: 10
+      height: 25
+    spriteID: 2f623be8d67fb044593160d7052c80df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 95, y: 457}
+  - name: Shadow Of Storms_Frame_19
+    originalName: 
+    pivot: {x: 2.090909, y: -3.0769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 217
+      y: 987
+      width: 11
+      height: 26
+    spriteID: 0e530972637fecb47aba3a26962da004
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 217, y: 987}
+  - name: Shadow Of Storms_Frame_20
+    originalName: 
+    pivot: {x: 1.35, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 423
+      width: 20
+      height: 27
+    spriteID: b21fbe9634f176347956e7d1864feff6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 423}
+  - name: Shadow Of Storms_Frame_28
+    originalName: 
+    pivot: {x: 0.97368425, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 458
+      width: 38
+      height: 28
+    spriteID: c26e5ab695c5c0e4eb34078dd10f59ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 458}
+  - name: Shadow Of Storms_Frame_36
+    originalName: 
+    pivot: {x: 1.611111, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 803
+      width: 18
+      height: 24
+    spriteID: 85cceeff354f4cd469c5515cdffac754
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 803}
+  - name: Shadow Of Storms_Frame_37
+    originalName: 
+    pivot: {x: 1.6666667, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 883
+      width: 18
+      height: 25
+    spriteID: cbd87cc6e27e56645bc55180fe3cc3cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 883}
+  - name: Shadow Of Storms_Frame_58
+    originalName: 
+    pivot: {x: 0.5126582, y: -2.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 4
+      width: 158
+      height: 33
+    spriteID: 6cc1c854680f8194b8b2523b88548100
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 4}
+  - name: Shadow Of Storms_Frame_59
+    originalName: 
+    pivot: {x: 0.5157233, y: -2.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 86
+      width: 159
+      height: 30
+    spriteID: 02c0c897af12cd746b41c07f14b7504a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 86}
+  - name: Shadow Of Storms_Frame_60
+    originalName: 
+    pivot: {x: 1.35, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 880
+      width: 20
+      height: 24
+    spriteID: 4214d9861bf2aee40b1ba33795516824
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 880}
+  - name: Shadow Of Storms_Frame_64
+    originalName: 
+    pivot: {x: 1.1999999, y: -2.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 965
+      width: 25
+      height: 30
+    spriteID: 3d294d6f9863776489f79de9c08c01ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 965}
+  - name: Shadow Of Storms_Frame_65
+    originalName: 
+    pivot: {x: 1.1999999, y: -2.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 530
+      width: 25
+      height: 30
+    spriteID: 497c9c45b7052d048b7c9e19661680ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 530}
+  - name: Shadow Of Storms_Frame_66
+    originalName: 
+    pivot: {x: 1.1999999, y: -2.580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 856
+      width: 25
+      height: 31
+    spriteID: 932f6c18329ff6a42a4900ae5d79f641
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 856}
+  - name: Shadow Of Storms_Frame_73
+    originalName: 
+    pivot: {x: 0.27884614, y: -0.9302326}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 104
+      height: 86
+    spriteID: 2ed496fcf956ff4418541c0d953d08f3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Shadow Of Storms_Frame_74
+    originalName: 
+    pivot: {x: 0.3373494, y: -0.9195402}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 283
+      width: 83
+      height: 87
+    spriteID: 22c2d5bb38c8366479651ce9d4fd8d8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 283}
+  - name: Shadow Of Storms_Frame_75
+    originalName: 
+    pivot: {x: 1.647059, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 868
+      width: 17
+      height: 24
+    spriteID: e631daefaa040a34e8ebaed92138021d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 868}
+  - name: Shadow Of Storms_Frame_76
+    originalName: 
+    pivot: {x: 1.5882354, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 835
+      width: 17
+      height: 25
+    spriteID: a2c627d41994dcd43b6f1029d288415a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 835}
+  - name: Shadow Of Storms_Frame_77
+    originalName: 
+    pivot: {x: 0.99999994, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 716
+      width: 29
+      height: 27
+    spriteID: 00a6f046253470f4695f43d598d541fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 716}
+  - name: Shadow Of Storms_Frame_78
+    originalName: 
+    pivot: {x: 1.0714285, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 895
+      width: 28
+      height: 27
+    spriteID: 4c8697ddd12865343998eb840416b225
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 895}
+  - name: Shadow Of Storms_Frame_79
+    originalName: 
+    pivot: {x: 1.2222222, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 386
+      width: 27
+      height: 27
+    spriteID: 5a485bd4d514c594ea61b68cb07a3588
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 386}
+  - name: Shadow Of Storms_Frame_80
+    originalName: 
+    pivot: {x: 1.172414, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 751
+      width: 29
+      height: 27
+    spriteID: 9a455091faae4b0419baeaae1b764dec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 751}
+  - name: Shadow Of Storms_Frame_81
+    originalName: 
+    pivot: {x: 1.2666667, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 680
+      width: 30
+      height: 28
+    spriteID: db5677dbd1ba1bd44a17f3efec8d32b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 680}
+  - name: Shadow Of Storms_Frame_82
+    originalName: 
+    pivot: {x: 1.0285715, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 494
+      width: 35
+      height: 28
+    spriteID: 2ef8f4366ec01eb4281958a6ddad5e59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 494}
+  - name: Shadow Of Storms_Frame_83
+    originalName: 
+    pivot: {x: 1.1379311, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 786
+      width: 29
+      height: 27
+    spriteID: 18b99153ee2b99441a649ac65459d63a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 786}
+  - name: Shadow Of Storms_Frame_84
+    originalName: 
+    pivot: {x: 1.2222222, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 421
+      width: 27
+      height: 27
+    spriteID: c7ea70de9a415a749a3cdbbf6dde3415
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 421}
+  - name: Shadow Of Storms_Frame_90
+    originalName: 
+    pivot: {x: 0.5126582, y: -2.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 45
+      width: 158
+      height: 33
+    spriteID: 9a6cf780bde3f1a46aee611750da7f3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 45}
+  - name: Shadow Of Storms_Frame_91
+    originalName: 
+    pivot: {x: 0.5157233, y: -2.6666667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 124
+      width: 159
+      height: 30
+    spriteID: 09588c437a28ba146ae1af63b3bcb355
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 124}
+  - name: Shadow Of Storms_Frame_21
+    originalName: 
+    pivot: {x: 1.3333335, y: -2.7586207}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 752
+      width: 21
+      height: 29
+    spriteID: 930b3ad189438c741ac15f581cacc5d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 752}
+  - name: Shadow Of Storms_Frame_22
+    originalName: 
+    pivot: {x: 1.3181818, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 162
+      y: 458
+      width: 22
+      height: 27
+    spriteID: 6418f784655acc34ebbf1510184636b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 162, y: 458}
+  - name: Shadow Of Storms_Frame_23
+    originalName: 
+    pivot: {x: 1.2916667, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 680
+      width: 24
+      height: 28
+    spriteID: 891fa9b7fdb869f46b62cc7115b31dbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 680}
+  - name: Shadow Of Storms_Frame_24
+    originalName: 
+    pivot: {x: 1.2142859, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 930
+      width: 28
+      height: 27
+    spriteID: 7a505b88c92c2dc49bda43c123093c5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 930}
+  - name: Shadow Of Storms_Frame_25
+    originalName: 
+    pivot: {x: 1.0294118, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 530
+      width: 34
+      height: 27
+    spriteID: 6a5597a467e32de4aaa473cca162d5e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 530}
+  - name: Shadow Of Storms_Frame_26
+    originalName: 
+    pivot: {x: 1.0588236, y: -2.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 730
+      width: 34
+      height: 32
+    spriteID: abb3d6e42619d7e47b382eb24bb34da4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 730}
+  - name: Shadow Of Storms_Frame_27
+    originalName: 
+    pivot: {x: 1.2173914, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 716
+      width: 23
+      height: 28
+    spriteID: 2db7d440cd26cef4b88564598e80c017
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 716}
+  - name: Shadow Of Storms_Frame_29
+    originalName: 
+    pivot: {x: 1.2258064, y: -2.857143}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 644
+      width: 31
+      height: 28
+    spriteID: 08218eb931045cc49a5e34e22e9b29b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 644}
+  - name: Shadow Of Storms_Frame_30
+    originalName: 
+    pivot: {x: 0.975, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 423
+      width: 40
+      height: 27
+    spriteID: 42348c2092ec01b4c9b76c93adf6d0d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 423}
+  - name: Shadow Of Storms_Frame_31
+    originalName: 
+    pivot: {x: 0.9310345, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 821
+      width: 29
+      height: 27
+    spriteID: dfd844d3ea303604f9657d89cadc59df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 821}
+  - name: Shadow Of Storms_Frame_32
+    originalName: 
+    pivot: {x: 0.939394, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 609
+      width: 33
+      height: 27
+    spriteID: 0aa014bd918009b4bbd1052a9da0e8e9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 609}
+  - name: Shadow Of Storms_Frame_33
+    originalName: 
+    pivot: {x: 1.3043478, y: -2.580645}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 605
+      width: 23
+      height: 31
+    spriteID: aac9c4f49682f1b449a3c67ee6c42229
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 605}
+  - name: Shadow Of Storms_Frame_34
+    originalName: 
+    pivot: {x: 1.2272727, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 845
+      width: 22
+      height: 27
+    spriteID: 01ba80ea2808e6645a4ede733eaf156a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 845}
+  - name: Shadow Of Storms_Frame_35
+    originalName: 
+    pivot: {x: 1.35, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 848
+      width: 20
+      height: 27
+    spriteID: 65e8092c704cedb4cac158e0f36ec02a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 848}
+  - name: Shadow Of Storms_Frame_38
+    originalName: 
+    pivot: {x: 1.4615384, y: -3.8095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 819
+      width: 26
+      height: 21
+    spriteID: dc7350d65fb47cf4992d9671061a0d9f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 819}
+  - name: Shadow Of Storms_Frame_39
+    originalName: 
+    pivot: {x: 1.5, y: -3.6363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 789
+      width: 26
+      height: 22
+    spriteID: cb9084370a458b348a5e90379135d67d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 789}
+  - name: Shadow Of Storms_Frame_40
+    originalName: 
+    pivot: {x: 1.4375, y: -3.6363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 456
+      width: 32
+      height: 22
+    spriteID: 3cef93fc7c8b8654fbaf2f7ceeab660c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 456}
+  - name: Shadow Of Storms_Frame_41
+    originalName: 
+    pivot: {x: 1.5172414, y: -3.8095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 486
+      width: 29
+      height: 21
+    spriteID: c0afa565f37fac74cbabb3325e30b130
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 486}
+  - name: Shadow Of Storms_Frame_42
+    originalName: 
+    pivot: {x: 1.3157896, y: -4}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 358
+      width: 38
+      height: 20
+    spriteID: 862e59d8150c1494a9a96bb9073a7d6c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 358}
+  - name: Shadow Of Storms_Frame_48
+    originalName: 
+    pivot: {x: 0.83018863, y: -2.0512822}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 730
+      width: 53
+      height: 39
+    spriteID: d7fe6d8f5050bb244a3b7f76a13e5c11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 730}
+  - name: Shadow Of Storms_Frame_49
+    originalName: 
+    pivot: {x: 1, y: -2.5555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 565
+      width: 25
+      height: 36
+    spriteID: 7da13b746f14c5e47b89453d0e5c64c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 565}
+  - name: Shadow Of Storms_Frame_50
+    originalName: 
+    pivot: {x: 0.6756757, y: -1.8666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 962
+      width: 37
+      height: 45
+    spriteID: 49a86f2d144b7f343a3ad65d5346ff1d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 962}
+  - name: Shadow Of Storms_Frame_51
+    originalName: 
+    pivot: {x: 0.6410257, y: -2.0952382}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 912
+      width: 39
+      height: 42
+    spriteID: ae4464880daf6b8489de5f200e600d94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 912}
+  - name: Shadow Of Storms_Frame_52
+    originalName: 
+    pivot: {x: 0.62500006, y: -2.1190476}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 912
+      width: 40
+      height: 42
+    spriteID: 65101e72c2b97e1408ad6392f6bd96e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 912}
+  - name: Shadow Of Storms_Frame_53
+    originalName: 
+    pivot: {x: 0.5940594, y: -2.2857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 610
+      width: 101
+      height: 35
+    spriteID: 8b13d9e4a9c8e40409c104f1b4dd130c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 610}
+  - name: Shadow Of Storms_Frame_54
+    originalName: 
+    pivot: {x: 0.5227273, y: -2.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 188
+      width: 132
+      height: 36
+    spriteID: 34594fd5274aee54d9ccb1844ac5b05a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 188}
+  - name: Shadow Of Storms_Frame_55
+    originalName: 
+    pivot: {x: 0.5177305, y: -2.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 276
+      width: 141
+      height: 33
+    spriteID: 3000052d784fe5d42aa079835d600903
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 276}
+  - name: Shadow Of Storms_Frame_56
+    originalName: 
+    pivot: {x: 0.5165563, y: -2.105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 96
+      width: 151
+      height: 38
+    spriteID: 4c897a37c4c242e45ac60aa69c7b06c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 96}
+  - name: Shadow Of Storms_Frame_57
+    originalName: 
+    pivot: {x: 0.516129, y: -2.105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 4
+      width: 155
+      height: 38
+    spriteID: 6bd7ee43d73c83b40bc7433fb2a8959d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 4}
+  - name: Shadow Of Storms_Frame_68
+    originalName: 
+    pivot: {x: 0.2765957, y: -1.3333334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 542
+      width: 94
+      height: 60
+    spriteID: d338f9457744ca849b3e95a57adc1706
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 542}
+  - name: Shadow Of Storms_Frame_69
+    originalName: 
+    pivot: {x: 0.2783505, y: -1.1267605}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 378
+      width: 97
+      height: 71
+    spriteID: 1ac83739961e4644d8ee433cbce00196
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 378}
+  - name: Shadow Of Storms_Frame_70
+    originalName: 
+    pivot: {x: 0.3373494, y: -1.0389609}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 457
+      width: 83
+      height: 77
+    spriteID: 5b65561b1d17a4041bcd1235284bf627
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 457}
+  - name: Shadow Of Storms_Frame_71
+    originalName: 
+    pivot: {x: 0.2871287, y: -0.95238096}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 191
+      width: 101
+      height: 84
+    spriteID: 532c12041f73d144b97262ed3e495768
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 191}
+  - name: Shadow Of Storms_Frame_72
+    originalName: 
+    pivot: {x: 0.2815534, y: -0.9411765}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 98
+      width: 103
+      height: 85
+    spriteID: c1df5f5da9d46c54f8b13a731da8c67e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 98}
+  - name: Shadow Of Storms_Frame_85
+    originalName: 
+    pivot: {x: 0.5940594, y: -2.2857144}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 653
+      width: 101
+      height: 35
+    spriteID: 8a3ce07fac57ad144b07e4ed2f480580
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 653}
+  - name: Shadow Of Storms_Frame_86
+    originalName: 
+    pivot: {x: 0.5227273, y: -2.2222223}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 232
+      width: 132
+      height: 36
+    spriteID: 1d19ce60baddb4e47913d478df723d39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 232}
+  - name: Shadow Of Storms_Frame_87
+    originalName: 
+    pivot: {x: 0.5177305, y: -2.4242425}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 317
+      width: 141
+      height: 33
+    spriteID: 3ba35e5b90f13724999e9d0eea6bf83c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 317}
+  - name: Shadow Of Storms_Frame_88
+    originalName: 
+    pivot: {x: 0.5165563, y: -2.105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 142
+      width: 151
+      height: 38
+    spriteID: 3819c13250484bc4f92a14dbad7990ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 142}
+  - name: Shadow Of Storms_Frame_89
+    originalName: 
+    pivot: {x: 0.516129, y: -2.105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 50
+      width: 155
+      height: 38
+    spriteID: 8fffd40ac5b0655439cb5b7856de4097
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 50}
+  - name: Shadow Of Storms_Frame_92
+    originalName: 
+    pivot: {x: 1.8235296, y: -3.8095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 958
+      width: 17
+      height: 21
+    spriteID: 46c0b58a1e5cd47479341cfc032a4e4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 958}
+  - name: Shadow Of Storms_Frame_93
+    originalName: 
+    pivot: {x: 1.7777777, y: -3.8095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 900
+      width: 18
+      height: 21
+    spriteID: 969a36b8621868042abdd2553309dfe7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 900}
+  - name: Shadow Of Storms_Frame_94
+    originalName: 
+    pivot: {x: 1.8235296, y: -3.8095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 987
+      width: 17
+      height: 21
+    spriteID: 45a55b1997b3e87478a2cf399dfec09e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 987}
+  - name: Shadow Of Storms_Frame_95
+    originalName: 
+    pivot: {x: 1.7777777, y: -3.8095238}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 929
+      width: 18
+      height: 21
+    spriteID: 1f04237f542b39c48b3be803a894b88c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 192, y: 929}
+  - name: Shadow Of Storms_Frame_43
+    originalName: 
+    pivot: {x: 0.6857143, y: -2.8888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 810
+      width: 70
+      height: 27
+    spriteID: ae345d16735d5374d90e5485e11ac847
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 810}
+  - name: Shadow Of Storms_Frame_44
+    originalName: 
+    pivot: {x: 0.47272724, y: -3.4782608}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 962
+      width: 55
+      height: 23
+    spriteID: 92b7919482eb1ff43962983ebbe809ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 962}
+  - name: Shadow Of Storms_Frame_45
+    originalName: 
+    pivot: {x: 0.44827583, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 45
+      width: 58
+      height: 25
+    spriteID: c62a39ebd87b1b24ea800d406854e72f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 445, y: 45}
+  - name: Shadow Of Storms_Frame_46
+    originalName: 
+    pivot: {x: 0.4406779, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 445
+      y: 4
+      width: 59
+      height: 25
+    spriteID: 425092a18495bbb4988ea20a286b7fdf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 445, y: 4}
+  - name: Shadow Of Storms_Frame_47
+    originalName: 
+    pivot: {x: 0.4333333, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 446
+      y: 86
+      width: 60
+      height: 25
+    spriteID: 04ae5d95298fe844cae24df48f50276b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 446, y: 86}
+  - name: Shadow Of Storms_Frame_96
+    originalName: 
+    pivot: {x: 0.87499994, y: -3.6363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 993
+      width: 56
+      height: 22
+    spriteID: 4ab2d8c29c934f242b4c1e7e9527d201
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 993}
+  - name: Shadow Of Storms_Frame_97
+    originalName: 
+    pivot: {x: 0.80281687, y: -3.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 880
+      width: 71
+      height: 24
+    spriteID: af603e40206b4bc4598af21d4b26ae0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 880}
+  - name: Shadow Of Storms_Frame_98
+    originalName: 
+    pivot: {x: 0.7777778, y: -3.1999998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 777
+      width: 81
+      height: 25
+    spriteID: e26a3c14561e9f04ab8e46a14803c2a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 777}
+  - name: Shadow Of Storms_Frame_99
+    originalName: 
+    pivot: {x: 0.755814, y: -3.0769231}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 696
+      width: 86
+      height: 26
+    spriteID: db422498045b4974d86e55d80af54a3b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 696}
+  - name: Shadow Of Storms_Frame_100
+    originalName: 
+    pivot: {x: 0.97058827, y: -3.6363637}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 358
+      width: 68
+      height: 22
+    spriteID: c9c438c9427e07549bc154d891ff133f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 358}
+  - name: Shadow Of Storms_Frame_101
+    originalName: 
+    pivot: {x: 0.95714283, y: -2.9629629}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 845
+      width: 70
+      height: 27
+    spriteID: b997511a68685ca4e8ce1ddf7f13eef9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 845}
+  - name: Shadow Of Storms_Frame_102
+    originalName: 
+    pivot: {x: 0.99999994, y: -5.3333335}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 162
+      width: 47
+      height: 15
+    spriteID: fd161427208a3644ea299ed4b19824f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 162}
+  - name: Shadow Of Storms_Frame_103
+    originalName: 
+    pivot: {x: 0.9772728, y: -3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 388
+      width: 44
+      height: 27
+    spriteID: 63a35038a0c44ef4faa0dc62a9c36f43
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 388}
+  - name: Shadow Of Storms_Frame_104
+    originalName: 
+    pivot: {x: 3.5714288, y: -14.571428}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 218
+      y: 900
+      width: 7
+      height: 7
+    spriteID: d62458ca49c9933479a5d0d2a94614b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 218, y: 900}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 359098727
+    name: Shadow Of Storms
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Shadow Of Storms_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 66
+        y: 80
+        width: 25
+        height: 27
+      spriteId: e6e229afd0b43a54ea6695ca6b9efb09
+    - name: Shadow Of Storms_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 66
+        y: 80
+        width: 25
+        height: 28
+      spriteId: d10e97c2e477e9047adbe2630b1aff85
+    - name: Shadow Of Storms_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 66
+        y: 80
+        width: 25
+        height: 28
+      spriteId: aa7df62a4c162854782b7e199c2c4c46
+    - name: Shadow Of Storms_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 66
+        y: 80
+        width: 25
+        height: 29
+      spriteId: 6a8e62a2d98e4564694ee8d0d333d76e
+    - name: Shadow Of Storms_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: 0856bff6383808340bd5d450b553e395
+    - name: Shadow Of Storms_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: d3f97e6c79d113142ac1787b6483837d
+    - name: Shadow Of Storms_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: 30bbae730b1f12f439d43ccca048e453
+    - name: Shadow Of Storms_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: 3e577562a333da74fb99dafff3f047f2
+    - name: Shadow Of Storms_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: 5dc7e4f3454e946448b7f6d5b8949361
+    - name: Shadow Of Storms_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: 96b6dc6efdf37a54faa245e7bb4c29ec
+    - name: Shadow Of Storms_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: b6d4a66ca75f97e40bad15c24e4a6d65
+    - name: Shadow Of Storms_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: 9b5db4a4614433b4da248d8e8b49199f
+    - name: Shadow Of Storms_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: 76044d684731c98479d294fd36bd36bb
+    - name: Shadow Of Storms_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: 0f23f0ffda4a01348b99278ba5fcef94
+    - name: Shadow Of Storms_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: f2a18ed42a367fb45846b9c95fdc714b
+    - name: Shadow Of Storms_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: fc3f5e2081f03b7469713aed33703008
+    - name: Shadow Of Storms_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 70
+        y: 80
+        width: 15
+        height: 25
+      spriteId: 781fd2bb68d515d43b906d16279a2982
+    - name: Shadow Of Storms_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 71
+        y: 80
+        width: 14
+        height: 25
+      spriteId: 34d2b8c011659e44e8a4c19f781ffd3e
+    - name: Shadow Of Storms_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 70
+        y: 80
+        width: 15
+        height: 26
+      spriteId: 6b9cd50471057b348be371d9eb05fd54
+    - name: Shadow Of Storms_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 70
+        y: 82
+        width: 15
+        height: 25
+      spriteId: 981385762b98c6a4ca4f26e3bdf8702e
+    - name: Shadow Of Storms_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 73
+        y: 80
+        width: 11
+        height: 25
+      spriteId: 4bc7ea126a8fd354d9d0b84e858d9f78
+    - name: Shadow Of Storms_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 73
+        y: 80
+        width: 10
+        height: 25
+      spriteId: 8b5508687da1245418cca45e77424d5f
+    - name: Shadow Of Storms_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 73
+        y: 81
+        width: 10
+        height: 25
+      spriteId: 2f623be8d67fb044593160d7052c80df
+    - name: Shadow Of Storms_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 73
+        y: 80
+        width: 11
+        height: 26
+      spriteId: 0e530972637fecb47aba3a26962da004
+    - name: Shadow Of Storms_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 69
+        y: 80
+        width: 20
+        height: 27
+      spriteId: b21fbe9634f176347956e7d1864feff6
+    - name: Shadow Of Storms_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 59
+        y: 80
+        width: 38
+        height: 28
+      spriteId: c26e5ab695c5c0e4eb34078dd10f59ae
+    - name: Shadow Of Storms_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 67
+        y: 80
+        width: 18
+        height: 24
+      spriteId: 85cceeff354f4cd469c5515cdffac754
+    - name: Shadow Of Storms_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 66
+        y: 80
+        width: 18
+        height: 25
+      spriteId: cbd87cc6e27e56645bc55180fe3cc3cc
+    - name: Shadow Of Storms_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 15
+        y: 80
+        width: 158
+        height: 33
+      spriteId: 6cc1c854680f8194b8b2523b88548100
+    - name: Shadow Of Storms_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 14
+        y: 80
+        width: 159
+        height: 30
+      spriteId: 02c0c897af12cd746b41c07f14b7504a
+    - name: Shadow Of Storms_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 69
+        y: 80
+        width: 20
+        height: 24
+      spriteId: 4214d9861bf2aee40b1ba33795516824
+    - name: Shadow Of Storms_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 66
+        y: 80
+        width: 25
+        height: 30
+      spriteId: 3d294d6f9863776489f79de9c08c01ec
+    - name: Shadow Of Storms_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 66
+        y: 80
+        width: 25
+        height: 30
+      spriteId: 497c9c45b7052d048b7c9e19661680ff
+    - name: Shadow Of Storms_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 66
+        y: 80
+        width: 25
+        height: 31
+      spriteId: 932f6c18329ff6a42a4900ae5d79f641
+    - name: Shadow Of Storms_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 67
+        y: 80
+        width: 104
+        height: 86
+      spriteId: 2ed496fcf956ff4418541c0d953d08f3
+    - name: Shadow Of Storms_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 68
+        y: 80
+        width: 83
+        height: 87
+      spriteId: 22c2d5bb38c8366479651ce9d4fd8d8a
+    - name: Shadow Of Storms_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 68
+        y: 80
+        width: 17
+        height: 24
+      spriteId: e631daefaa040a34e8ebaed92138021d
+    - name: Shadow Of Storms_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 69
+        y: 80
+        width: 17
+        height: 25
+      spriteId: a2c627d41994dcd43b6f1029d288415a
+    - name: Shadow Of Storms_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 67
+        y: 80
+        width: 29
+        height: 27
+      spriteId: 00a6f046253470f4695f43d598d541fe
+    - name: Shadow Of Storms_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 66
+        y: 80
+        width: 28
+        height: 27
+      spriteId: 4c8697ddd12865343998eb840416b225
+    - name: Shadow Of Storms_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 63
+        y: 80
+        width: 27
+        height: 27
+      spriteId: 5a485bd4d514c594ea61b68cb07a3588
+    - name: Shadow Of Storms_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 62
+        y: 80
+        width: 29
+        height: 27
+      spriteId: 9a455091faae4b0419baeaae1b764dec
+    - name: Shadow Of Storms_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 58
+        y: 80
+        width: 30
+        height: 28
+      spriteId: db5677dbd1ba1bd44a17f3efec8d32b7
+    - name: Shadow Of Storms_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 60
+        y: 80
+        width: 35
+        height: 28
+      spriteId: 2ef8f4366ec01eb4281958a6ddad5e59
+    - name: Shadow Of Storms_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 63
+        y: 80
+        width: 29
+        height: 27
+      spriteId: 18b99153ee2b99441a649ac65459d63a
+    - name: Shadow Of Storms_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 63
+        y: 80
+        width: 27
+        height: 27
+      spriteId: c7ea70de9a415a749a3cdbbf6dde3415
+    - name: Shadow Of Storms_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 15
+        y: 80
+        width: 158
+        height: 33
+      spriteId: 9a6cf780bde3f1a46aee611750da7f3d
+    - name: Shadow Of Storms_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 14
+        y: 80
+        width: 159
+        height: 30
+      spriteId: 09588c437a28ba146ae1af63b3bcb355
+    - name: Shadow Of Storms_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 68
+        y: 80
+        width: 21
+        height: 29
+      spriteId: 930b3ad189438c741ac15f581cacc5d0
+    - name: Shadow Of Storms_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 67
+        y: 80
+        width: 22
+        height: 27
+      spriteId: 6418f784655acc34ebbf1510184636b7
+    - name: Shadow Of Storms_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 65
+        y: 80
+        width: 24
+        height: 28
+      spriteId: 891fa9b7fdb869f46b62cc7115b31dbd
+    - name: Shadow Of Storms_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 62
+        y: 80
+        width: 28
+        height: 27
+      spriteId: 7a505b88c92c2dc49bda43c123093c5b
+    - name: Shadow Of Storms_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 61
+        y: 80
+        width: 34
+        height: 27
+      spriteId: 6a5597a467e32de4aaa473cca162d5e5
+    - name: Shadow Of Storms_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 60
+        y: 80
+        width: 34
+        height: 32
+      spriteId: abb3d6e42619d7e47b382eb24bb34da4
+    - name: Shadow Of Storms_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 68
+        y: 80
+        width: 23
+        height: 28
+      spriteId: 2db7d440cd26cef4b88564598e80c017
+    - name: Shadow Of Storms_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 58
+        y: 80
+        width: 31
+        height: 28
+      spriteId: 08218eb931045cc49a5e34e22e9b29b3
+    - name: Shadow Of Storms_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 57
+        y: 80
+        width: 40
+        height: 27
+      spriteId: 42348c2092ec01b4c9b76c93adf6d0d4
+    - name: Shadow Of Storms_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 69
+        y: 80
+        width: 29
+        height: 27
+      spriteId: dfd844d3ea303604f9657d89cadc59df
+    - name: Shadow Of Storms_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 65
+        y: 80
+        width: 33
+        height: 27
+      spriteId: 0aa014bd918009b4bbd1052a9da0e8e9
+    - name: Shadow Of Storms_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 66
+        y: 80
+        width: 23
+        height: 31
+      spriteId: aac9c4f49682f1b449a3c67ee6c42229
+    - name: Shadow Of Storms_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 69
+        y: 80
+        width: 22
+        height: 27
+      spriteId: 01ba80ea2808e6645a4ede733eaf156a
+    - name: Shadow Of Storms_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 69
+        y: 80
+        width: 20
+        height: 27
+      spriteId: 65e8092c704cedb4cac158e0f36ec02a
+    - name: Shadow Of Storms_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 58
+        y: 80
+        width: 26
+        height: 21
+      spriteId: dc7350d65fb47cf4992d9671061a0d9f
+    - name: Shadow Of Storms_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 57
+        y: 80
+        width: 26
+        height: 22
+      spriteId: cb9084370a458b348a5e90379135d67d
+    - name: Shadow Of Storms_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 50
+        y: 80
+        width: 32
+        height: 22
+      spriteId: 3cef93fc7c8b8654fbaf2f7ceeab660c
+    - name: Shadow Of Storms_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 52
+        y: 80
+        width: 29
+        height: 21
+      spriteId: c0afa565f37fac74cbabb3325e30b130
+    - name: Shadow Of Storms_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 46
+        y: 80
+        width: 38
+        height: 20
+      spriteId: 862e59d8150c1494a9a96bb9073a7d6c
+    - name: Shadow Of Storms_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 52
+        y: 80
+        width: 53
+        height: 39
+      spriteId: d7fe6d8f5050bb244a3b7f76a13e5c11
+    - name: Shadow Of Storms_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 71
+        y: 92
+        width: 25
+        height: 36
+      spriteId: 7da13b746f14c5e47b89453d0e5c64c0
+    - name: Shadow Of Storms_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 71
+        y: 84
+        width: 37
+        height: 45
+      spriteId: 49a86f2d144b7f343a3ad65d5346ff1d
+    - name: Shadow Of Storms_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 71
+        y: 88
+        width: 39
+        height: 42
+      spriteId: ae4464880daf6b8489de5f200e600d94
+    - name: Shadow Of Storms_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 71
+        y: 89
+        width: 40
+        height: 42
+      spriteId: 65101e72c2b97e1408ad6392f6bd96e5
+    - name: Shadow Of Storms_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 36
+        y: 80
+        width: 101
+        height: 35
+      spriteId: 8b13d9e4a9c8e40409c104f1b4dd130c
+    - name: Shadow Of Storms_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 27
+        y: 80
+        width: 132
+        height: 36
+      spriteId: 34594fd5274aee54d9ccb1844ac5b05a
+    - name: Shadow Of Storms_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 23
+        y: 80
+        width: 141
+        height: 33
+      spriteId: 3000052d784fe5d42aa079835d600903
+    - name: Shadow Of Storms_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 18
+        y: 80
+        width: 151
+        height: 38
+      spriteId: 4c897a37c4c242e45ac60aa69c7b06c7
+    - name: Shadow Of Storms_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 16
+        y: 80
+        width: 155
+        height: 38
+      spriteId: 6bd7ee43d73c83b40bc7433fb2a8959d
+    - name: Shadow Of Storms_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 70
+        y: 80
+        width: 94
+        height: 60
+      spriteId: d338f9457744ca849b3e95a57adc1706
+    - name: Shadow Of Storms_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 69
+        y: 80
+        width: 97
+        height: 71
+      spriteId: 1ac83739961e4644d8ee433cbce00196
+    - name: Shadow Of Storms_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 68
+        y: 80
+        width: 83
+        height: 77
+      spriteId: 5b65561b1d17a4041bcd1235284bf627
+    - name: Shadow Of Storms_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 67
+        y: 80
+        width: 101
+        height: 84
+      spriteId: 532c12041f73d144b97262ed3e495768
+    - name: Shadow Of Storms_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 67
+        y: 80
+        width: 103
+        height: 85
+      spriteId: c1df5f5da9d46c54f8b13a731da8c67e
+    - name: Shadow Of Storms_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 36
+        y: 80
+        width: 101
+        height: 35
+      spriteId: 8a3ce07fac57ad144b07e4ed2f480580
+    - name: Shadow Of Storms_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 27
+        y: 80
+        width: 132
+        height: 36
+      spriteId: 1d19ce60baddb4e47913d478df723d39
+    - name: Shadow Of Storms_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 23
+        y: 80
+        width: 141
+        height: 33
+      spriteId: 3ba35e5b90f13724999e9d0eea6bf83c
+    - name: Shadow Of Storms_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 18
+        y: 80
+        width: 151
+        height: 38
+      spriteId: 3819c13250484bc4f92a14dbad7990ad
+    - name: Shadow Of Storms_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 16
+        y: 80
+        width: 155
+        height: 38
+      spriteId: 8fffd40ac5b0655439cb5b7856de4097
+    - name: Shadow Of Storms_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 65
+        y: 80
+        width: 17
+        height: 21
+      spriteId: 46c0b58a1e5cd47479341cfc032a4e4a
+    - name: Shadow Of Storms_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 64
+        y: 80
+        width: 18
+        height: 21
+      spriteId: 969a36b8621868042abdd2553309dfe7
+    - name: Shadow Of Storms_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 65
+        y: 80
+        width: 17
+        height: 21
+      spriteId: 45a55b1997b3e87478a2cf399dfec09e
+    - name: Shadow Of Storms_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 64
+        y: 80
+        width: 18
+        height: 21
+      spriteId: 1f04237f542b39c48b3be803a894b88c
+    - name: Shadow Of Storms_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 48
+        y: 78
+        width: 70
+        height: 27
+      spriteId: ae345d16735d5374d90e5485e11ac847
+    - name: Shadow Of Storms_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 70
+        y: 80
+        width: 55
+        height: 23
+      spriteId: 92b7919482eb1ff43962983ebbe809ca
+    - name: Shadow Of Storms_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 70
+        y: 80
+        width: 58
+        height: 25
+      spriteId: c62a39ebd87b1b24ea800d406854e72f
+    - name: Shadow Of Storms_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 70
+        y: 80
+        width: 59
+        height: 25
+      spriteId: 425092a18495bbb4988ea20a286b7fdf
+    - name: Shadow Of Storms_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 70
+        y: 80
+        width: 60
+        height: 25
+      spriteId: 04ae5d95298fe844cae24df48f50276b
+    - name: Shadow Of Storms_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 47
+        y: 80
+        width: 56
+        height: 22
+      spriteId: 4ab2d8c29c934f242b4c1e7e9527d201
+    - name: Shadow Of Storms_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 39
+        y: 80
+        width: 71
+        height: 24
+      spriteId: af603e40206b4bc4598af21d4b26ae0f
+    - name: Shadow Of Storms_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 33
+        y: 80
+        width: 81
+        height: 25
+      spriteId: e26a3c14561e9f04ab8e46a14803c2a4
+    - name: Shadow Of Storms_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 31
+        y: 80
+        width: 86
+        height: 26
+      spriteId: db422498045b4974d86e55d80af54a3b
+    - name: Shadow Of Storms_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 30
+        y: 80
+        width: 68
+        height: 22
+      spriteId: c9c438c9427e07549bc154d891ff133f
+    - name: Shadow Of Storms_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 29
+        y: 80
+        width: 70
+        height: 27
+      spriteId: b997511a68685ca4e8ce1ddf7f13eef9
+    - name: Shadow Of Storms_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 49
+        y: 80
+        width: 47
+        height: 15
+      spriteId: fd161427208a3644ea299ed4b19824f6
+    - name: Shadow Of Storms_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 53
+        y: 81
+        width: 44
+        height: 27
+      spriteId: 63a35038a0c44ef4faa0dc62a9c36f43
+    - name: Shadow Of Storms_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 71
+        y: 102
+        width: 7
+        height: 7
+      spriteId: d62458ca49c9933479a5d0d2a94614b6
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 192, y: 192}

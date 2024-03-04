@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 0c2c9277a294f2b4fa86f8fcfb62c4b2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Ledge Climb
+    second: {fileID: 7400000, guid: ddecc279ec3fb8f40ba038490964f1c4, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Ledge Grab
+    second: {fileID: 7400000, guid: 8ebc55fa8361d0745b544ea5f5d8ad68, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638439549560621154
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 37
+      width: 10
+      height: 24
+    spriteID: e6c44646ad4acf94eac978bd11334447
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 37}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_1
+    originalName: 
+    pivot: {x: 0.44444445, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 100
+      width: 9
+      height: 24
+    spriteID: 01dcf1118653b8b43956b7adf0457b2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 100}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 69
+      width: 10
+      height: 24
+    spriteID: d13b6938dafc2d6488b41f4bf4685d61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 69}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 4
+      width: 10
+      height: 24
+    spriteID: f9b1ff1b539a06a47af2db4cf9d08722
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 4}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 36
+      width: 10
+      height: 24
+    spriteID: 00b066edcd35f0b4393079000f7950f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 36}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 53
+      y: 68
+      width: 10
+      height: 24
+    spriteID: 06bda3f366db6ea41b57581a99933cb5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 53, y: 68}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.52}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 4
+      width: 10
+      height: 25
+    spriteID: 622dd79cf4bddc74ebd7c0b7cf60cbac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 4}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_7
+    originalName: 
+    pivot: {x: 0.44444445, y: 0.44}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 4
+      width: 9
+      height: 25
+    spriteID: 41b524765010730448e22685451857dc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 4}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_8
+    originalName: 
+    pivot: {x: 0.18181819, y: 0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 67
+      width: 11
+      height: 24
+    spriteID: 207be173384a910488eacb037ea1f238
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 67}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_9
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 101
+      width: 10
+      height: 23
+    spriteID: 1193b31ad37032a40a5a3dce2f2b440e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 101}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_11
+    originalName: 
+    pivot: {x: -0.18181819, y: -0.13043478}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 99
+      width: 11
+      height: 23
+    spriteID: 15957f536d50cb54e8e4f3114b270ba5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 99}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_12
+    originalName: 
+    pivot: {x: -0.04761905, y: -0.47826087}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 36
+      width: 21
+      height: 23
+    spriteID: 3d1955e2b83d13c429c7bce46b34a7c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 36}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_13
+    originalName: 
+    pivot: {x: 0, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 23
+      height: 24
+    spriteID: 3f62970ad8dc99343840c278b8539b38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Sword Master Sprite Sheet Ledge Climb_Frame_10
+    originalName: 
+    pivot: {x: -0.11111111, y: 0.04761905}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 71
+      y: 37
+      width: 9
+      height: 21
+    spriteID: 1ee2ed5ef9f62584b8a6ba3e71a36eb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 71, y: 37}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 740753493
+    name: Sword Master Sprite Sheet Ledge Climb
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 59
+        y: 52
+        width: 10
+        height: 24
+      spriteId: e6c44646ad4acf94eac978bd11334447
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 60
+        y: 52
+        width: 9
+        height: 24
+      spriteId: 01dcf1118653b8b43956b7adf0457b2c
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 59
+        y: 52
+        width: 10
+        height: 24
+      spriteId: d13b6938dafc2d6488b41f4bf4685d61
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 59
+        y: 52
+        width: 10
+        height: 24
+      spriteId: f9b1ff1b539a06a47af2db4cf9d08722
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 59
+        y: 52
+        width: 10
+        height: 24
+      spriteId: 00b066edcd35f0b4393079000f7950f4
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 59
+        y: 52
+        width: 10
+        height: 24
+      spriteId: 06bda3f366db6ea41b57581a99933cb5
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 59
+        y: 51
+        width: 10
+        height: 25
+      spriteId: 622dd79cf4bddc74ebd7c0b7cf60cbac
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 60
+        y: 53
+        width: 9
+        height: 25
+      spriteId: 41b524765010730448e22685451857dc
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 62
+        y: 62
+        width: 11
+        height: 24
+      spriteId: 207be173384a910488eacb037ea1f238
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 64
+        y: 64
+        width: 10
+        height: 23
+      spriteId: 1193b31ad37032a40a5a3dce2f2b440e
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 66
+        y: 67
+        width: 11
+        height: 23
+      spriteId: 15957f536d50cb54e8e4f3114b270ba5
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 65
+        y: 75
+        width: 21
+        height: 23
+      spriteId: 3d1955e2b83d13c429c7bce46b34a7c1
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 64
+        y: 76
+        width: 23
+        height: 24
+      spriteId: 3f62970ad8dc99343840c278b8539b38
+    - name: Sword Master Sprite Sheet Ledge Climb_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 65
+        y: 63
+        width: 9
+        height: 21
+      spriteId: 1ee2ed5ef9f62584b8a6ba3e71a36eb2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 128, y: 128}
