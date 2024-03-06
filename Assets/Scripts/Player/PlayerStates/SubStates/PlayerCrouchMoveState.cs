@@ -29,11 +29,11 @@ public class PlayerCrouchMoveState : PlayerGroundedState
             core.Movement.SetVelocityX(playerData.crouchMovementVelocity * core.Movement.FacingDirection);
             core.Movement.CheckIfShouldFlip(xInput);
 
-            if(xInput == 0)
-            {
-                stateMachine.ChangeState(player.CrouchIdleState);
-            }
-            else if(yInput != -1 && !isTouchingCeiling)
+            // if(xInput == 0)
+            // {
+            //     stateMachine.ChangeState(player.CrouchIdleState);
+            // }
+            /*else*/ if(yInput != -1 && !isTouchingCeiling)
             {
                 stateMachine.ChangeState(player.MoveState);
             }

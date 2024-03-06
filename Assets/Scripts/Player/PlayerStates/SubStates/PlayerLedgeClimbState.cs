@@ -71,7 +71,7 @@ public class PlayerLedgeClimbState : PlayerState
         {
             if (isTouchingCeiling)
             {
-                stateMachine.ChangeState(player.CrouchIdleState);
+                //stateMachine.ChangeState(player.CrouchIdleState);
             }
             else
             {
