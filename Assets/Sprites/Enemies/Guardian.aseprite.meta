@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 100
+    spritePixelsToUnits: 16
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -75,7 +75,7 @@ ScriptedImporter:
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
-    defaultPivotAlignment: 7
+    defaultPivotAlignment: 0
     customPivotPosition: {x: 0.5, y: 0.5}
     spritePadding: 0
     generateModelPrefab: 1
@@ -87,7 +87,7 @@ ScriptedImporter:
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
-    defaultPivotAlignment: 7
+    defaultPivotAlignment: 0
     customPivotPosition: {x: 0.5, y: 0.5}
     spritePadding: 0
     generateModelPrefab: 1
@@ -95,7 +95,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638454278226084829
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Guardian_Frame_0
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -141,7 +141,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: Guardian_Frame_1
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -161,7 +161,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 204}
   - name: Guardian_Frame_2
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -181,7 +181,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 404}
   - name: Guardian_Frame_3
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -201,7 +201,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 604}
   - name: Guardian_Frame_4
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -221,7 +221,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 804}
   - name: Guardian_Frame_5
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -241,7 +241,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1004}
   - name: Guardian_Frame_6
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -261,7 +261,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1204}
   - name: Guardian_Frame_7
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -281,7 +281,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1404}
   - name: Guardian_Frame_8
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -301,7 +301,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1604}
   - name: Guardian_Frame_9
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -321,7 +321,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1804}
   - name: Guardian_Frame_10
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -341,7 +341,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 2004}
   - name: Guardian_Frame_11
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -361,7 +361,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 2204}
   - name: Guardian_Frame_12
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -381,7 +381,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 2404}
   - name: Guardian_Frame_13
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -401,7 +401,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 2604}
   - name: Guardian_Frame_14
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -421,7 +421,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 2804}
   - name: Guardian_Frame_15
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -441,7 +441,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 3004}
   - name: Guardian_Frame_16
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -461,7 +461,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 3204}
   - name: Guardian_Frame_17
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -481,7 +481,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 3404}
   - name: Guardian_Frame_18
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -501,7 +501,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 3604}
   - name: Guardian_Frame_19
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -521,7 +521,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 3804}
   - name: Guardian_Frame_20
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -541,7 +541,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 4}
   - name: Guardian_Frame_21
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -561,7 +561,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 204}
   - name: Guardian_Frame_22
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -581,7 +581,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 404}
   - name: Guardian_Frame_23
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -601,7 +601,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 604}
   - name: Guardian_Frame_24
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -621,7 +621,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 804}
   - name: Guardian_Frame_25
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -641,7 +641,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1004}
   - name: Guardian_Frame_26
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -661,7 +661,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1204}
   - name: Guardian_Frame_27
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -681,7 +681,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1404}
   - name: Guardian_Frame_28
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -701,7 +701,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1604}
   - name: Guardian_Frame_29
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -721,7 +721,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1804}
   - name: Guardian_Frame_30
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -741,7 +741,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 2004}
   - name: Guardian_Frame_31
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -761,7 +761,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 2204}
   - name: Guardian_Frame_32
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -781,7 +781,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 2404}
   - name: Guardian_Frame_33
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -801,7 +801,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 2604}
   - name: Guardian_Frame_34
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -821,7 +821,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 2804}
   - name: Guardian_Frame_35
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -841,7 +841,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 3004}
   - name: Guardian_Frame_36
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -861,7 +861,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 3204}
   - name: Guardian_Frame_37
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -881,7 +881,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 3404}
   - name: Guardian_Frame_38
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -901,7 +901,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 3604}
   - name: Guardian_Frame_39
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -921,7 +921,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 3804}
   - name: Guardian_Frame_40
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -941,7 +941,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 4}
   - name: Guardian_Frame_41
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -961,7 +961,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 204}
   - name: Guardian_Frame_42
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -981,7 +981,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 404}
   - name: Guardian_Frame_43
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1001,7 +1001,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 604}
   - name: Guardian_Frame_44
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1021,7 +1021,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 804}
   - name: Guardian_Frame_45
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1041,7 +1041,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1004}
   - name: Guardian_Frame_46
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1061,7 +1061,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1204}
   - name: Guardian_Frame_47
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1081,7 +1081,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1404}
   - name: Guardian_Frame_48
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1101,7 +1101,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1604}
   - name: Guardian_Frame_49
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1121,7 +1121,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1804}
   - name: Guardian_Frame_50
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1141,7 +1141,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 2004}
   - name: Guardian_Frame_51
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1161,7 +1161,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 2204}
   - name: Guardian_Frame_52
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1181,7 +1181,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 2404}
   - name: Guardian_Frame_53
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1201,7 +1201,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 2604}
   - name: Guardian_Frame_54
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1221,7 +1221,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 2804}
   - name: Guardian_Frame_55
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1241,7 +1241,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 3004}
   - name: Guardian_Frame_56
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1261,7 +1261,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 3204}
   - name: Guardian_Frame_57
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1281,7 +1281,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 3404}
   - name: Guardian_Frame_58
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1301,7 +1301,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 3604}
   - name: Guardian_Frame_59
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1321,7 +1321,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 3804}
   - name: Guardian_Frame_60
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1341,7 +1341,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 4}
   - name: Guardian_Frame_61
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1361,7 +1361,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 204}
   - name: Guardian_Frame_62
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1381,7 +1381,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 404}
   - name: Guardian_Frame_63
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1401,7 +1401,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 604}
   - name: Guardian_Frame_64
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1421,7 +1421,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 804}
   - name: Guardian_Frame_65
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1441,7 +1441,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 1004}
   - name: Guardian_Frame_66
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1461,7 +1461,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 1204}
   - name: Guardian_Frame_67
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1481,7 +1481,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 1404}
   - name: Guardian_Frame_68
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1501,7 +1501,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 1604}
   - name: Guardian_Frame_69
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1521,7 +1521,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 1804}
   - name: Guardian_Frame_70
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1541,7 +1541,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 2004}
   - name: Guardian_Frame_71
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1561,7 +1561,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 2204}
   - name: Guardian_Frame_72
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1581,7 +1581,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 2404}
   - name: Guardian_Frame_73
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1601,7 +1601,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 2604}
   - name: Guardian_Frame_74
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1621,7 +1621,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 2804}
   - name: Guardian_Frame_75
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1641,7 +1641,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 3004}
   - name: Guardian_Frame_76
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1661,7 +1661,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 3204}
   - name: Guardian_Frame_77
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1681,7 +1681,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 3404}
   - name: Guardian_Frame_78
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1701,7 +1701,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 3604}
   - name: Guardian_Frame_79
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1721,7 +1721,7 @@ ScriptedImporter:
     uvTransform: {x: 604, y: 3804}
   - name: Guardian_Frame_80
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1741,7 +1741,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 4}
   - name: Guardian_Frame_81
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1761,7 +1761,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 204}
   - name: Guardian_Frame_82
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1781,7 +1781,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 404}
   - name: Guardian_Frame_83
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1801,7 +1801,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 604}
   - name: Guardian_Frame_84
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1821,7 +1821,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 804}
   - name: Guardian_Frame_85
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1841,7 +1841,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 1004}
   - name: Guardian_Frame_86
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1861,7 +1861,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 1204}
   - name: Guardian_Frame_87
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1881,7 +1881,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 1404}
   - name: Guardian_Frame_88
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1901,7 +1901,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 1604}
   - name: Guardian_Frame_89
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1921,7 +1921,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 1804}
   - name: Guardian_Frame_90
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1941,7 +1941,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 2004}
   - name: Guardian_Frame_91
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1961,7 +1961,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 2204}
   - name: Guardian_Frame_92
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1981,7 +1981,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 2404}
   - name: Guardian_Frame_93
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2001,7 +2001,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 2604}
   - name: Guardian_Frame_94
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2021,7 +2021,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 2804}
   - name: Guardian_Frame_95
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2041,7 +2041,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 3004}
   - name: Guardian_Frame_96
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2061,7 +2061,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 3204}
   - name: Guardian_Frame_97
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2081,7 +2081,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 3404}
   - name: Guardian_Frame_98
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2101,7 +2101,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 3604}
   - name: Guardian_Frame_99
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2121,7 +2121,7 @@ ScriptedImporter:
     uvTransform: {x: 804, y: 3804}
   - name: Guardian_Frame_100
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2141,7 +2141,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 4}
   - name: Guardian_Frame_101
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2161,7 +2161,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 204}
   - name: Guardian_Frame_102
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2181,7 +2181,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 404}
   - name: Guardian_Frame_103
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2201,7 +2201,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 604}
   - name: Guardian_Frame_104
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2221,7 +2221,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 804}
   - name: Guardian_Frame_105
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2241,7 +2241,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 1004}
   - name: Guardian_Frame_106
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2261,7 +2261,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 1204}
   - name: Guardian_Frame_107
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2281,7 +2281,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 1404}
   - name: Guardian_Frame_108
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2301,7 +2301,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 1604}
   - name: Guardian_Frame_109
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2321,7 +2321,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 1804}
   - name: Guardian_Frame_110
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2341,7 +2341,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 2004}
   - name: Guardian_Frame_111
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2361,7 +2361,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 2204}
   - name: Guardian_Frame_112
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2381,7 +2381,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 2404}
   - name: Guardian_Frame_113
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2401,7 +2401,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 2604}
   - name: Guardian_Frame_114
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2421,7 +2421,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 2804}
   - name: Guardian_Frame_115
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2441,7 +2441,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 3004}
   - name: Guardian_Frame_116
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2461,7 +2461,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 3204}
   - name: Guardian_Frame_117
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2481,7 +2481,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 3404}
   - name: Guardian_Frame_118
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2501,7 +2501,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 3604}
   - name: Guardian_Frame_119
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2521,7 +2521,7 @@ ScriptedImporter:
     uvTransform: {x: 1004, y: 3804}
   - name: Guardian_Frame_120
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2541,7 +2541,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 4}
   - name: Guardian_Frame_121
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2561,7 +2561,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 204}
   - name: Guardian_Frame_122
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2581,7 +2581,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 404}
   - name: Guardian_Frame_123
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2601,7 +2601,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 604}
   - name: Guardian_Frame_124
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2621,7 +2621,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 804}
   - name: Guardian_Frame_125
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2641,7 +2641,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 1004}
   - name: Guardian_Frame_126
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2661,7 +2661,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 1204}
   - name: Guardian_Frame_127
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2681,7 +2681,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 1404}
   - name: Guardian_Frame_128
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2701,7 +2701,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 1604}
   - name: Guardian_Frame_129
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2721,7 +2721,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 1804}
   - name: Guardian_Frame_130
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2741,7 +2741,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 2004}
   - name: Guardian_Frame_131
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2761,7 +2761,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 2204}
   - name: Guardian_Frame_132
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2781,7 +2781,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 2404}
   - name: Guardian_Frame_133
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2801,7 +2801,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 2604}
   - name: Guardian_Frame_134
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2821,7 +2821,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 2804}
   - name: Guardian_Frame_135
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2841,7 +2841,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 3004}
   - name: Guardian_Frame_136
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2861,7 +2861,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 3204}
   - name: Guardian_Frame_137
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2881,7 +2881,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 3404}
   - name: Guardian_Frame_138
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2901,7 +2901,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 3604}
   - name: Guardian_Frame_139
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2921,7 +2921,7 @@ ScriptedImporter:
     uvTransform: {x: 1204, y: 3804}
   - name: Guardian_Frame_140
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2941,7 +2941,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 4}
   - name: Guardian_Frame_141
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2961,7 +2961,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 204}
   - name: Guardian_Frame_142
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2981,7 +2981,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 404}
   - name: Guardian_Frame_143
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3001,7 +3001,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 604}
   - name: Guardian_Frame_144
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3021,7 +3021,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 804}
   - name: Guardian_Frame_145
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3041,7 +3041,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 1004}
   - name: Guardian_Frame_146
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3061,7 +3061,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 1204}
   - name: Guardian_Frame_147
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3081,7 +3081,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 1404}
   - name: Guardian_Frame_148
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3101,7 +3101,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 1604}
   - name: Guardian_Frame_149
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3121,7 +3121,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 1804}
   - name: Guardian_Frame_150
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3141,7 +3141,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 2004}
   - name: Guardian_Frame_151
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3161,7 +3161,7 @@ ScriptedImporter:
     uvTransform: {x: 1404, y: 2204}
   - name: Guardian_Frame_152
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -4414,7 +4414,55 @@ ScriptedImporter:
       spriteId: b0991a47dc878ec44babdc85430011f5
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 192, y: 192}

@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 100
+    spritePixelsToUnits: 16
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -75,7 +75,7 @@ ScriptedImporter:
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
-    defaultPivotAlignment: 7
+    defaultPivotAlignment: 0
     customPivotPosition: {x: 0.5, y: 0.5}
     spritePadding: 0
     generateModelPrefab: 1
@@ -87,7 +87,7 @@ ScriptedImporter:
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
-    defaultPivotAlignment: 7
+    defaultPivotAlignment: 0
     customPivotPosition: {x: 0.5, y: 0.5}
     spritePadding: 0
     generateModelPrefab: 1
@@ -95,7 +95,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 0
+  platformSettingsDirtyTick: 638454278226146924
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: The Tarnished Widow_Frame_0
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -141,7 +141,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 1653}
   - name: The Tarnished Widow_Frame_1
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -161,7 +161,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 1816}
   - name: The Tarnished Widow_Frame_2
     originalName: 
-    pivot: {x: 0.45871562, y: -0.15384616}
+    pivot: {x: 0.45871562, y: 0.49679488}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -181,7 +181,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 997}
   - name: The Tarnished Widow_Frame_3
     originalName: 
-    pivot: {x: 0.45871562, y: -0.14649682}
+    pivot: {x: 0.45871562, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -201,7 +201,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 337}
   - name: The Tarnished Widow_Frame_4
     originalName: 
-    pivot: {x: 0.45871562, y: -0.15384616}
+    pivot: {x: 0.45871562, y: 0.49679488}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -221,7 +221,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 1161}
   - name: The Tarnished Widow_Frame_5
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -241,7 +241,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 4}
   - name: The Tarnished Widow_Frame_6
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16883117}
+    pivot: {x: 0.45871562, y: 0.49025977}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -261,7 +261,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 1471}
   - name: The Tarnished Widow_Frame_7
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -281,7 +281,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 976}
   - name: The Tarnished Widow_Frame_8
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -301,7 +301,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 1137}
   - name: The Tarnished Widow_Frame_9
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16883117}
+    pivot: {x: 0.45871562, y: 0.49025977}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -321,7 +321,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 1633}
   - name: The Tarnished Widow_Frame_10
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16883117}
+    pivot: {x: 0.45871562, y: 0.49025977}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -341,7 +341,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 1795}
   - name: The Tarnished Widow_Frame_11
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -361,7 +361,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 167}
   - name: The Tarnished Widow_Frame_12
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -381,7 +381,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 1298}
   - name: The Tarnished Widow_Frame_13
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -401,7 +401,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 330}
   - name: The Tarnished Widow_Frame_14
     originalName: 
-    pivot: {x: 0.45871562, y: -0.14649682}
+    pivot: {x: 0.45871562, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -421,7 +421,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 502}
   - name: The Tarnished Widow_Frame_15
     originalName: 
-    pivot: {x: 0.45871562, y: -0.13924052}
+    pivot: {x: 0.45871562, y: 0.5031646}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -441,7 +441,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 1886}
   - name: The Tarnished Widow_Frame_16
     originalName: 
-    pivot: {x: 0.45871562, y: -0.13207547}
+    pivot: {x: 0.45871562, y: 0.5062893}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -461,7 +461,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 1719}
   - name: The Tarnished Widow_Frame_17
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16883117}
+    pivot: {x: 0.45871562, y: 0.49025977}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -481,7 +481,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 4}
   - name: The Tarnished Widow_Frame_18
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -501,7 +501,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 1459}
   - name: The Tarnished Widow_Frame_19
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16883117}
+    pivot: {x: 0.45871562, y: 0.49025977}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -521,7 +521,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 166}
   - name: The Tarnished Widow_Frame_20
     originalName: 
-    pivot: {x: 0.45871562, y: -0.15384616}
+    pivot: {x: 0.45871562, y: 0.49679488}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -541,7 +541,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 1325}
   - name: The Tarnished Widow_Frame_21
     originalName: 
-    pivot: {x: 0.45871562, y: -0.14649682}
+    pivot: {x: 0.45871562, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -561,7 +561,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 667}
   - name: The Tarnished Widow_Frame_22
     originalName: 
-    pivot: {x: 0.45871562, y: -0.13924052}
+    pivot: {x: 0.45871562, y: 0.5031646}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -581,7 +581,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 171}
   - name: The Tarnished Widow_Frame_23
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -601,7 +601,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 493}
   - name: The Tarnished Widow_Frame_24
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -621,7 +621,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 1620}
   - name: The Tarnished Widow_Frame_25
     originalName: 
-    pivot: {x: 0.45871562, y: -0.12499999}
+    pivot: {x: 0.45871562, y: 0.509375}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -641,7 +641,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 1551}
   - name: The Tarnished Widow_Frame_26
     originalName: 
-    pivot: {x: 0.45871562, y: -0.11801242}
+    pivot: {x: 0.45871562, y: 0.5124224}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -661,7 +661,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 1382}
   - name: The Tarnished Widow_Frame_27
     originalName: 
-    pivot: {x: 0.45871562, y: -0.11111111}
+    pivot: {x: 0.45871562, y: 0.5154321}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -681,7 +681,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 1042}
   - name: The Tarnished Widow_Frame_28
     originalName: 
-    pivot: {x: 0.4065041, y: -0.17647058}
+    pivot: {x: 0.4065041, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -701,7 +701,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 1151}
   - name: The Tarnished Widow_Frame_29
     originalName: 
-    pivot: {x: 0.3846154, y: -0.17647058}
+    pivot: {x: 0.3846154, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -721,7 +721,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 165}
   - name: The Tarnished Widow_Frame_30
     originalName: 
-    pivot: {x: 0.3787879, y: -0.17647058}
+    pivot: {x: 0.3787879, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -741,7 +741,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 4}
   - name: The Tarnished Widow_Frame_31
     originalName: 
-    pivot: {x: 0.37593985, y: -0.17647058}
+    pivot: {x: 0.37593985, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -761,7 +761,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 1805}
   - name: The Tarnished Widow_Frame_32
     originalName: 
-    pivot: {x: 0.3703704, y: -0.17647058}
+    pivot: {x: 0.3703704, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -781,7 +781,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 1287}
   - name: The Tarnished Widow_Frame_33
     originalName: 
-    pivot: {x: 0.36231884, y: -0.17647058}
+    pivot: {x: 0.36231884, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -801,7 +801,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 569}
   - name: The Tarnished Widow_Frame_34
     originalName: 
-    pivot: {x: 0.35971224, y: -0.17647058}
+    pivot: {x: 0.35971224, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -821,7 +821,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 4}
   - name: The Tarnished Widow_Frame_35
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -841,7 +841,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 1781}
   - name: The Tarnished Widow_Frame_36
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -861,7 +861,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 4}
   - name: The Tarnished Widow_Frame_37
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -881,7 +881,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 165}
   - name: The Tarnished Widow_Frame_38
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -901,7 +901,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 326}
   - name: The Tarnished Widow_Frame_39
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -921,7 +921,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 487}
   - name: The Tarnished Widow_Frame_40
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -941,7 +941,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 648}
   - name: The Tarnished Widow_Frame_41
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16883117}
+    pivot: {x: 0.45871562, y: 0.49025977}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -961,7 +961,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 328}
   - name: The Tarnished Widow_Frame_42
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -981,7 +981,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 656}
   - name: The Tarnished Widow_Frame_43
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1001,7 +1001,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 809}
   - name: The Tarnished Widow_Frame_44
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1021,7 +1021,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 970}
   - name: The Tarnished Widow_Frame_45
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16883117}
+    pivot: {x: 0.45871562, y: 0.49025977}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1041,7 +1041,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 490}
   - name: The Tarnished Widow_Frame_46
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16883117}
+    pivot: {x: 0.45871562, y: 0.49025977}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1061,7 +1061,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 652}
   - name: The Tarnished Widow_Frame_47
     originalName: 
-    pivot: {x: 0.3937008, y: -0.17647058}
+    pivot: {x: 0.3937008, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1081,7 +1081,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 668}
   - name: The Tarnished Widow_Frame_48
     originalName: 
-    pivot: {x: 0.3703704, y: -0.17647058}
+    pivot: {x: 0.3703704, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1101,7 +1101,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 1448}
   - name: The Tarnished Widow_Frame_49
     originalName: 
-    pivot: {x: 0.3448276, y: -0.17647058}
+    pivot: {x: 0.3448276, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1121,7 +1121,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 187}
   - name: The Tarnished Widow_Frame_50
     originalName: 
-    pivot: {x: 0.3424658, y: -0.17647058}
+    pivot: {x: 0.3424658, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1141,7 +1141,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 1864}
   - name: The Tarnished Widow_Frame_51
     originalName: 
-    pivot: {x: 0.33783787, y: -0.17647058}
+    pivot: {x: 0.33783787, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1161,7 +1161,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 1542}
   - name: The Tarnished Widow_Frame_52
     originalName: 
-    pivot: {x: 0.4166667, y: -0.17647058}
+    pivot: {x: 0.4166667, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1181,7 +1181,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 1312}
   - name: The Tarnished Widow_Frame_53
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1201,7 +1201,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 1131}
   - name: The Tarnished Widow_Frame_54
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1221,7 +1221,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 1292}
   - name: The Tarnished Widow_Frame_55
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1241,7 +1241,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 1453}
   - name: The Tarnished Widow_Frame_56
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1261,7 +1261,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 1614}
   - name: The Tarnished Widow_Frame_57
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1281,7 +1281,7 @@ ScriptedImporter:
     uvTransform: {x: 1097, y: 1775}
   - name: The Tarnished Widow_Frame_58
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1301,7 +1301,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 4}
   - name: The Tarnished Widow_Frame_59
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1321,7 +1321,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 165}
   - name: The Tarnished Widow_Frame_60
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16883117}
+    pivot: {x: 0.45871562, y: 0.49025977}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1341,7 +1341,7 @@ ScriptedImporter:
     uvTransform: {x: 980, y: 814}
   - name: The Tarnished Widow_Frame_61
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1361,7 +1361,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 819}
   - name: The Tarnished Widow_Frame_62
     originalName: 
-    pivot: {x: 0.45871562, y: -0.15384616}
+    pivot: {x: 0.45871562, y: 0.49679488}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1381,7 +1381,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 1489}
   - name: The Tarnished Widow_Frame_63
     originalName: 
-    pivot: {x: 0.45871562, y: -0.14649682}
+    pivot: {x: 0.45871562, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1401,7 +1401,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 832}
   - name: The Tarnished Widow_Frame_64
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1421,7 +1421,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 326}
   - name: The Tarnished Widow_Frame_65
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1441,7 +1441,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 487}
   - name: The Tarnished Widow_Frame_66
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1461,7 +1461,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 648}
   - name: The Tarnished Widow_Frame_67
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1481,7 +1481,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 809}
   - name: The Tarnished Widow_Frame_68
     originalName: 
-    pivot: {x: 0.45871562, y: 0.052631576}
+    pivot: {x: 0.45871562, y: 0.58684206}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1501,7 +1501,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 891}
   - name: The Tarnished Widow_Frame_69
     originalName: 
-    pivot: {x: 0.45871562, y: 0.04255319}
+    pivot: {x: 0.45871562, y: 0.5824468}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1521,7 +1521,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 1609}
   - name: The Tarnished Widow_Frame_70
     originalName: 
-    pivot: {x: 0.45871562, y: 0.072164945}
+    pivot: {x: 0.45871562, y: 0.59536076}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1541,7 +1541,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 165}
   - name: The Tarnished Widow_Frame_71
     originalName: 
-    pivot: {x: 0.45871562, y: 0.08163265}
+    pivot: {x: 0.45871562, y: 0.59948975}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1561,7 +1561,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1822}
   - name: The Tarnished Widow_Frame_72
     originalName: 
-    pivot: {x: 0.45871562, y: 0.09090909}
+    pivot: {x: 0.45871562, y: 0.6035354}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1581,7 +1581,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1616}
   - name: The Tarnished Widow_Frame_73
     originalName: 
-    pivot: {x: 0.45871562, y: 0.09547738}
+    pivot: {x: 0.45871562, y: 0.6055276}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1601,7 +1601,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1409}
   - name: The Tarnished Widow_Frame_74
     originalName: 
-    pivot: {x: 0.45871562, y: 0.099999994}
+    pivot: {x: 0.45871562, y: 0.6075}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1621,7 +1621,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1040}
   - name: The Tarnished Widow_Frame_75
     originalName: 
-    pivot: {x: 0.45871562, y: 0.10447762}
+    pivot: {x: 0.45871562, y: 0.6094527}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1641,7 +1641,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 670}
   - name: The Tarnished Widow_Frame_76
     originalName: 
-    pivot: {x: 0.45871562, y: 0.072164945}
+    pivot: {x: 0.45871562, y: 0.59536076}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1661,7 +1661,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 367}
   - name: The Tarnished Widow_Frame_77
     originalName: 
-    pivot: {x: 0.45871562, y: 0.052631576}
+    pivot: {x: 0.45871562, y: 0.58684206}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1681,7 +1681,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 1089}
   - name: The Tarnished Widow_Frame_78
     originalName: 
-    pivot: {x: 0.5294118, y: -0.17647058}
+    pivot: {x: 0.5294118, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1701,7 +1701,7 @@ ScriptedImporter:
     uvTransform: {x: 342, y: 730}
   - name: The Tarnished Widow_Frame_79
     originalName: 
-    pivot: {x: 0.5140845, y: -0.17647058}
+    pivot: {x: 0.5140845, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1721,7 +1721,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1248}
   - name: The Tarnished Widow_Frame_80
     originalName: 
-    pivot: {x: 0.51724136, y: -0.17647058}
+    pivot: {x: 0.51724136, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1741,7 +1741,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 348}
   - name: The Tarnished Widow_Frame_81
     originalName: 
-    pivot: {x: 0.5170068, y: -0.17647058}
+    pivot: {x: 0.5170068, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1761,7 +1761,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 1703}
   - name: The Tarnished Widow_Frame_82
     originalName: 
-    pivot: {x: 0.53846157, y: -0.17647058}
+    pivot: {x: 0.53846157, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1781,7 +1781,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 879}
   - name: The Tarnished Widow_Frame_83
     originalName: 
-    pivot: {x: 0.537931, y: -0.17647058}
+    pivot: {x: 0.537931, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1801,7 +1801,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 509}
   - name: The Tarnished Widow_Frame_84
     originalName: 
-    pivot: {x: 0.5374149, y: -0.14649682}
+    pivot: {x: 0.5374149, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1821,7 +1821,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 875}
   - name: The Tarnished Widow_Frame_85
     originalName: 
-    pivot: {x: 0.53543305, y: -0.15384616}
+    pivot: {x: 0.53543305, y: 0.49679488}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1841,7 +1841,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 326}
   - name: The Tarnished Widow_Frame_86
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1861,7 +1861,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 982}
   - name: The Tarnished Widow_Frame_87
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1881,7 +1881,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 970}
   - name: The Tarnished Widow_Frame_88
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1901,7 +1901,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 1131}
   - name: The Tarnished Widow_Frame_89
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1921,7 +1921,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 1292}
   - name: The Tarnished Widow_Frame_90
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1941,7 +1941,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 1453}
   - name: The Tarnished Widow_Frame_91
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1961,7 +1961,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 1614}
   - name: The Tarnished Widow_Frame_92
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1981,7 +1981,7 @@ ScriptedImporter:
     uvTransform: {x: 1214, y: 1775}
   - name: The Tarnished Widow_Frame_93
     originalName: 
-    pivot: {x: 0.45871562, y: -0.13207547}
+    pivot: {x: 0.45871562, y: 0.5062893}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2001,7 +2001,7 @@ ScriptedImporter:
     uvTransform: {x: 746, y: 4}
   - name: The Tarnished Widow_Frame_94
     originalName: 
-    pivot: {x: 0.45871562, y: -0.11111111}
+    pivot: {x: 0.45871562, y: 0.5154321}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2021,7 +2021,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 1212}
   - name: The Tarnished Widow_Frame_95
     originalName: 
-    pivot: {x: 0.45871562, y: -0.09756097}
+    pivot: {x: 0.45871562, y: 0.5213415}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2041,7 +2041,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 870}
   - name: The Tarnished Widow_Frame_96
     originalName: 
-    pivot: {x: 0.45871562, y: -0.09090909}
+    pivot: {x: 0.45871562, y: 0.5242424}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2061,7 +2061,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 178}
   - name: The Tarnished Widow_Frame_97
     originalName: 
-    pivot: {x: 0.45871562, y: -0.084337346}
+    pivot: {x: 0.45871562, y: 0.52710843}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2081,7 +2081,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 4}
   - name: The Tarnished Widow_Frame_98
     originalName: 
-    pivot: {x: 0.45871562, y: -0.077844314}
+    pivot: {x: 0.45871562, y: 0.5299401}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2101,7 +2101,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 1649}
   - name: The Tarnished Widow_Frame_99
     originalName: 
-    pivot: {x: 0.45871562, y: -0.077844314}
+    pivot: {x: 0.45871562, y: 0.5299401}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2121,7 +2121,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 1824}
   - name: The Tarnished Widow_Frame_100
     originalName: 
-    pivot: {x: 0.45871562, y: -0.071428575}
+    pivot: {x: 0.45871562, y: 0.53273815}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2141,7 +2141,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 1473}
   - name: The Tarnished Widow_Frame_101
     originalName: 
-    pivot: {x: 0.45871562, y: -0.09090909}
+    pivot: {x: 0.45871562, y: 0.5242424}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2161,7 +2161,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 351}
   - name: The Tarnished Widow_Frame_102
     originalName: 
-    pivot: {x: 0.45871562, y: -0.09090909}
+    pivot: {x: 0.45871562, y: 0.5242424}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2181,7 +2181,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 524}
   - name: The Tarnished Widow_Frame_103
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2201,7 +2201,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 1145}
   - name: The Tarnished Widow_Frame_104
     originalName: 
-    pivot: {x: 0.45871562, y: -0.16129032}
+    pivot: {x: 0.45871562, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2221,7 +2221,7 @@ ScriptedImporter:
     uvTransform: {x: 863, y: 1308}
   - name: The Tarnished Widow_Frame_105
     originalName: 
-    pivot: {x: 0.45871562, y: -0.09090909}
+    pivot: {x: 0.45871562, y: 0.5242424}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2241,7 +2241,7 @@ ScriptedImporter:
     uvTransform: {x: 629, y: 697}
   - name: The Tarnished Widow_Frame_106
     originalName: 
-    pivot: {x: 0.49137932, y: -0.05882353}
+    pivot: {x: 0.49137932, y: 0.5382353}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2261,7 +2261,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 490}
   - name: The Tarnished Widow_Frame_107
     originalName: 
-    pivot: {x: 0.5530303, y: -0.046511624}
+    pivot: {x: 0.5530303, y: 0.5436046}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2281,7 +2281,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 1362}
   - name: The Tarnished Widow_Frame_108
     originalName: 
-    pivot: {x: 0.5448275, y: -0.040462427}
+    pivot: {x: 0.5448275, y: 0.5462428}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2301,7 +2301,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 531}
   - name: The Tarnished Widow_Frame_109
     originalName: 
-    pivot: {x: 0.54304636, y: -0.03448276}
+    pivot: {x: 0.54304636, y: 0.54885054}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2321,7 +2321,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 349}
   - name: The Tarnished Widow_Frame_110
     originalName: 
-    pivot: {x: 0.55063295, y: -0.028571427}
+    pivot: {x: 0.55063295, y: 0.55142856}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2341,7 +2341,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: The Tarnished Widow_Frame_111
     originalName: 
-    pivot: {x: 0.5398773, y: -0.09756097}
+    pivot: {x: 0.5398773, y: 0.5213415}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2361,7 +2361,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 177}
   - name: The Tarnished Widow_Frame_112
     originalName: 
-    pivot: {x: 0.5426829, y: -0.09090909}
+    pivot: {x: 0.5426829, y: 0.5242424}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2381,7 +2381,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 4}
   - name: The Tarnished Widow_Frame_113
     originalName: 
-    pivot: {x: 0.60402685, y: -0.16129032}
+    pivot: {x: 0.60402685, y: 0.49354836}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2401,7 +2401,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 712}
   - name: The Tarnished Widow_Frame_114
     originalName: 
-    pivot: {x: 0.40000004, y: -0.17647058}
+    pivot: {x: 0.40000004, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2421,7 +2421,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 829}
   - name: The Tarnished Widow_Frame_115
     originalName: 
-    pivot: {x: 0.60402685, y: -0.17647058}
+    pivot: {x: 0.60402685, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2441,7 +2441,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 1040}
   - name: The Tarnished Widow_Frame_116
     originalName: 
-    pivot: {x: 0.40000004, y: -0.17647058}
+    pivot: {x: 0.40000004, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2461,7 +2461,7 @@ ScriptedImporter:
     uvTransform: {x: 489, y: 990}
   - name: The Tarnished Widow_Frame_117
     originalName: 
-    pivot: {x: 0.60402685, y: -0.17647058}
+    pivot: {x: 0.60402685, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2481,7 +2481,7 @@ ScriptedImporter:
     uvTransform: {x: 170, y: 1201}
   - name: The Tarnished Widow_Frame_118
     originalName: 
-    pivot: {x: 0.45871562, y: -0.17647058}
+    pivot: {x: 0.45871562, y: 0.48692814}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3462,7 +3462,55 @@ ScriptedImporter:
       spriteId: a4bd6e561515c2f4886c426abeb26de2
     linkedCells: []
     parentIndex: -1
-  platformSettings: []
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 214, y: 203}
