@@ -46,7 +46,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 95119dc4b1d99eb45b9754b65507ba7c, type: 2}
+  m_Motion: {fileID: 7400000, guid: b298c8a7c20e8064aadafc7b83fdb168, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -204,7 +204,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 035207aa0f88d4c4fb0e5982cb1bc5f1, type: 2}
+  m_Motion: {fileID: 7400000, guid: 9754dd3f8689ee04d99e32d18a04c21c, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -231,7 +231,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 9da43537ffab4404c85b9aa92b527d9f, type: 2}
+  m_Motion: {fileID: 7400000, guid: 27d950f2001fb6744af8388d26b78fc3, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -243,7 +243,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Weapon_Sword_AC 1
+  m_Name: Sword
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: attackCounter
