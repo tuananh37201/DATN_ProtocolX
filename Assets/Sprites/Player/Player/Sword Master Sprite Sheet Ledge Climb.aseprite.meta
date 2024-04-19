@@ -131,7 +131,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_0
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.4, y: 0.4166667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -151,7 +151,7 @@ ScriptedImporter:
     uvTransform: {x: 35, y: 37}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_1
     originalName: 
-    pivot: {x: 0.44444445, y: 0.5}
+    pivot: {x: 0.33333334, y: 0.4166667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -171,7 +171,7 @@ ScriptedImporter:
     uvTransform: {x: 53, y: 100}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_2
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.4, y: 0.4166667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -191,7 +191,7 @@ ScriptedImporter:
     uvTransform: {x: 35, y: 69}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_3
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.4, y: 0.4166667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -211,7 +211,7 @@ ScriptedImporter:
     uvTransform: {x: 53, y: 4}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_4
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.4, y: 0.4166667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -231,7 +231,7 @@ ScriptedImporter:
     uvTransform: {x: 53, y: 36}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_5
     originalName: 
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.4, y: 0.4166667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -251,7 +251,7 @@ ScriptedImporter:
     uvTransform: {x: 53, y: 68}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_6
     originalName: 
-    pivot: {x: 0.5, y: 0.52}
+    pivot: {x: 0.4, y: 0.44}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -271,7 +271,7 @@ ScriptedImporter:
     uvTransform: {x: 35, y: 4}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_7
     originalName: 
-    pivot: {x: 0.44444445, y: 0.44}
+    pivot: {x: 0.33333334, y: 0.35999998}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -291,7 +291,7 @@ ScriptedImporter:
     uvTransform: {x: 71, y: 4}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_8
     originalName: 
-    pivot: {x: 0.18181819, y: 0.083333336}
+    pivot: {x: 0.09090909, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -311,7 +311,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 67}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_9
     originalName: 
-    pivot: {x: 0, y: 0}
+    pivot: {x: -0.1, y: -0.08695652}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -331,7 +331,7 @@ ScriptedImporter:
     uvTransform: {x: 35, y: 101}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_11
     originalName: 
-    pivot: {x: -0.18181819, y: -0.13043478}
+    pivot: {x: -0.27272728, y: -0.21739131}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -351,7 +351,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 99}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_12
     originalName: 
-    pivot: {x: -0.04761905, y: -0.47826087}
+    pivot: {x: -0.0952381, y: -0.5652174}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -371,7 +371,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 36}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_13
     originalName: 
-    pivot: {x: 0, y: -0.5}
+    pivot: {x: -0.04347826, y: -0.5833334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -391,7 +391,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: Sword Master Sprite Sheet Ledge Climb_Frame_10
     originalName: 
-    pivot: {x: -0.11111111, y: 0.04761905}
+    pivot: {x: -0.22222222, y: -0.04761905}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -421,112 +421,112 @@ ScriptedImporter:
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_0
       frameIndex: 0
       cellRect:
-        x: 59
-        y: 52
+        x: 60
+        y: 54
         width: 10
         height: 24
       spriteId: e6c44646ad4acf94eac978bd11334447
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_1
       frameIndex: 1
       cellRect:
-        x: 60
-        y: 52
+        x: 61
+        y: 54
         width: 9
         height: 24
       spriteId: 01dcf1118653b8b43956b7adf0457b2c
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_2
       frameIndex: 2
       cellRect:
-        x: 59
-        y: 52
+        x: 60
+        y: 54
         width: 10
         height: 24
       spriteId: d13b6938dafc2d6488b41f4bf4685d61
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_3
       frameIndex: 3
       cellRect:
-        x: 59
-        y: 52
+        x: 60
+        y: 54
         width: 10
         height: 24
       spriteId: f9b1ff1b539a06a47af2db4cf9d08722
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_4
       frameIndex: 4
       cellRect:
-        x: 59
-        y: 52
+        x: 60
+        y: 54
         width: 10
         height: 24
       spriteId: 00b066edcd35f0b4393079000f7950f4
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_5
       frameIndex: 5
       cellRect:
-        x: 59
-        y: 52
+        x: 60
+        y: 54
         width: 10
         height: 24
       spriteId: 06bda3f366db6ea41b57581a99933cb5
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_6
       frameIndex: 6
       cellRect:
-        x: 59
-        y: 51
+        x: 60
+        y: 53
         width: 10
         height: 25
       spriteId: 622dd79cf4bddc74ebd7c0b7cf60cbac
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_7
       frameIndex: 7
       cellRect:
-        x: 60
-        y: 53
+        x: 61
+        y: 55
         width: 9
         height: 25
       spriteId: 41b524765010730448e22685451857dc
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_8
       frameIndex: 8
       cellRect:
-        x: 62
-        y: 62
+        x: 63
+        y: 64
         width: 11
         height: 24
       spriteId: 207be173384a910488eacb037ea1f238
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_9
       frameIndex: 9
       cellRect:
-        x: 64
-        y: 64
+        x: 65
+        y: 66
         width: 10
         height: 23
       spriteId: 1193b31ad37032a40a5a3dce2f2b440e
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_11
       frameIndex: 11
       cellRect:
-        x: 66
-        y: 67
+        x: 67
+        y: 69
         width: 11
         height: 23
       spriteId: 15957f536d50cb54e8e4f3114b270ba5
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_12
       frameIndex: 12
       cellRect:
-        x: 65
-        y: 75
+        x: 66
+        y: 77
         width: 21
         height: 23
       spriteId: 3d1955e2b83d13c429c7bce46b34a7c1
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_13
       frameIndex: 13
       cellRect:
-        x: 64
-        y: 76
+        x: 65
+        y: 78
         width: 23
         height: 24
       spriteId: 3f62970ad8dc99343840c278b8539b38
     - name: Sword Master Sprite Sheet Ledge Climb_Frame_10
       frameIndex: 10
       cellRect:
-        x: 65
-        y: 63
+        x: 66
+        y: 65
         width: 9
         height: 21
       spriteId: 1ee2ed5ef9f62584b8a6ba3e71a36eb2

@@ -23,25 +23,25 @@ AnimationClip:
     - time: 0
       value: {fileID: 6823109741557038676, guid: c81a59964182ad84ab2af7546d27eeaf,
         type: 3}
-    - time: 0.099999905
+    - time: 0.1
       value: {fileID: 526371603560610704, guid: c81a59964182ad84ab2af7546d27eeaf,
         type: 3}
-    - time: 0.19999981
+    - time: 0.18
       value: {fileID: 2128562579150905215, guid: c81a59964182ad84ab2af7546d27eeaf,
         type: 3}
-    - time: 0.2999997
+    - time: 0.28
       value: {fileID: 601979908915295702, guid: c81a59964182ad84ab2af7546d27eeaf,
         type: 3}
-    - time: 0.39999962
+    - time: 0.39
       value: {fileID: 4918423263663653537, guid: c81a59964182ad84ab2af7546d27eeaf,
         type: 3}
-    - time: 0.5
+    - time: 0.49
       value: {fileID: 2989462206427017329, guid: c81a59964182ad84ab2af7546d27eeaf,
         type: 3}
-    - time: 0.5999999
+    - time: 0.57
       value: {fileID: 8137007418363190932, guid: c81a59964182ad84ab2af7546d27eeaf,
         type: 3}
-    - time: 0.6999999
+    - time: 0.67
       value: {fileID: 8137007418363190932, guid: c81a59964182ad84ab2af7546d27eeaf,
         type: 3}
     attribute: m_Sprite
@@ -120,14 +120,14 @@ AnimationClip:
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0.6
+  - time: 0.57
     functionName: AnimationStopMovementTrigger
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
-  - time: 0.7
+  - time: 0.67
     functionName: AnimationTurnOnFlipTrigger
     data: 
     objectReferenceParameter: {fileID: 0}
