@@ -230,7 +230,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638483577778289729
+  platformSettingsDirtyTick: 638491362236539220
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -1116,7 +1116,7 @@ ScriptedImporter:
     uvTransform: {x: 90, y: 20}
   - name: Sword Master Sprite Sheet 1_Frame_42
     originalName: 
-    pivot: {x: 0.5217391, y: 1.375}
+    pivot: {x: 0.5217391, y: 1.625}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1136,7 +1136,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 450}
   - name: Sword Master Sprite Sheet 1_Frame_43
     originalName: 
-    pivot: {x: 0.52380955, y: 1.2222222}
+    pivot: {x: 0.52380955, y: 1.4444444}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1156,7 +1156,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 81}
   - name: Sword Master Sprite Sheet 1_Frame_44
     originalName: 
-    pivot: {x: 0.6923077, y: 0.90000004}
+    pivot: {x: 0.6923077, y: 1.1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1176,7 +1176,7 @@ ScriptedImporter:
     uvTransform: {x: 90, y: 394}
   - name: Sword Master Sprite Sheet 1_Frame_45
     originalName: 
-    pivot: {x: 0.9166667, y: 0.84615386}
+    pivot: {x: 0.9166667, y: 1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1196,7 +1196,7 @@ ScriptedImporter:
     uvTransform: {x: 90, y: 117}
   - name: Sword Master Sprite Sheet 1_Frame_46
     originalName: 
-    pivot: {x: 1.1, y: 1.2222222}
+    pivot: {x: 1.1, y: 1.4444444}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1216,7 +1216,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 361}
   - name: Sword Master Sprite Sheet 1_Frame_47
     originalName: 
-    pivot: {x: 0.37931034, y: 0.7857143}
+    pivot: {x: 0.37931034, y: 0.92857146}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1236,7 +1236,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: Sword Master Sprite Sheet 1_Frame_48
     originalName: 
-    pivot: {x: 0.39285716, y: 0.84615386}
+    pivot: {x: 0.39285716, y: 1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1256,7 +1256,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 26}
   - name: Sword Master Sprite Sheet 1_Frame_49
     originalName: 
-    pivot: {x: 0.4074074, y: 0.9166667}
+    pivot: {x: 0.4074074, y: 1.0833334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1276,7 +1276,7 @@ ScriptedImporter:
     uvTransform: {x: 41, y: 55}
   - name: Sword Master Sprite Sheet 1_Frame_50
     originalName: 
-    pivot: {x: 0.4074074, y: 1}
+    pivot: {x: 0.4074074, y: 1.1818182}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1296,7 +1296,7 @@ ScriptedImporter:
     uvTransform: {x: 41, y: 75}
   - name: Sword Master Sprite Sheet 1_Frame_51
     originalName: 
-    pivot: {x: 0.42307693, y: 1}
+    pivot: {x: 0.42307693, y: 1.1818182}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1316,7 +1316,7 @@ ScriptedImporter:
     uvTransform: {x: 41, y: 94}
   - name: Sword Master Sprite Sheet 1_Frame_52
     originalName: 
-    pivot: {x: -0.11111111, y: 0.33333334}
+    pivot: {x: -0.11111111, y: 0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1336,7 +1336,7 @@ ScriptedImporter:
     uvTransform: {x: 90, y: 492}
   - name: Sword Master Sprite Sheet 1_Frame_53
     originalName: 
-    pivot: {x: -0.31578946, y: 0.2857143}
+    pivot: {x: -0.31578946, y: 0.5714286}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1356,7 +1356,7 @@ ScriptedImporter:
     uvTransform: {x: 90, y: 332}
   - name: Sword Master Sprite Sheet 1_Frame_62
     originalName: 
-    pivot: {x: -0.2631579, y: 0.2857143}
+    pivot: {x: -0.2631579, y: 0.5714286}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1376,7 +1376,7 @@ ScriptedImporter:
     uvTransform: {x: 90, y: 347}
   - name: Sword Master Sprite Sheet 1_Frame_63
     originalName: 
-    pivot: {x: -0.23529412, y: 0.33333334}
+    pivot: {x: -0.23529412, y: 0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1396,7 +1396,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 91}
   - name: Sword Master Sprite Sheet 1_Frame_64
     originalName: 
-    pivot: {x: -0.11111111, y: 0.33333334}
+    pivot: {x: -0.11111111, y: 0.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1416,7 +1416,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 61}
   - name: Sword Master Sprite Sheet 1_Frame_65
     originalName: 
-    pivot: {x: 0.6875, y: 0.29411766}
+    pivot: {x: 0.6875, y: 0.4117647}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1436,7 +1436,7 @@ ScriptedImporter:
     uvTransform: {x: 41, y: 132}
   - name: Sword Master Sprite Sheet 1_Frame_66
     originalName: 
-    pivot: {x: -1, y: 5.5}
+    pivot: {x: -1, y: 6.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1456,7 +1456,7 @@ ScriptedImporter:
     uvTransform: {x: 90, y: 506}
   - name: Sword Master Sprite Sheet 1_Frame_70
     originalName: 
-    pivot: {x: 0.375, y: 0.6666667}
+    pivot: {x: 0.375, y: 0.8888889}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1476,7 +1476,7 @@ ScriptedImporter:
     uvTransform: {x: 41, y: 21}
   - name: Sword Master Sprite Sheet 1_Frame_71
     originalName: 
-    pivot: {x: 0.36585364, y: 0.6666667}
+    pivot: {x: 0.36585364, y: 0.8888889}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1496,7 +1496,7 @@ ScriptedImporter:
     uvTransform: {x: 41, y: 4}
   - name: Sword Master Sprite Sheet 1_Frame_72
     originalName: 
-    pivot: {x: 0.35897437, y: 0.5555556}
+    pivot: {x: 0.35897437, y: 0.7777778}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1516,7 +1516,7 @@ ScriptedImporter:
     uvTransform: {x: 41, y: 38}
   - name: Sword Master Sprite Sheet 1_Frame_73
     originalName: 
-    pivot: {x: 0.44, y: 1}
+    pivot: {x: 0.44, y: 1.1818182}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1536,7 +1536,7 @@ ScriptedImporter:
     uvTransform: {x: 41, y: 113}
   - name: Sword Master Sprite Sheet 1_Frame_74
     originalName: 
-    pivot: {x: 0.47619048, y: 1.375}
+    pivot: {x: 0.47619048, y: 1.625}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1556,7 +1556,7 @@ ScriptedImporter:
     uvTransform: {x: 90, y: 53}
   - name: Sword Master Sprite Sheet 1_Frame_75
     originalName: 
-    pivot: {x: 0.47619048, y: 1.2222222}
+    pivot: {x: 0.47619048, y: 1.4444444}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2776,7 +2776,7 @@ ScriptedImporter:
     uvTransform: {x: 153, y: 40}
   - name: Sword Master Sprite Sheet 1_Frame_54
     originalName: 
-    pivot: {x: 1.2307693, y: 1.3333334}
+    pivot: {x: 1.2307693, y: 1.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2796,7 +2796,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 378}
   - name: Sword Master Sprite Sheet 1_Frame_55
     originalName: 
-    pivot: {x: 1.4545455, y: 1.2857144}
+    pivot: {x: 1.4545455, y: 1.5714287}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2816,7 +2816,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 406}
   - name: Sword Master Sprite Sheet 1_Frame_56
     originalName: 
-    pivot: {x: 1.4545455, y: 1.3333334}
+    pivot: {x: 1.4545455, y: 1.6666667}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2836,7 +2836,7 @@ ScriptedImporter:
     uvTransform: {x: 172, y: 15}
   - name: Sword Master Sprite Sheet 1_Frame_57
     originalName: 
-    pivot: {x: 1.4166667, y: 1.4}
+    pivot: {x: 1.4166667, y: 1.8000001}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2856,7 +2856,7 @@ ScriptedImporter:
     uvTransform: {x: 172, y: 50}
   - name: Sword Master Sprite Sheet 1_Frame_58
     originalName: 
-    pivot: {x: 1.7777778, y: 2}
+    pivot: {x: 1.7777778, y: 3}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2876,7 +2876,7 @@ ScriptedImporter:
     uvTransform: {x: 73, y: 243}
   - name: Sword Master Sprite Sheet 1_Frame_59
     originalName: 
-    pivot: {x: 1.7777778, y: 1.5}
+    pivot: {x: 1.7777778, y: 2}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2896,7 +2896,7 @@ ScriptedImporter:
     uvTransform: {x: 73, y: 207}
   - name: Sword Master Sprite Sheet 1_Frame_60
     originalName: 
-    pivot: {x: 1.7777778, y: 1.5}
+    pivot: {x: 1.7777778, y: 2}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2916,7 +2916,7 @@ ScriptedImporter:
     uvTransform: {x: 73, y: 219}
   - name: Sword Master Sprite Sheet 1_Frame_67
     originalName: 
-    pivot: {x: -0.90000004, y: 5.5}
+    pivot: {x: -0.90000004, y: 6.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2936,7 +2936,7 @@ ScriptedImporter:
     uvTransform: {x: 172, y: 76}
   - name: Sword Master Sprite Sheet 1_Frame_68
     originalName: 
-    pivot: {x: -0.90000004, y: 5.5}
+    pivot: {x: -0.90000004, y: 6.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2956,7 +2956,7 @@ ScriptedImporter:
     uvTransform: {x: 172, y: 86}
   - name: Sword Master Sprite Sheet 1_Frame_69
     originalName: 
-    pivot: {x: -0.90000004, y: 5.5}
+    pivot: {x: -0.90000004, y: 6.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2976,7 +2976,7 @@ ScriptedImporter:
     uvTransform: {x: 172, y: 96}
   - name: Sword Master Sprite Sheet 1_Frame_76
     originalName: 
-    pivot: {x: 0.27272728, y: 0.5714286}
+    pivot: {x: 0.27272728, y: 0.8571429}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2996,7 +2996,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 421}
   - name: Sword Master Sprite Sheet 1_Frame_77
     originalName: 
-    pivot: {x: 0.45454547, y: 0.5714286}
+    pivot: {x: 0.45454547, y: 0.8571429}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3016,7 +3016,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 436}
   - name: Sword Master Sprite Sheet 1_Frame_78
     originalName: 
-    pivot: {x: 0.36363637, y: 0.5714286}
+    pivot: {x: 0.36363637, y: 0.8571429}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3036,7 +3036,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 451}
   - name: Sword Master Sprite Sheet 1_Frame_79
     originalName: 
-    pivot: {x: 0.27272728, y: 0.5714286}
+    pivot: {x: 0.27272728, y: 0.8571429}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3056,7 +3056,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 466}
   - name: Sword Master Sprite Sheet 1_Frame_80
     originalName: 
-    pivot: {x: 0.27272728, y: 0.5714286}
+    pivot: {x: 0.27272728, y: 0.8571429}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3076,7 +3076,7 @@ ScriptedImporter:
     uvTransform: {x: 120, y: 481}
   - name: Sword Master Sprite Sheet 1_Frame_81
     originalName: 
-    pivot: {x: 0.27272728, y: 0.5714286}
+    pivot: {x: 0.27272728, y: 0.8571429}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -3571,7 +3571,7 @@ ScriptedImporter:
       frameIndex: 43
       cellRect:
         x: 52
-        y: 53
+        y: 51
         width: 23
         height: 8
       spriteId: 3b9b7e093ca9314438dc31217082c68e
@@ -3579,7 +3579,7 @@ ScriptedImporter:
       frameIndex: 44
       cellRect:
         x: 53
-        y: 53
+        y: 51
         width: 21
         height: 9
       spriteId: 5371eceda6da2e9468b55daa5899a145
@@ -3587,7 +3587,7 @@ ScriptedImporter:
       frameIndex: 45
       cellRect:
         x: 55
-        y: 55
+        y: 53
         width: 13
         height: 10
       spriteId: 31dc2d86d5d1a894ab8d86548a74d207
@@ -3595,7 +3595,7 @@ ScriptedImporter:
       frameIndex: 46
       cellRect:
         x: 53
-        y: 53
+        y: 51
         width: 12
         height: 13
       spriteId: 239fad3fd5c2afc4c90ca7b70daeb1c0
@@ -3603,7 +3603,7 @@ ScriptedImporter:
       frameIndex: 47
       cellRect:
         x: 53
-        y: 53
+        y: 51
         width: 10
         height: 9
       spriteId: c3233273c1932984a9abab50a2f4184f
@@ -3611,7 +3611,7 @@ ScriptedImporter:
       frameIndex: 48
       cellRect:
         x: 53
-        y: 53
+        y: 51
         width: 29
         height: 14
       spriteId: 168a96ffbf3037642867c1ffce6c4af9
@@ -3619,7 +3619,7 @@ ScriptedImporter:
       frameIndex: 49
       cellRect:
         x: 53
-        y: 53
+        y: 51
         width: 28
         height: 13
       spriteId: 5a0db5ecc7349f14b9255517bb0a93f1
@@ -3627,7 +3627,7 @@ ScriptedImporter:
       frameIndex: 50
       cellRect:
         x: 53
-        y: 53
+        y: 51
         width: 27
         height: 12
       spriteId: 0326478bc7b4e1b428d9326c12c60a64
@@ -3635,7 +3635,7 @@ ScriptedImporter:
       frameIndex: 51
       cellRect:
         x: 53
-        y: 53
+        y: 51
         width: 27
         height: 11
       spriteId: 78cd23bd8def95e48a7f513c38ce8168
@@ -3643,7 +3643,7 @@ ScriptedImporter:
       frameIndex: 52
       cellRect:
         x: 53
-        y: 53
+        y: 51
         width: 26
         height: 11
       spriteId: 6f9575de64c0a344aac1e17edb668f2c
@@ -3651,7 +3651,7 @@ ScriptedImporter:
       frameIndex: 53
       cellRect:
         x: 66
-        y: 62
+        y: 60
         width: 18
         height: 6
       spriteId: 4617b21cc0c6afb46a7e73240c68faad
@@ -3659,7 +3659,7 @@ ScriptedImporter:
       frameIndex: 61
       cellRect:
         x: 70
-        y: 62
+        y: 60
         width: 19
         height: 7
       spriteId: c84a3baa1e5db244fa4581c4dc1cc0fe
@@ -3667,7 +3667,7 @@ ScriptedImporter:
       frameIndex: 62
       cellRect:
         x: 69
-        y: 62
+        y: 60
         width: 19
         height: 7
       spriteId: 04dddf37d820aa54abf97d51188b353e
@@ -3675,7 +3675,7 @@ ScriptedImporter:
       frameIndex: 63
       cellRect:
         x: 68
-        y: 62
+        y: 60
         width: 17
         height: 6
       spriteId: a3bd15151434b8240b5fb316b7450ec3
@@ -3683,7 +3683,7 @@ ScriptedImporter:
       frameIndex: 64
       cellRect:
         x: 66
-        y: 62
+        y: 60
         width: 18
         height: 6
       spriteId: 3cb4cd79f6f61234c89ee6dcc5c6b74f
@@ -3691,7 +3691,7 @@ ScriptedImporter:
       frameIndex: 65
       cellRect:
         x: 53
-        y: 59
+        y: 57
         width: 16
         height: 17
       spriteId: 7ce3e9dcff53cbc4ea725cadf5f8f8b6
@@ -3699,7 +3699,7 @@ ScriptedImporter:
       frameIndex: 66
       cellRect:
         x: 75
-        y: 53
+        y: 51
         width: 11
         height: 2
       spriteId: dde7f6f187ca8054ca87370607eff070
@@ -3707,7 +3707,7 @@ ScriptedImporter:
       frameIndex: 70
       cellRect:
         x: 49
-        y: 58
+        y: 56
         width: 40
         height: 9
       spriteId: 3b9452c1e4313f8418e30da23f2bfd69
@@ -3715,7 +3715,7 @@ ScriptedImporter:
       frameIndex: 71
       cellRect:
         x: 49
-        y: 58
+        y: 56
         width: 41
         height: 9
       spriteId: a4b5bba2ae6c3e542b0f937a7f3d3360
@@ -3723,7 +3723,7 @@ ScriptedImporter:
       frameIndex: 72
       cellRect:
         x: 50
-        y: 59
+        y: 57
         width: 39
         height: 9
       spriteId: 396d7d4aa2b5c21439b38447366a0a62
@@ -3731,7 +3731,7 @@ ScriptedImporter:
       frameIndex: 73
       cellRect:
         x: 53
-        y: 53
+        y: 51
         width: 25
         height: 11
       spriteId: f9aab7b327d5d244da1481c541bd0dff
@@ -3739,7 +3739,7 @@ ScriptedImporter:
       frameIndex: 74
       cellRect:
         x: 54
-        y: 53
+        y: 51
         width: 21
         height: 8
       spriteId: c301facc476be5943babb45849dd889b
@@ -3747,7 +3747,7 @@ ScriptedImporter:
       frameIndex: 75
       cellRect:
         x: 54
-        y: 53
+        y: 51
         width: 21
         height: 9
       spriteId: 337abf9fc0a72e7499857612a3aa4a32
@@ -4235,7 +4235,7 @@ ScriptedImporter:
       frameIndex: 54
       cellRect:
         x: 48
-        y: 56
+        y: 54
         width: 13
         height: 6
       spriteId: 483793dec86751146bbff1deb3692a7f
@@ -4243,7 +4243,7 @@ ScriptedImporter:
       frameIndex: 55
       cellRect:
         x: 48
-        y: 55
+        y: 53
         width: 11
         height: 7
       spriteId: 5416064fc055f804691e308d0d0770de
@@ -4251,7 +4251,7 @@ ScriptedImporter:
       frameIndex: 56
       cellRect:
         x: 48
-        y: 56
+        y: 54
         width: 11
         height: 6
       spriteId: bc193d61f6b84834d9663ac0ca2cc481
@@ -4259,7 +4259,7 @@ ScriptedImporter:
       frameIndex: 57
       cellRect:
         x: 47
-        y: 57
+        y: 55
         width: 12
         height: 5
       spriteId: 793f21ee2d989514ba5ec7497de486be
@@ -4267,7 +4267,7 @@ ScriptedImporter:
       frameIndex: 58
       cellRect:
         x: 48
-        y: 60
+        y: 58
         width: 9
         height: 2
       spriteId: bb7e0ff87cb76954288b4030367d6180
@@ -4275,7 +4275,7 @@ ScriptedImporter:
       frameIndex: 59
       cellRect:
         x: 48
-        y: 58
+        y: 56
         width: 9
         height: 4
       spriteId: 8ed574bc8b180f447ba2f5c0c8175440
@@ -4283,7 +4283,7 @@ ScriptedImporter:
       frameIndex: 60
       cellRect:
         x: 48
-        y: 58
+        y: 56
         width: 9
         height: 4
       spriteId: f0381233686e6ea41a0208b49d1c8082
@@ -4291,7 +4291,7 @@ ScriptedImporter:
       frameIndex: 67
       cellRect:
         x: 73
-        y: 53
+        y: 51
         width: 10
         height: 2
       spriteId: 802bc15623d8f694b8e48378d9d4b730
@@ -4299,7 +4299,7 @@ ScriptedImporter:
       frameIndex: 68
       cellRect:
         x: 73
-        y: 53
+        y: 51
         width: 10
         height: 2
       spriteId: 9b15351cba5b57b46982e15a1fc3b994
@@ -4307,7 +4307,7 @@ ScriptedImporter:
       frameIndex: 69
       cellRect:
         x: 73
-        y: 53
+        y: 51
         width: 10
         height: 2
       spriteId: 38a032d4e942c0c488036b09ec8efc28
@@ -4315,7 +4315,7 @@ ScriptedImporter:
       frameIndex: 76
       cellRect:
         x: 61
-        y: 60
+        y: 58
         width: 11
         height: 7
       spriteId: e81dbe691c8f3dd4ba22d84187d183f5
@@ -4323,7 +4323,7 @@ ScriptedImporter:
       frameIndex: 77
       cellRect:
         x: 59
-        y: 60
+        y: 58
         width: 11
         height: 7
       spriteId: cf72167d7d2bf394cb7038ba63a7064f
@@ -4331,7 +4331,7 @@ ScriptedImporter:
       frameIndex: 78
       cellRect:
         x: 60
-        y: 60
+        y: 58
         width: 11
         height: 7
       spriteId: 283d2b4484dd68d48a3713959a4f583c
@@ -4339,7 +4339,7 @@ ScriptedImporter:
       frameIndex: 79
       cellRect:
         x: 61
-        y: 60
+        y: 58
         width: 11
         height: 7
       spriteId: 9f90ff1352d25b74ab8d9b8872a6692a
@@ -4347,7 +4347,7 @@ ScriptedImporter:
       frameIndex: 80
       cellRect:
         x: 61
-        y: 60
+        y: 58
         width: 11
         height: 7
       spriteId: 29d70fb737ac25b4781d4575503f5e03
@@ -4355,7 +4355,7 @@ ScriptedImporter:
       frameIndex: 81
       cellRect:
         x: 61
-        y: 60
+        y: 58
         width: 11
         height: 7
       spriteId: 491dc30dbe4198549a52f626749fe8d4

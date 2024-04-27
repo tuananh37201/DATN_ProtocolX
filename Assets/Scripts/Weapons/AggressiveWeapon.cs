@@ -37,6 +37,7 @@ public class AggressiveWeapon : Weapon
 
         foreach (IDamageable item in detectedDamageables.ToList())
         {
+            Debug.Log(details.damageAmount);
             item.Damage(details.damageAmount);
         }
 
