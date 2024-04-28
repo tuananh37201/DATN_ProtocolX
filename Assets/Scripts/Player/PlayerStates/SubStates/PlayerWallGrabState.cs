@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -41,7 +41,7 @@ public class PlayerWallGrabState : PlayerTouchingWallState
 
     public override void LogicUpdate()
     {
-        base.LogicUpdate();     
+        base.LogicUpdate();
 
         if (!isExitingState)
         {
@@ -55,15 +55,15 @@ public class PlayerWallGrabState : PlayerTouchingWallState
             {
                 stateMachine.ChangeState(player.WallSlideState);
             }
-        }       
+        }
     }
 
     private void HoldPosition()
     {
         player.transform.position = holdPosition;
 
-        core.Movement.SetVelocityX(0f);
-        core.Movement.SetVelocityY(0f);
+        Movement?.SetVelocityX(0f);
+        Movement?.SetVelocityY(0f);
     }
 
     public override void PhysicsUpdate()

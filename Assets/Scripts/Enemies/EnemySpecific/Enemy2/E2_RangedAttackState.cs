@@ -58,4 +58,4 @@ public class E2_RangedAttackState : RangedAttackState
         base.TriggerAttack();
     }
 }
-    
+

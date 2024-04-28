@@ -6,7 +6,7 @@ public class State
 {
     protected FiniteStateMachine stateMachine;
     protected Entity entity;
-    protected Core core;    
+    protected Core core;
 
     public float startTime { get; protected set; }
 

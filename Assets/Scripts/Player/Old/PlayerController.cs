@@ -137,7 +137,7 @@ public class PlayerController : MonoBehaviour
 
     private void CheckKnockback()
     {
-        if(Time.time >= knockbackStartTime + knockbackDuration && knockback)
+        if (Time.time >= knockbackStartTime + knockbackDuration && knockback)
         {
             knockback = false;
             rb.velocity = new Vector2(0.0f, rb.velocity.y);
@@ -146,7 +146,7 @@ public class PlayerController : MonoBehaviour
 
     private void CheckLedgeClimb()
     {
-        if(ledgeDetected && !canClimbLedge)
+        if (ledgeDetected && !canClimbLedge)
         {
             canClimbLedge = true;
 
@@ -190,7 +190,7 @@ public class PlayerController : MonoBehaviour
         isTouchingWall = Physics2D.Raycast(wallCheck.position, transform.right, wallCheckDistance, whatIsGround);
         isTouchingLedge = Physics2D.Raycast(ledgeCheck.position, transform.right, wallCheckDistance, whatIsGround);
 
-        if(isTouchingWall && !isTouchingLedge && !ledgeDetected)
+        if (isTouchingWall && !isTouchingLedge && !ledgeDetected)
         {
             ledgeDetected = true;
             ledgePosBot = wallCheck.position;
@@ -199,7 +199,7 @@ public class PlayerController : MonoBehaviour
 
     private void CheckIfCanJump()
     {
-        if(isGrounded && rb.velocity.y <= 0.01f)
+        if (isGrounded && rb.velocity.y <= 0.01f)
         {
             amountOfJumpsLeft = amountOfJumps;
         }
@@ -210,7 +210,7 @@ public class PlayerController : MonoBehaviour
             canWallJump = true;
         }
 
-        if(amountOfJumpsLeft <= 0)
+        if (amountOfJumpsLeft <= 0)
         {
             canNormalJump = false;
         }
@@ -218,21 +218,21 @@ public class PlayerController : MonoBehaviour
         {
             canNormalJump = true;
         }
-      
+
     }
 
     private void CheckMovementDirection()
     {
-        if(isFacingRight && movementInputDirection < 0)
+        if (isFacingRight && movementInputDirection < 0)
         {
             Flip();
         }
-        else if(!isFacingRight && movementInputDirection > 0)
+        else if (!isFacingRight && movementInputDirection > 0)
         {
             Flip();
         }
 
-        if(Mathf.Abs(rb.velocity.x) >= 0.01f)
+        if (Mathf.Abs(rb.velocity.x) >= 0.01f)
         {
             isWalking = true;
         }
@@ -256,7 +256,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetButtonDown("Jump"))
         {
-            if(isGrounded || (amountOfJumpsLeft > 0 && !isTouchingWall))
+            if (isGrounded || (amountOfJumpsLeft > 0 && !isTouchingWall))
             {
                 NormalJump();
             }
@@ -267,9 +267,9 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        if(Input.GetButtonDown("Horizontal") && isTouchingWall)
+        if (Input.GetButtonDown("Horizontal") && isTouchingWall)
         {
-            if(!isGrounded && movementInputDirection != facingDirection)
+            if (!isGrounded && movementInputDirection != facingDirection)
             {
                 canMove = false;
                 canFlip = false;
@@ -282,7 +282,7 @@ public class PlayerController : MonoBehaviour
         {
             turnTimer -= Time.deltaTime;
 
-            if(turnTimer <= 0)
+            if (turnTimer <= 0)
             {
                 canMove = true;
                 canFlip = true;
@@ -297,8 +297,8 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetButtonDown("Dash"))
         {
-            if(Time.time >= (lastDash + dashCoolDown))
-            AttemptToDash();
+            if (Time.time >= (lastDash + dashCoolDown))
+                AttemptToDash();
         }
 
     }
@@ -322,7 +322,7 @@ public class PlayerController : MonoBehaviour
     {
         if (isDashing)
         {
-            if(dashTimeLeft > 0)
+            if (dashTimeLeft > 0)
             {
                 canMove = false;
                 canFlip = false;
@@ -336,22 +336,22 @@ public class PlayerController : MonoBehaviour
                 }
             }
 
-            if(dashTimeLeft <= 0 || isTouchingWall)
+            if (dashTimeLeft <= 0 || isTouchingWall)
             {
                 isDashing = false;
                 canMove = true;
                 canFlip = true;
             }
-            
+
         }
     }
 
     private void CheckJump()
     {
-        if(jumpTimer > 0)
+        if (jumpTimer > 0)
         {
             //WallJump
-            if(!isGrounded && isTouchingWall && movementInputDirection != 0 && movementInputDirection != facingDirection)
+            if (!isGrounded && isTouchingWall && movementInputDirection != 0 && movementInputDirection != facingDirection)
             {
                 WallJump();
             }
@@ -360,19 +360,20 @@ public class PlayerController : MonoBehaviour
                 NormalJump();
             }
         }
-       
-        if(isAttemptingToJump)
+
+        if (isAttemptingToJump)
         {
             jumpTimer -= Time.deltaTime;
         }
 
-        if(wallJumpTimer > 0)
+        if (wallJumpTimer > 0)
         {
-            if(hasWallJumped && movementInputDirection == -lastWallJumpDirection)
+            if (hasWallJumped && movementInputDirection == -lastWallJumpDirection)
             {
                 rb.velocity = new Vector2(rb.velocity.x, 0.0f);
                 hasWallJumped = false;
-            }else if(wallJumpTimer <= 0)
+            }
+            else if (wallJumpTimer <= 0)
             {
                 hasWallJumped = false;
             }
@@ -425,15 +426,15 @@ public class PlayerController : MonoBehaviour
         {
             rb.velocity = new Vector2(rb.velocity.x * airDragMultiplier, rb.velocity.y);
         }
-        else if(canMove && !knockback)
+        else if (canMove && !knockback)
         {
             rb.velocity = new Vector2(movementSpeed * movementInputDirection, rb.velocity.y);
         }
-        
+
 
         if (isWallSliding)
         {
-            if(rb.velocity.y < -wallSlideSpeed)
+            if (rb.velocity.y < -wallSlideSpeed)
             {
                 rb.velocity = new Vector2(rb.velocity.x, -wallSlideSpeed);
             }

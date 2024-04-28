@@ -14,7 +14,7 @@ public class PlayerCombatController : MonoBehaviour
     //private Transform attack1HitBoxPos;
     //[SerializeField]
     //private LayerMask whatIsDamageable;
-    
+
     //private bool gotInput, isAttacking, isFirstAttack;
 
     //private float lastInputTime = Mathf.NegativeInfinity;

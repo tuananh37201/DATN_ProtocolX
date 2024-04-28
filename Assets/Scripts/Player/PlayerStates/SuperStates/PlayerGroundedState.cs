@@ -9,6 +9,12 @@ public class PlayerGroundedState : PlayerState
 
     protected bool isTouchingCeiling;
 
+    private Movement movement;
+    protected Movement Movement { get => movement ?? core.GetCoreComponent(ref movement); }
+
+    private CollisionSenses collisionSenses;
+    private CollisionSenses CollisionSenses { get => collisionSenses ?? core.GetCoreComponent(ref collisionSenses); }
+
     private bool JumpInput;
     private bool grabInput;
     private bool isGrounded;
@@ -24,10 +30,13 @@ public class PlayerGroundedState : PlayerState
     {
         base.DoChecks();
 
-        isGrounded = core.CollisionSenses.Ground;
-        isTouchingWall = core.CollisionSenses.WallFront;
-        isTouchingLedge = core.CollisionSenses.LedgeHorizontal;
-        isTouchingCeiling = core.CollisionSenses.Ceiling;
+        if (CollisionSenses)
+        {
+            isGrounded = CollisionSenses.Ground;
+            isTouchingWall = CollisionSenses.WallFront;
+            isTouchingLedge = CollisionSenses.LedgeHorizontal;
+            isTouchingCeiling = CollisionSenses.Ceiling;
+        }
     }
 
     public override void Enter()
@@ -64,11 +73,13 @@ public class PlayerGroundedState : PlayerState
         else if (JumpInput && player.JumpState.CanJump())
         {
             stateMachine.ChangeState(player.JumpState);
-        }else if (!isGrounded)
+        }
+        else if (!isGrounded)
         {
             player.InAirState.StartCoyoteTime();
             stateMachine.ChangeState(player.InAirState);
-        }else if(isTouchingWall && grabInput && isTouchingLedge)
+        }
+        else if (isTouchingWall && grabInput && isTouchingLedge)
         {
             stateMachine.ChangeState(player.WallGrabState);
         }

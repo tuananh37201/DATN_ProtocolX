@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -30,7 +30,7 @@ public class E1_PlayerDetectedState : PlayerDetectedState
             stateMachine.ChangeState(enemy.meleeAttackState);
         }
         else if (performLongRangeAction)
-        {            
+        {
             stateMachine.ChangeState(enemy.chargeState);
         }
         else if (!isPlayerInMaxAgroRange)
@@ -39,10 +39,10 @@ public class E1_PlayerDetectedState : PlayerDetectedState
         }
         else if (!isDetectingLedge)
         {
-            core.Movement.Flip();
+            Movement?.Flip();
             stateMachine.ChangeState(enemy.moveState);
         }
-        
+
     }
 
     public override void PhysicsUpdate()

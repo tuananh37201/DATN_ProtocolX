@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -27,9 +27,9 @@ public class PlayerMoveState : PlayerGroundedState
     {
         base.LogicUpdate();
 
-        core.Movement.CheckIfShouldFlip(xInput);
+        Movement?.CheckIfShouldFlip(xInput);
 
-        core.Movement.SetVelocityX(playerData.movementVelocity * xInput);
+        Movement?.SetVelocityX(playerData.movementVelocity * xInput);
 
         if (!isExitingState)
         {
@@ -37,11 +37,10 @@ public class PlayerMoveState : PlayerGroundedState
             {
                 stateMachine.ChangeState(player.IdleState);
             }
-            // else if (yInput == -1)
-            // {
-            //     stateMachine.ChangeState(player.CrouchMoveState);
+            // else if (yInput == -1) {
+            // 	stateMachine.ChangeState(player.CrouchMoveState);
             // }
-        }        
+        }
     }
 
     public override void PhysicsUpdate()

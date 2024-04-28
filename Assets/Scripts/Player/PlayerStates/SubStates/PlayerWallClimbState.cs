@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -14,14 +14,12 @@ public class PlayerWallClimbState : PlayerTouchingWallState
 
         if (!isExitingState)
         {
-            core.Movement.SetVelocityY(playerData.wallClimbVelocity);
+            Movement?.SetVelocityY(playerData.wallClimbVelocity);
 
             if (yInput != 1)
             {
                 stateMachine.ChangeState(player.WallGrabState);
             }
         }
-
-        
     }
 }
