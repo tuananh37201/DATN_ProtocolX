@@ -35,7 +35,7 @@ ScriptedImporter:
     spriteMeshType: 1
     alignment: 0
     spritePivot: {x: 0.5, y: 0.5}
-    spritePixelsToUnits: 100
+    spritePixelsToUnits: 16
     spriteBorder: {x: 0, y: 0, z: 0, w: 0}
     spriteGenerateFallbackPhysicsShape: 0
     generateCubemap: 6
@@ -75,7 +75,7 @@ ScriptedImporter:
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
-    defaultPivotAlignment: 7
+    defaultPivotAlignment: 0
     customPivotPosition: {x: 0.5, y: 0.5}
     spritePadding: 0
     generateModelPrefab: 1
@@ -87,7 +87,7 @@ ScriptedImporter:
     importHiddenLayers: 0
     layerImportMode: 1
     defaultPivotSpace: 0
-    defaultPivotAlignment: 7
+    defaultPivotAlignment: 0
     customPivotPosition: {x: 0.5, y: 0.5}
     spritePadding: 0
     generateModelPrefab: 1
@@ -95,7 +95,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638451804981816689
+  platformSettingsDirtyTick: 638500939984829319
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -121,7 +121,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: Dark FX_Frame_0
     originalName: 
-    pivot: {x: 0.61538446, y: -3.631579}
+    pivot: {x: 0.61538446, y: 1.4210526}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -141,7 +141,7 @@ ScriptedImporter:
     uvTransform: {x: 381, y: 512}
   - name: Dark FX_Frame_1
     originalName: 
-    pivot: {x: 0.61538446, y: -3.631579}
+    pivot: {x: 0.61538446, y: 1.4210526}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -161,7 +161,7 @@ ScriptedImporter:
     uvTransform: {x: 383, y: 378}
   - name: Dark FX_Frame_2
     originalName: 
-    pivot: {x: 0.33333322, y: -1.4146341}
+    pivot: {x: 0.33333322, y: 0.92682916}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -181,7 +181,7 @@ ScriptedImporter:
     uvTransform: {x: 381, y: 463}
   - name: Dark FX_Frame_3
     originalName: 
-    pivot: {x: 0.68292683, y: -0.51948047}
+    pivot: {x: 0.68292683, y: 0.72727275}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -201,7 +201,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1856}
   - name: Dark FX_Frame_4
     originalName: 
-    pivot: {x: 0.6590909, y: -0.46913582}
+    pivot: {x: 0.6590909, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -221,7 +221,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1225}
   - name: Dark FX_Frame_5
     originalName: 
-    pivot: {x: 0.6595745, y: -0.4457831}
+    pivot: {x: 0.6595745, y: 0.7108434}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -241,7 +241,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1484}
   - name: Dark FX_Frame_6
     originalName: 
-    pivot: {x: 0.6530612, y: -0.46913582}
+    pivot: {x: 0.6530612, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -261,7 +261,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 952}
   - name: Dark FX_Frame_7
     originalName: 
-    pivot: {x: 0.64705884, y: -0.46913582}
+    pivot: {x: 0.64705884, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -281,7 +281,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 498}
   - name: Dark FX_Frame_8
     originalName: 
-    pivot: {x: 0.64705884, y: -0.4457831}
+    pivot: {x: 0.64705884, y: 0.7108434}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -301,7 +301,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 71}
   - name: Dark FX_Frame_9
     originalName: 
-    pivot: {x: 0.64705884, y: -0.4457831}
+    pivot: {x: 0.64705884, y: 0.7108434}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -321,7 +321,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 162}
   - name: Dark FX_Frame_10
     originalName: 
-    pivot: {x: 0.78947365, y: -0.42352945}
+    pivot: {x: 0.78947365, y: 0.7058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -341,7 +341,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1670}
   - name: Dark FX_Frame_11
     originalName: 
-    pivot: {x: 3.2499998, y: -8.222222}
+    pivot: {x: 3.2499998, y: 2.4444447}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -361,7 +361,7 @@ ScriptedImporter:
     uvTransform: {x: 374, y: 933}
   - name: Dark FX_Frame_12
     originalName: 
-    pivot: {x: 0.9565218, y: -1.5128205}
+    pivot: {x: 0.9565218, y: 0.948718}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -381,7 +381,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1781}
   - name: Dark FX_Frame_13
     originalName: 
-    pivot: {x: 0.54545456, y: -1.4146341}
+    pivot: {x: 0.54545456, y: 0.92682916}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -401,7 +401,7 @@ ScriptedImporter:
     uvTransform: {x: 444, y: 1348}
   - name: Dark FX_Frame_14
     originalName: 
-    pivot: {x: 0.5161291, y: -1.3255814}
+    pivot: {x: 0.5161291, y: 0.9069768}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -421,7 +421,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1642}
   - name: Dark FX_Frame_15
     originalName: 
-    pivot: {x: 0.4054054, y: -1.3255814}
+    pivot: {x: 0.4054054, y: 0.9069768}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -441,7 +441,7 @@ ScriptedImporter:
     uvTransform: {x: 444, y: 1246}
   - name: Dark FX_Frame_16
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -461,7 +461,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 4}
   - name: Dark FX_Frame_17
     originalName: 
-    pivot: {x: 0.3863636, y: -0.46913582}
+    pivot: {x: 0.3863636, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -481,7 +481,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1314}
   - name: Dark FX_Frame_18
     originalName: 
-    pivot: {x: 0.40425536, y: -0.4457831}
+    pivot: {x: 0.40425536, y: 0.7108434}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -501,7 +501,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1575}
   - name: Dark FX_Frame_19
     originalName: 
-    pivot: {x: 0.40816322, y: -0.46913582}
+    pivot: {x: 0.40816322, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -521,7 +521,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1041}
   - name: Dark FX_Frame_20
     originalName: 
-    pivot: {x: 0.4117647, y: -0.46913582}
+    pivot: {x: 0.4117647, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -541,7 +541,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 587}
   - name: Dark FX_Frame_21
     originalName: 
-    pivot: {x: 0.4117647, y: -0.4457831}
+    pivot: {x: 0.4117647, y: 0.7108434}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -561,7 +561,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 253}
   - name: Dark FX_Frame_22
     originalName: 
-    pivot: {x: 0.4117647, y: -0.4457831}
+    pivot: {x: 0.4117647, y: 0.7108434}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -581,7 +581,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 344}
   - name: Dark FX_Frame_23
     originalName: 
-    pivot: {x: 0.4736842, y: -0.42352945}
+    pivot: {x: 0.4736842, y: 0.7058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -601,7 +601,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1763}
   - name: Dark FX_Frame_24
     originalName: 
-    pivot: {x: 3.2499998, y: -8.222222}
+    pivot: {x: 3.2499998, y: 2.4444447}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -621,7 +621,7 @@ ScriptedImporter:
     uvTransform: {x: 381, y: 291}
   - name: Dark FX_Frame_25
     originalName: 
-    pivot: {x: 0.9565218, y: -1.5128205}
+    pivot: {x: 0.9565218, y: 0.948718}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -641,7 +641,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1828}
   - name: Dark FX_Frame_26
     originalName: 
-    pivot: {x: 0.54545456, y: -1.4146341}
+    pivot: {x: 0.54545456, y: 0.92682916}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -661,7 +661,7 @@ ScriptedImporter:
     uvTransform: {x: 444, y: 1397}
   - name: Dark FX_Frame_27
     originalName: 
-    pivot: {x: 0.5161291, y: -1.3255814}
+    pivot: {x: 0.5161291, y: 0.9069768}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -681,7 +681,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1693}
   - name: Dark FX_Frame_28
     originalName: 
-    pivot: {x: 0.45454547, y: -1.3255814}
+    pivot: {x: 0.45454547, y: 0.9069768}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -701,7 +701,7 @@ ScriptedImporter:
     uvTransform: {x: 444, y: 1297}
   - name: Dark FX_Frame_29
     originalName: 
-    pivot: {x: -1.6000009, y: -6.636364}
+    pivot: {x: -1.6000009, y: 2.090909}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -721,7 +721,7 @@ ScriptedImporter:
     uvTransform: {x: 390, y: 933}
   - name: Dark FX_Frame_30
     originalName: 
-    pivot: {x: -1.3999993, y: -4.733333}
+    pivot: {x: -1.3999993, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -741,7 +741,7 @@ ScriptedImporter:
     uvTransform: {x: 386, y: 785}
   - name: Dark FX_Frame_31
     originalName: 
-    pivot: {x: -0.8749995, y: -4.117647}
+    pivot: {x: -0.8749995, y: 1.5294117}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -761,7 +761,7 @@ ScriptedImporter:
     uvTransform: {x: 383, y: 405}
   - name: Dark FX_Frame_32
     originalName: 
-    pivot: {x: -2.750001, y: -4.733333}
+    pivot: {x: -2.750001, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -781,7 +781,7 @@ ScriptedImporter:
     uvTransform: {x: 392, y: 1941}
   - name: Dark FX_Frame_33
     originalName: 
-    pivot: {x: -0.12500024, y: -1.7428572}
+    pivot: {x: -0.12500024, y: 1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -801,7 +801,7 @@ ScriptedImporter:
     uvTransform: {x: 466, y: 1152}
   - name: Dark FX_Frame_34
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -821,7 +821,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 204}
   - name: Dark FX_Frame_35
     originalName: 
-    pivot: {x: 0.043478344, y: -1.1702127}
+    pivot: {x: 0.043478344, y: 0.8723404}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -841,7 +841,7 @@ ScriptedImporter:
     uvTransform: {x: 259, y: 1995}
   - name: Dark FX_Frame_36
     originalName: 
-    pivot: {x: 0.07999992, y: -0.92727274}
+    pivot: {x: 0.07999992, y: 0.8181818}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -861,7 +861,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1579}
   - name: Dark FX_Frame_37
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -881,7 +881,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 404}
   - name: Dark FX_Frame_38
     originalName: 
-    pivot: {x: 0.37974682, y: -0.8305085}
+    pivot: {x: 0.37974682, y: 0.7966101}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -901,7 +901,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 4}
   - name: Dark FX_Frame_39
     originalName: 
-    pivot: {x: 0.3809524, y: -0.78688526}
+    pivot: {x: 0.3809524, y: 0.78688526}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -921,7 +921,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 810}
   - name: Dark FX_Frame_40
     originalName: 
-    pivot: {x: 0.38372093, y: -0.78688526}
+    pivot: {x: 0.38372093, y: 0.78688526}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -941,7 +941,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 741}
   - name: Dark FX_Frame_41
     originalName: 
-    pivot: {x: 0.38636366, y: -1.5128205}
+    pivot: {x: 0.38636366, y: 0.948718}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -961,7 +961,7 @@ ScriptedImporter:
     uvTransform: {x: 102, y: 2004}
   - name: Dark FX_Frame_42
     originalName: 
-    pivot: {x: 0.3888889, y: -1.5128205}
+    pivot: {x: 0.3888889, y: 0.948718}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -981,7 +981,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 2004}
   - name: Dark FX_Frame_43
     originalName: 
-    pivot: {x: -11.500002, y: -6.636364}
+    pivot: {x: -11.500002, y: 2.090909}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1001,7 +1001,7 @@ ScriptedImporter:
     uvTransform: {x: 394, y: 331}
   - name: Dark FX_Frame_45
     originalName: 
-    pivot: {x: 7.6, y: -6.636364}
+    pivot: {x: 7.6, y: 2.090909}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1021,7 +1021,7 @@ ScriptedImporter:
     uvTransform: {x: 381, y: 331}
   - name: Dark FX_Frame_47
     originalName: 
-    pivot: {x: 6.5, y: -5.5384617}
+    pivot: {x: 6.5, y: 1.8461539}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1041,7 +1041,7 @@ ScriptedImporter:
     uvTransform: {x: 386, y: 764}
   - name: Dark FX_Frame_48
     originalName: 
-    pivot: {x: 2.6428573, y: -0.8695652}
+    pivot: {x: 2.6428573, y: 1.2173914}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1061,7 +1061,7 @@ ScriptedImporter:
     uvTransform: {x: 374, y: 879}
   - name: Dark FX_Frame_49
     originalName: 
-    pivot: {x: 0.89189184, y: -0.5517242}
+    pivot: {x: 0.89189184, y: 1.1034483}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1081,7 +1081,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1941}
   - name: Dark FX_Frame_50
     originalName: 
-    pivot: {x: 0.4558824, y: -0.7592593}
+    pivot: {x: 0.4558824, y: 1.0185184}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1101,7 +1101,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 872}
   - name: Dark FX_Frame_51
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1121,7 +1121,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 604}
   - name: Dark FX_Frame_52
     originalName: 
-    pivot: {x: 0.30645165, y: -0.9230769}
+    pivot: {x: 0.30645165, y: 0.9230769}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1141,7 +1141,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1045}
   - name: Dark FX_Frame_53
     originalName: 
-    pivot: {x: 0.3802817, y: -1.0408163}
+    pivot: {x: 0.3802817, y: 0.9183674}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1161,7 +1161,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 934}
   - name: Dark FX_Frame_54
     originalName: 
-    pivot: {x: 0.375, y: -0.9230769}
+    pivot: {x: 0.375, y: 0.9230769}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1181,7 +1181,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 812}
   - name: Dark FX_Frame_55
     originalName: 
-    pivot: {x: 0.369863, y: -0.9056604}
+    pivot: {x: 0.369863, y: 0.9056604}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1201,7 +1201,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 751}
   - name: Dark FX_Frame_56
     originalName: 
-    pivot: {x: 0.36486486, y: -1.0869565}
+    pivot: {x: 0.36486486, y: 1}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1221,7 +1221,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 991}
   - name: Dark FX_Frame_57
     originalName: 
-    pivot: {x: -0.5652172, y: -0.78688526}
+    pivot: {x: -0.5652172, y: 0.78688526}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1241,7 +1241,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1510}
   - name: Dark FX_Frame_58
     originalName: 
-    pivot: {x: 0.50000006, y: -2.04}
+    pivot: {x: 0.50000006, y: 1.8}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1261,7 +1261,7 @@ ScriptedImporter:
     uvTransform: {x: 444, y: 1446}
   - name: Dark FX_Frame_60
     originalName: 
-    pivot: {x: 0.50000006, y: -2.04}
+    pivot: {x: 0.50000006, y: 1.8}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1281,7 +1281,7 @@ ScriptedImporter:
     uvTransform: {x: 444, y: 1479}
   - name: Dark FX_Frame_63
     originalName: 
-    pivot: {x: 2.0000005, y: -4.733333}
+    pivot: {x: 2.0000005, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1301,7 +1301,7 @@ ScriptedImporter:
     uvTransform: {x: 384, y: 810}
   - name: Dark FX_Frame_64
     originalName: 
-    pivot: {x: 2.7499995, y: -4.733333}
+    pivot: {x: 2.7499995, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1321,7 +1321,7 @@ ScriptedImporter:
     uvTransform: {x: 392, y: 1964}
   - name: Dark FX_Frame_65
     originalName: 
-    pivot: {x: 2.6000004, y: -4.733333}
+    pivot: {x: 2.6000004, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1341,7 +1341,7 @@ ScriptedImporter:
     uvTransform: {x: 384, y: 833}
   - name: Dark FX_Frame_66
     originalName: 
-    pivot: {x: 2.6000004, y: -4.733333}
+    pivot: {x: 2.6000004, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1361,7 +1361,7 @@ ScriptedImporter:
     uvTransform: {x: 384, y: 856}
   - name: Dark FX_Frame_68
     originalName: 
-    pivot: {x: 2.166667, y: -4.733333}
+    pivot: {x: 2.166667, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1381,7 +1381,7 @@ ScriptedImporter:
     uvTransform: {x: 474, y: 1068}
   - name: Dark FX_Frame_69
     originalName: 
-    pivot: {x: 3, y: -5.5384617}
+    pivot: {x: 3, y: 1.8461539}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1401,7 +1401,7 @@ ScriptedImporter:
     uvTransform: {x: 381, y: 350}
   - name: Dark FX_Frame_70
     originalName: 
-    pivot: {x: 1.6666667, y: -4.733333}
+    pivot: {x: 1.6666667, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1421,7 +1421,7 @@ ScriptedImporter:
     uvTransform: {x: 383, y: 430}
   - name: Dark FX_Frame_71
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1441,7 +1441,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 804}
   - name: Dark FX_Frame_72
     originalName: 
-    pivot: {x: 0.67391306, y: -0.19387756}
+    pivot: {x: 0.67391306, y: 0.78571427}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1461,7 +1461,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1170}
   - name: Dark FX_Frame_73
     originalName: 
-    pivot: {x: 0.6595745, y: -0.17999999}
+    pivot: {x: 0.6595745, y: 0.78}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1481,7 +1481,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1062}
   - name: Dark FX_Frame_74
     originalName: 
-    pivot: {x: 0.6595745, y: -0.16666666}
+    pivot: {x: 0.6595745, y: 0.77450985}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1501,7 +1501,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 952}
   - name: Dark FX_Frame_75
     originalName: 
-    pivot: {x: 0.6595745, y: -0.15384616}
+    pivot: {x: 0.6595745, y: 0.7692308}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1521,7 +1521,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1930}
   - name: Dark FX_Frame_76
     originalName: 
-    pivot: {x: 0.6595745, y: -0.14150944}
+    pivot: {x: 0.6595745, y: 0.764151}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1541,7 +1541,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1816}
   - name: Dark FX_Frame_77
     originalName: 
-    pivot: {x: 0.73809534, y: -0.40229887}
+    pivot: {x: 0.73809534, y: 0.7011494}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1561,7 +1561,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1948}
   - name: Dark FX_Frame_78
     originalName: 
-    pivot: {x: 0.73809534, y: -0.1308411}
+    pivot: {x: 0.73809534, y: 0.76635516}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1581,7 +1581,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1276}
   - name: Dark FX_Frame_79
     originalName: 
-    pivot: {x: 0.8846153, y: -0.877193}
+    pivot: {x: 0.8846153, y: 0.80701756}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1601,7 +1601,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1380}
   - name: Dark FX_Frame_80
     originalName: 
-    pivot: {x: 0.79487187, y: -0.13829787}
+    pivot: {x: 0.79487187, y: 0.8829787}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1621,7 +1621,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1846}
   - name: Dark FX_Frame_81
     originalName: 
-    pivot: {x: 0.78125006, y: -0.8305085}
+    pivot: {x: 0.78125006, y: 0.7966101}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1641,7 +1641,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1246}
   - name: Dark FX_Frame_82
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1661,7 +1661,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1004}
   - name: Dark FX_Frame_83
     originalName: 
-    pivot: {x: 0.65753424, y: -0.29292932}
+    pivot: {x: 0.65753424, y: 0.67676765}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1681,7 +1681,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 941}
   - name: Dark FX_Frame_84
     originalName: 
-    pivot: {x: 0.6578948, y: -0.29292932}
+    pivot: {x: 0.6578948, y: 0.67676765}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1701,7 +1701,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 727}
   - name: Dark FX_Frame_85
     originalName: 
-    pivot: {x: 0.6538462, y: -0.27722773}
+    pivot: {x: 0.6538462, y: 0.67326736}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1721,7 +1721,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 509}
   - name: Dark FX_Frame_86
     originalName: 
-    pivot: {x: 0.65, y: -0.27722773}
+    pivot: {x: 0.65, y: 0.67326736}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1741,7 +1741,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 291}
   - name: Dark FX_Frame_87
     originalName: 
-    pivot: {x: 0.64615387, y: -0.30927834}
+    pivot: {x: 0.64615387, y: 0.68041235}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1761,7 +1761,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1155}
   - name: Dark FX_Frame_89
     originalName: 
-    pivot: {x: 2.0000005, y: -4.733333}
+    pivot: {x: 2.0000005, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1781,7 +1781,7 @@ ScriptedImporter:
     uvTransform: {x: 472, y: 676}
   - name: Dark FX_Frame_90
     originalName: 
-    pivot: {x: 2.7499995, y: -4.733333}
+    pivot: {x: 2.7499995, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1801,7 +1801,7 @@ ScriptedImporter:
     uvTransform: {x: 381, y: 308}
   - name: Dark FX_Frame_91
     originalName: 
-    pivot: {x: 2.6000004, y: -4.733333}
+    pivot: {x: 2.6000004, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1821,7 +1821,7 @@ ScriptedImporter:
     uvTransform: {x: 472, y: 699}
   - name: Dark FX_Frame_92
     originalName: 
-    pivot: {x: 2.6000004, y: -4.733333}
+    pivot: {x: 2.6000004, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1841,7 +1841,7 @@ ScriptedImporter:
     uvTransform: {x: 472, y: 722}
   - name: Dark FX_Frame_94
     originalName: 
-    pivot: {x: 2.166667, y: -4.733333}
+    pivot: {x: 2.166667, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1861,7 +1861,7 @@ ScriptedImporter:
     uvTransform: {x: 386, y: 741}
   - name: Dark FX_Frame_95
     originalName: 
-    pivot: {x: 3, y: -5.5384617}
+    pivot: {x: 3, y: 1.8461539}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1881,7 +1881,7 @@ ScriptedImporter:
     uvTransform: {x: 478, y: 498}
   - name: Dark FX_Frame_96
     originalName: 
-    pivot: {x: 1.6666667, y: -4.733333}
+    pivot: {x: 1.6666667, y: 1.6666669}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1901,7 +1901,7 @@ ScriptedImporter:
     uvTransform: {x: 474, y: 1045}
   - name: Dark FX_Frame_97
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1921,7 +1921,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1204}
   - name: Dark FX_Frame_98
     originalName: 
-    pivot: {x: 0.6590909, y: -0.51948047}
+    pivot: {x: 0.6590909, y: 0.72727275}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1941,7 +1941,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1585}
   - name: Dark FX_Frame_99
     originalName: 
-    pivot: {x: 0.6521739, y: -0.49367085}
+    pivot: {x: 0.6521739, y: 0.72151893}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1961,7 +1961,7 @@ ScriptedImporter:
     uvTransform: {x: 346, y: 204}
   - name: Dark FX_Frame_100
     originalName: 
-    pivot: {x: 0.6595745, y: -0.46913582}
+    pivot: {x: 0.6595745, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -1981,7 +1981,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1757}
   - name: Dark FX_Frame_101
     originalName: 
-    pivot: {x: 0.6595745, y: -0.4457831}
+    pivot: {x: 0.6595745, y: 0.7108434}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2001,7 +2001,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1666}
   - name: Dark FX_Frame_102
     originalName: 
-    pivot: {x: 0.6595745, y: -0.42352945}
+    pivot: {x: 0.6595745, y: 0.7058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2021,7 +2021,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 1391}
   - name: Dark FX_Frame_103
     originalName: 
-    pivot: {x: 0.73809534, y: -0.40229887}
+    pivot: {x: 0.73809534, y: 0.7011494}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2041,7 +2041,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1130}
   - name: Dark FX_Frame_104
     originalName: 
-    pivot: {x: 0.7317073, y: -0.42352945}
+    pivot: {x: 0.7317073, y: 0.7058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2061,7 +2061,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1403}
   - name: Dark FX_Frame_105
     originalName: 
-    pivot: {x: 0.8846153, y: -0.877193}
+    pivot: {x: 0.8846153, y: 0.80701756}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2081,7 +2081,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1445}
   - name: Dark FX_Frame_106
     originalName: 
-    pivot: {x: 0.88000005, y: -0.877193}
+    pivot: {x: 0.88000005, y: 0.80701756}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2101,7 +2101,7 @@ ScriptedImporter:
     uvTransform: {x: 259, y: 1930}
   - name: Dark FX_Frame_107
     originalName: 
-    pivot: {x: 0.78125006, y: -0.8305085}
+    pivot: {x: 0.78125006, y: 0.7966101}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2121,7 +2121,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1313}
   - name: Dark FX_Frame_108
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2141,7 +2141,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1404}
   - name: Dark FX_Frame_109
     originalName: 
-    pivot: {x: 0.65753424, y: -0.29292932}
+    pivot: {x: 0.65753424, y: 0.67676765}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2161,7 +2161,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1048}
   - name: Dark FX_Frame_110
     originalName: 
-    pivot: {x: 0.6578948, y: -0.29292932}
+    pivot: {x: 0.6578948, y: 0.67676765}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2181,7 +2181,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 834}
   - name: Dark FX_Frame_111
     originalName: 
-    pivot: {x: 0.6538462, y: -0.27722773}
+    pivot: {x: 0.6538462, y: 0.67326736}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2201,7 +2201,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 618}
   - name: Dark FX_Frame_112
     originalName: 
-    pivot: {x: 0.65, y: -0.27722773}
+    pivot: {x: 0.65, y: 0.67326736}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2221,7 +2221,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 400}
   - name: Dark FX_Frame_113
     originalName: 
-    pivot: {x: 0.64615387, y: -0.30927834}
+    pivot: {x: 0.64615387, y: 0.68041235}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2241,7 +2241,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1260}
   - name: Dark FX_Frame_115
     originalName: 
-    pivot: {x: 18.333332, y: -2.4074073}
+    pivot: {x: 18.333332, y: 1.1481482}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2261,7 +2261,7 @@ ScriptedImporter:
     uvTransform: {x: 391, y: 2007}
   - name: Dark FX_Frame_116
     originalName: 
-    pivot: {x: 2.5, y: -2.6399999}
+    pivot: {x: 2.5, y: 1.1999999}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2281,7 +2281,7 @@ ScriptedImporter:
     uvTransform: {x: 259, y: 1893}
   - name: Dark FX_Frame_117
     originalName: 
-    pivot: {x: 1.5625001, y: -2.2068968}
+    pivot: {x: 1.5625001, y: 1.1034483}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2301,7 +2301,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1744}
   - name: Dark FX_Frame_118
     originalName: 
-    pivot: {x: 1.6333332, y: -2.4074073}
+    pivot: {x: 1.6333332, y: 1.1481482}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2321,7 +2321,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1875}
   - name: Dark FX_Frame_119
     originalName: 
-    pivot: {x: 1.361111, y: -2.4074073}
+    pivot: {x: 1.361111, y: 1.1481482}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2341,7 +2341,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 2007}
   - name: Dark FX_Frame_120
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2361,7 +2361,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1604}
   - name: Dark FX_Frame_121
     originalName: 
-    pivot: {x: 1.0151515, y: -0.40229887}
+    pivot: {x: 1.0151515, y: 0.7011494}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2381,7 +2381,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1446}
   - name: Dark FX_Frame_122
     originalName: 
-    pivot: {x: 1.0149255, y: -0.42352945}
+    pivot: {x: 1.0149255, y: 0.7058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2401,7 +2401,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1541}
   - name: Dark FX_Frame_123
     originalName: 
-    pivot: {x: 1.0149255, y: -0.42352945}
+    pivot: {x: 1.0149255, y: 0.7058824}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2421,7 +2421,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1634}
   - name: Dark FX_Frame_124
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2441,7 +2441,7 @@ ScriptedImporter:
     uvTransform: {x: 4, y: 1804}
   - name: Dark FX_Frame_125
     originalName: 
-    pivot: {x: 0.51492536, y: -0.49367085}
+    pivot: {x: 0.51492536, y: 0.72151893}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2461,7 +2461,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 204}
   - name: Dark FX_Frame_126
     originalName: 
-    pivot: {x: 0.29787236, y: -0.877193}
+    pivot: {x: 0.29787236, y: 0.80701756}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2481,7 +2481,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 676}
   - name: Dark FX_Frame_127
     originalName: 
-    pivot: {x: 0.3020833, y: -0.877193}
+    pivot: {x: 0.3020833, y: 0.80701756}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2501,7 +2501,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 611}
   - name: Dark FX_Frame_128
     originalName: 
-    pivot: {x: 0.30612245, y: -0.877193}
+    pivot: {x: 0.30612245, y: 0.80701756}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2521,7 +2521,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 546}
   - name: Dark FX_Frame_129
     originalName: 
-    pivot: {x: 0.39473683, y: -0.92727274}
+    pivot: {x: 0.39473683, y: 0.8181818}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2541,7 +2541,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 435}
   - name: Dark FX_Frame_130
     originalName: 
-    pivot: {x: 0.40789476, y: -1.5128205}
+    pivot: {x: 0.40789476, y: 0.948718}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2561,7 +2561,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1105}
   - name: Dark FX_Frame_131
     originalName: 
-    pivot: {x: 0.12962967, y: -1.5128205}
+    pivot: {x: 0.12962967, y: 0.948718}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2581,7 +2581,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1152}
   - name: Dark FX_Frame_132
     originalName: 
-    pivot: {x: 0.11111111, y: -1.5128205}
+    pivot: {x: 0.11111111, y: 0.948718}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2601,7 +2601,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 1199}
   - name: Dark FX_Frame_133
     originalName: 
-    pivot: {x: 0.09259256, y: -1.8787879}
+    pivot: {x: 0.09259256, y: 1.0303031}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2621,7 +2621,7 @@ ScriptedImporter:
     uvTransform: {x: 491, y: 4}
   - name: Dark FX_Frame_134
     originalName: 
-    pivot: {x: -1.1333336, y: -2.4074073}
+    pivot: {x: -1.1333336, y: 1.1481482}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2641,7 +2641,7 @@ ScriptedImporter:
     uvTransform: {x: 466, y: 1199}
   - name: Dark FX_Frame_140
     originalName: 
-    pivot: {x: 0.85714287, y: -0.46913582}
+    pivot: {x: 0.85714287, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2661,7 +2661,7 @@ ScriptedImporter:
     uvTransform: {x: 463, y: 498}
   - name: Dark FX_Frame_141
     originalName: 
-    pivot: {x: 0.5, y: 0}
+    pivot: {x: 0.5, y: 0.5}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2681,7 +2681,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 4}
   - name: Dark FX_Frame_142
     originalName: 
-    pivot: {x: -0.35999998, y: -0.6376812}
+    pivot: {x: -0.35999998, y: 0.7536231}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2701,7 +2701,7 @@ ScriptedImporter:
     uvTransform: {x: 259, y: 1816}
   - name: Dark FX_Frame_143
     originalName: 
-    pivot: {x: 0.4333333, y: -0.67164177}
+    pivot: {x: 0.4333333, y: 0.76119405}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2721,7 +2721,7 @@ ScriptedImporter:
     uvTransform: {x: 404, y: 676}
   - name: Dark FX_Frame_144
     originalName: 
-    pivot: {x: 0.527027, y: -0.7076923}
+    pivot: {x: 0.527027, y: 0.76923084}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2741,7 +2741,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 879}
   - name: Dark FX_Frame_145
     originalName: 
-    pivot: {x: 0.55696195, y: -0.5753425}
+    pivot: {x: 0.55696195, y: 0.739726}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2761,7 +2761,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1365}
   - name: Dark FX_Frame_146
     originalName: 
-    pivot: {x: 0.5555556, y: -0.5466667}
+    pivot: {x: 0.5555556, y: 0.7333333}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2781,7 +2781,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 463}
   - name: Dark FX_Frame_147
     originalName: 
-    pivot: {x: 0.55421686, y: -0.51948047}
+    pivot: {x: 0.55421686, y: 0.72727275}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2801,7 +2801,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 378}
   - name: Dark FX_Frame_148
     originalName: 
-    pivot: {x: 0.56790125, y: -0.49367085}
+    pivot: {x: 0.56790125, y: 0.72151893}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2821,7 +2821,7 @@ ScriptedImporter:
     uvTransform: {x: 292, y: 291}
   - name: Dark FX_Frame_149
     originalName: 
-    pivot: {x: 0.69696975, y: -0.46913582}
+    pivot: {x: 0.69696975, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2841,7 +2841,7 @@ ScriptedImporter:
     uvTransform: {x: 204, y: 1727}
   - name: Dark FX_Frame_150
     originalName: 
-    pivot: {x: 1.0714287, y: -0.46913582}
+    pivot: {x: 1.0714287, y: 0.7160493}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2861,7 +2861,7 @@ ScriptedImporter:
     uvTransform: {x: 347, y: 1496}
   - name: Dark FX_Frame_151
     originalName: 
-    pivot: {x: 2.499999, y: -0.4457831}
+    pivot: {x: 2.499999, y: 0.7108434}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
