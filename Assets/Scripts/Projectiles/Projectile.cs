@@ -1,11 +1,10 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
     //private AttackDetails attackDetails;
-
     private float speed;
     private float travelDistance;
     private float xStartPos;
@@ -62,7 +61,6 @@ public class Projectile : MonoBehaviour
 
             if (damageHit)
             {
-                //damageHit.transform.SendMessage("Damage", attackDetails);
                 Destroy(gameObject);
             }
 
@@ -79,14 +77,14 @@ public class Projectile : MonoBehaviour
                 isGravityOn = true;
                 rb.gravityScale = gravity;
             }
-        }
+        }        
     }
 
     public void FireProjectile(float speed, float travelDistance, float damage)
     {
         this.speed = speed;
         this.travelDistance = travelDistance;
-        //attackDetails.damageAmount = damage;
+
     }
 
     private void OnDrawGizmos()

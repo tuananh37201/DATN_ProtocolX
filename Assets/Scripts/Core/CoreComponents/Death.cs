@@ -1,21 +1,17 @@
+using System;
 using UnityEngine;
 
 public class Death : CoreComponent
 {
     [SerializeField] private GameObject[] deathParticles;
 
-    private Stats Stats { get => stats ?? core.GetCoreComponent(ref stats); }
-    private Stats stats;
+    private ParticleManager ParticleManager =>
+        particleManager ? particleManager : core.GetCoreComponent(ref particleManager);
 
-    private ParticleManager ParticleManager { get => particleManager ?? core.GetCoreComponent(ref particleManager); }
     private ParticleManager particleManager;
 
-    public override void Init(Core core)
-    {
-        base.Init(core);
-
-        Stats.HealthZero += Die;
-    }
+    private Stats Stats => stats ? stats : core.GetCoreComponent(ref stats);
+    private Stats stats;
 
     public void Die()
     {
@@ -29,11 +25,11 @@ public class Death : CoreComponent
 
     private void OnEnable()
     {
-        Stats.HealthZero += Die;
+        Stats.OnHealthZero += Die;
     }
 
     private void OnDisable()
     {
-        Stats.HealthZero -= Die;
+        Stats.OnHealthZero -= Die;
     }
 }

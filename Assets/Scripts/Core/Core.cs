@@ -9,16 +9,6 @@ public class Core : MonoBehaviour
 
     private void Awake()
     {
-        var comps = GetComponentsInChildren<CoreComponent>();
-
-        foreach (var component in comps)
-        {
-            AddComponent(component);
-        }
-
-        foreach (var component in CoreComponents){
-            component.Init(this);
-        }
     }
 
     public void LogicUpdate()
@@ -41,20 +31,15 @@ public class Core : MonoBehaviour
     {
         var comp = CoreComponents.OfType<T>().FirstOrDefault();
 
-        if(comp)
-        {
+        if (comp)
             return comp;
-        }
 
         comp = GetComponentInChildren<T>();
 
-        if (comp == null)
-        {
+        if (comp)
             return comp;
-        }
 
-        Debug.LogError($"{typeof(T)} not found on {transform.parent.name}");
-
+        Debug.LogWarning($"{typeof(T)} not found on {transform.parent.name}");
         return null;
     }
 
@@ -63,5 +48,4 @@ public class Core : MonoBehaviour
         value = GetCoreComponent<T>();
         return value;
     }
-
 }

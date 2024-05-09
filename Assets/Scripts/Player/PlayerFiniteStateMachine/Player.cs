@@ -77,7 +77,7 @@ public class Player : MonoBehaviour
         Inventory = GetComponent<PlayerInventory>();
 
         PrimaryAttackState.SetWeapon(Inventory.weapons[(int)CombatInputs.primary]);
-        //SecondaryAttackState.SetWeapon(Inventory.weapons[(int)CombatInputs.primary]);
+        
         StateMachine.Initialize(IdleState);
     }
 
