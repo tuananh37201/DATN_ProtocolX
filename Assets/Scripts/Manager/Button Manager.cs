@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MainMenu : MonoBehaviour
+public class ButtonManager : MonoBehaviour
 {
     public void StartButton()
     {
@@ -12,13 +12,14 @@ public class MainMenu : MonoBehaviour
     {
 
     }
-    public void CreditsButton()
-    {
-
-    }
 
     public void QuitButton()
     {
         Application.Quit();
     }
+
+    public void BackToMenuButton()
+    {
+        SceneManager.LoadScene(0);
+    } 
 }
