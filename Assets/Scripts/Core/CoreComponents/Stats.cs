@@ -1,4 +1,5 @@
 ﻿using System;
+using TMPro;
 using UnityEngine;
 
 public class Stats : CoreComponent
@@ -7,6 +8,8 @@ public class Stats : CoreComponent
 
     [SerializeField] private float maxHealth;
     public float currentHealth;
+
+    public TMP_Text healthText;
 
     protected override void Awake()
     {
@@ -18,6 +21,10 @@ public class Stats : CoreComponent
     public void DecreaseHealth(float amount)
     {
         currentHealth -= amount;
+        
+        int dashes = Mathf.FloorToInt(currentHealth / (maxHealth / 10));
+        string healthString = new string('-', dashes);
+        healthText.text = healthString;
 
         if (currentHealth <= 0)
         {
