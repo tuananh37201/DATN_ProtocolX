@@ -22,9 +22,13 @@ public class Stats : CoreComponent
     {
         currentHealth -= amount;
         
-        int dashes = Mathf.FloorToInt(currentHealth / (maxHealth / 10));
-        string healthString = new string('-', dashes);
-        healthText.text = healthString;
+        if(healthText != null)
+        {
+            int dashes = Mathf.FloorToInt(currentHealth / (maxHealth / 10));
+            string healthString = new string('-', dashes);
+            healthText.text = healthString;
+        }
+        
 
         if (currentHealth <= 0)
         {

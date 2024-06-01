@@ -181,7 +181,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29d25cd1d0955e043b370c95e5136b63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
+  maxHealth: 50
+  currentHealth: 0
+  healthText: {fileID: 0}
 --- !u!1 &4094199944517965140
 GameObject:
   m_ObjectHideFlags: 0
@@ -393,7 +395,7 @@ Transform:
   - {fileID: 4516803156277294605}
   - {fileID: 7634786816849973318}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &4785561877114514777
 SpriteRenderer:
@@ -747,7 +749,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damageParticles: {fileID: 6240072112886026631, guid: d3ad3f1375e0d114ca19695641fceb61,
     type: 3}
-  maxKnockbackTime: 0.2
+  maxKnockbackTime: 0.4
 --- !u!61 &2648528125842790531
 BoxCollider2D:
   m_ObjectHideFlags: 0

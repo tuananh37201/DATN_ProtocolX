@@ -281,7 +281,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damageParticles: {fileID: 6240072112886026631, guid: d3ad3f1375e0d114ca19695641fceb61,
     type: 3}
-  maxKnockbackTime: 0.2
+  maxKnockbackTime: 0.1
 --- !u!61 &8493312726558295789
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -508,7 +508,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29d25cd1d0955e043b370c95e5136b63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
+  maxHealth: 150
+  currentHealth: 0
+  healthText: {fileID: 0}
 --- !u!1 &7636897763388549242
 GameObject:
   m_ObjectHideFlags: 0
@@ -548,7 +550,7 @@ Transform:
   - {fileID: 3216803390266300970}
   - {fileID: 8500690275877839852}
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &7642096374650909109
 SpriteRenderer:

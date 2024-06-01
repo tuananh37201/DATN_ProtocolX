@@ -435,7 +435,7 @@ Transform:
   - {fileID: 1379116852100175452}
   - {fileID: 2201927250225961787}
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &853895711752468859
 Animator:
@@ -745,7 +745,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29d25cd1d0955e043b370c95e5136b63, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
+  maxHealth: 200
+  currentHealth: 0
+  healthText: {fileID: 0}
 --- !u!1 &8597098091784797086
 GameObject:
   m_ObjectHideFlags: 0
