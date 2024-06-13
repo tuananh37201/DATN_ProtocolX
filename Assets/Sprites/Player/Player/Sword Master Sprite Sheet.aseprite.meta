@@ -230,7 +230,7 @@ ScriptedImporter:
     addSortingGroup: 1
     addShadowCasters: 0
   importFileNodeState: 1
-  platformSettingsDirtyTick: 638439546907792273
+  platformSettingsDirtyTick: 638535334530121945
   textureAssetName: 
   singleSpriteImportData:
   - name: 
@@ -2316,7 +2316,7 @@ ScriptedImporter:
     uvTransform: {x: 58, y: 360}
   - name: Sword Master Sprite Sheet_Frame_131
     originalName: 
-    pivot: {x: 0.5555556, y: 0.36363637}
+    pivot: {x: 0.22222222, y: 0.36363637}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2336,7 +2336,7 @@ ScriptedImporter:
     uvTransform: {x: 496, y: 329}
   - name: Sword Master Sprite Sheet_Frame_132
     originalName: 
-    pivot: {x: 0.5555556, y: 0.36363637}
+    pivot: {x: 0.44444445, y: 0.36363637}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -2356,7 +2356,7 @@ ScriptedImporter:
     uvTransform: {x: 93, y: 360}
   - name: Sword Master Sprite Sheet_Frame_133
     originalName: 
-    pivot: {x: 0.54545456, y: 0.36363637}
+    pivot: {x: 0.45454547, y: 0.36363637}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -4130,7 +4130,7 @@ ScriptedImporter:
     - name: Sword Master Sprite Sheet_Frame_131
       frameIndex: 131
       cellRect:
-        x: 59
+        x: 62
         y: 56
         width: 9
         height: 22
@@ -4138,7 +4138,7 @@ ScriptedImporter:
     - name: Sword Master Sprite Sheet_Frame_132
       frameIndex: 132
       cellRect:
-        x: 59
+        x: 60
         y: 56
         width: 9
         height: 22
@@ -4146,7 +4146,7 @@ ScriptedImporter:
     - name: Sword Master Sprite Sheet_Frame_133
       frameIndex: 133
       cellRect:
-        x: 58
+        x: 59
         y: 56
         width: 11
         height: 22
@@ -4559,6 +4559,18 @@ ScriptedImporter:
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
   - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
     overridden: 0
     ignorePlatformSupport: 0
     maxTextureSize: 2048
